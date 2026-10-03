@@ -1,0 +1,15 @@
+{
+  "name": "ebdaey-og-worker",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy --env production",
+    "tail": "wrangler tail --env production"
+  },
+  "devDependencies": {
+    "@cloudflare/workers-types": "^4.20241106.0",
+    "wrangler": "^3.86.0",
+    "typescript": "^5.5.0"
+  }
+}

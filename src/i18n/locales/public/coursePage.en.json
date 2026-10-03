@@ -1,0 +1,226 @@
+{
+  "description": {
+    "title": "Product details",
+    "titleByType": {
+      "course": "Course details",
+      "product": "Product details",
+      "consultation": "Session details"
+    },
+    "subtitle": "Everything you need to know"
+  },
+  "faqs": {
+    "title": "Frequently asked questions"
+  },
+  "gifts": {
+    "badge": "Free gifts",
+    "title": "Enroll now and get these gifts for free",
+    "free": "Free 🎁",
+    "viewDefault": "View gift"
+  },
+  "header": {
+    "about": "About",
+    "features": "Features",
+    "curriculum": "Curriculum",
+    "faqs": "FAQ"
+  },
+  "hero": {
+    "lecture": "lecture",
+    "hour": "hour",
+    "minute": "min",
+    "and": "and"
+  },
+  "reviews": {
+    "title": "Reviews",
+    "empty": "No reviews yet",
+    "positive": "{{value}}% positive reviews",
+    "time": {
+      "moments": "just now",
+      "minute": "1 minute ago",
+      "twoMinutes": "2 minutes ago",
+      "minutes": "{{n}} minutes ago",
+      "hour": "1 hour ago",
+      "twoHours": "2 hours ago",
+      "hours": "{{n}} hours ago",
+      "day": "1 day ago",
+      "twoDays": "2 days ago",
+      "days": "{{n}} days ago",
+      "month": "1 month ago",
+      "twoMonths": "2 months ago",
+      "months": "{{n}} months ago",
+      "year": "1 year ago",
+      "twoYears": "2 years ago",
+      "years": "{{n}} years ago"
+    }
+  },
+  "features": {
+    "certificate": "Certificate of completion",
+    "lifetimeUpdates": "Lifetime updates",
+    "community": "Private community",
+    "individualSupport": "1-on-1 support"
+  },
+  "purchaseCard": {
+    "free": "Free",
+    "currency": "EGP",
+    "freeGift": "Free",
+    "giftNote": "🎁 You received this course as a gift",
+    "watchNow": "Start watching",
+    "continuePayment": "Continue payment",
+    "buyFree": "Enroll for free",
+    "buyPaid": "Get the course now",
+    "buyPaidShort": "Get the course",
+    "securePayment": "100% secure payment",
+    "joinCommunity": "Join the community",
+    "communityHint": "Connect with students and the instructor",
+    "discount": "{{value}}% off"
+  },
+  "curriculum": {
+    "title": "Course content",
+    "lesson": "lesson",
+    "lessons": "lessons",
+    "lessonWord": "lesson",
+    "lectureLabel": "lecture",
+    "previewBadge": "Preview",
+    "comingSoon": "Coming soon",
+    "comingSoonHint": "Course content will be added soon",
+    "contentTypes": {
+      "video": "Video",
+      "pdf": "PDF",
+      "audio": "Audio",
+      "image": "Image",
+      "text": "Text",
+      "embed": "Embed",
+      "download": "Downloadable file",
+      "quiz": "Quiz",
+      "epub": "E-book",
+      "office": "Office document",
+      "zoom": "Live session",
+      "featured_product": "Featured product",
+      "upsell": "Special offer",
+      "default": "Content"
+    },
+    "shortHour": "h",
+    "shortMinute": "m"
+  },
+  "checkout": {
+    "and": "and",
+    "secure": "Secure payment",
+    "notFound": "Course not found",
+    "steps": {
+      "info": "Details",
+      "infoHint": "Student information",
+      "payment": "Payment",
+      "paymentHint": "Complete purchase securely"
+    },
+    "priceLabel": "Price",
+    "free": "Free",
+    "discount": "Discount",
+    "total": "Total",
+    "giftBadge": "🎁 Free courses with your purchase",
+    "freeGift": "Free",
+    "encrypted": "All transactions are encrypted and secure",
+    "contact": {
+      "title": "Contact details",
+      "subtitle": "Enter your details to complete the purchase",
+      "firstName": "First name",
+      "lastName": "Last name",
+      "email": "Email",
+      "phone": "Phone number",
+      "next": "Continue",
+      "back": "Back"
+    },
+    "toast": {
+      "fillRequired": "Please fill in all required fields",
+      "invalidEmail": "Please enter a valid email",
+      "emailTypoTitle": "Email error",
+      "invalidPhone": "Please enter a valid phone number",
+      "invalidWallet": "Enter a valid wallet number (01xxxxxxxxx)",
+      "couponApplied": "Coupon applied successfully! 🎉",
+      "couponInvalid": "Invalid coupon",
+      "couponError": "Error validating coupon",
+      "alreadyEnrolledTitle": "You already have an account with this email and are enrolled in this course",
+      "alreadyEnrolledDesc": "Please sign in to access the course from the student dashboard",
+      "alreadyEnrolledShort": "You are already enrolled in this course",
+      "genericError": "Something went wrong",
+      "retry": "Please try again",
+      "error": "Error"
+    },
+    "emailTypo": "\"{{typo}}\" is a typo — did you mean \"{{correct}}\"?",
+    "payment": {
+      "title": "Payment method",
+      "subtitle": "Choose your preferred method",
+      "cards": "Cards",
+      "wallet": "E-wallet",
+      "applePay": "Apple Pay",
+      "walletLabel": "Wallet number (Vodafone Cash / Orange / Etisalat)",
+      "walletHint": "Enter your phone number to pay with your mobile wallet, then press the \"Pay\" button",
+      "iframeTitle": "Complete payment",
+      "close": "Close"
+    },
+    "coupon": {
+      "prompt": "Have a coupon code?",
+      "apply": "Apply",
+      "placeholder": "Enter coupon code",
+      "applied": "Discount applied successfully",
+      "discountLabel": "Discount"
+    },
+    "bump": {
+      "addLabel": "Add to your order!"
+    },
+    "summary": {
+      "title": "Order summary",
+      "total": "Total"
+    },
+    "pay": "Pay {{price}}",
+    "continue": "Continue",
+    "editInfo": "Back to edit details",
+    "password": {
+      "email": "Email",
+      "password": "Password",
+      "passwordPlaceholder": "Password",
+      "confirm": "Confirm password",
+      "confirmPlaceholder": "Confirm password",
+      "editEmail": "Edit email",
+      "toggle": "Show/hide password",
+      "mismatch": "Passwords do not match",
+      "submit": "Continue",
+      "existingAccount": "This email already has an account with a password. Enter your existing password to continue, or reset it.",
+      "resetLink": "Send password reset link",
+      "resetSent": "A password reset link has been sent to your email.",
+      "signInFailed": "Your account was created but automatic sign-in failed. Please sign in manually.",
+      "setupFailed": "Could not set the password. Please try again.",
+      "unknownError": "Something went wrong. Please try again.",
+      "missingPurchase": "We couldn't identify your purchase. Try reopening the payment confirmation link.",
+      "invalidPassword": "Incorrect password. Please try again.",
+      "existingPassword": "Existing password",
+      "signInSubmit": "Sign in"
+    },
+    "result": {
+      "loadingTitle": "Verifying payment...",
+      "loadingSubtitle": "Please wait while we verify your payment status",
+      "failedTitle": "Payment failed",
+      "failedSubtitle": "The payment did not go through. Please try again.",
+      "retry": "Try again",
+      "registeredTitle": "You're registered! 🎉",
+      "signInSubtitle": "Sign in with your account password to access {{name}}",
+      "createPassword": "Create a password for your account to access {{name}}",
+      "defaultCourse": "the course",
+      "accountCreatedTitle": "Your account was created! 🎉",
+      "paidTitle": "Payment successful! 🎉",
+      "startWatching": "You can now start watching {{name}}",
+      "enrolled": "You've been enrolled in {{name}}.",
+      "dashboard": "Dashboard",
+      "start": "Start watching",
+      "secureBadge": "Secure 256-bit Encryption"
+    },
+    "upsell": {
+      "badge": "One-time special offer!",
+      "save": "Save {{percent}}%",
+      "freeExclaim": "Free!",
+      "acceptPaid": "Yes, I want it for just {{price}} EGP!",
+      "acceptFree": "Yes, I want it for free!",
+      "skip": "No thanks, continue without the offer",
+      "acceptedToast": "Offer accepted! 🎉",
+      "studentNotFound": "Error: student not found"
+    }
+  }
+}

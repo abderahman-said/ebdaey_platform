@@ -1,0 +1,226 @@
+{
+  "description": {
+    "title": "تفاصيل المنتج",
+    "titleByType": {
+      "course": "تفاصيل الكورس",
+      "product": "تفاصيل المنتج",
+      "consultation": "تفاصيل الجلسة"
+    },
+    "subtitle": "كل ما تحتاج معرفته"
+  },
+  "faqs": {
+    "title": "الأسئلة المتكررة"
+  },
+  "gifts": {
+    "badge": "هدايا مجانية",
+    "title": "اشترك الآن واحصل على هذه الهدايا مجاناً",
+    "free": "مجاناً 🎁",
+    "viewDefault": "عرض الهدية"
+  },
+  "header": {
+    "about": "الوصف",
+    "features": "المزايا",
+    "curriculum": "المنهج",
+    "faqs": "الأسئلة الشائعة"
+  },
+  "hero": {
+    "lecture": "محاضرة",
+    "hour": "ساعة",
+    "minute": "دقيقة",
+    "and": "و"
+  },
+  "reviews": {
+    "title": "التقييمات",
+    "empty": "لا توجد تقييمات بعد",
+    "positive": "{{value}}% تقييمات ايجابية",
+    "time": {
+      "moments": "منذ لحظات",
+      "minute": "منذ دقيقة",
+      "twoMinutes": "منذ دقيقتين",
+      "minutes": "منذ {{n}} دقائق",
+      "hour": "منذ ساعة",
+      "twoHours": "منذ ساعتين",
+      "hours": "منذ {{n}} ساعات",
+      "day": "منذ يوم",
+      "twoDays": "منذ يومين",
+      "days": "منذ {{n}} أيام",
+      "month": "منذ شهر",
+      "twoMonths": "منذ شهرين",
+      "months": "منذ {{n}} أشهر",
+      "year": "منذ سنة",
+      "twoYears": "منذ سنتين",
+      "years": "منذ {{n}} سنوات"
+    }
+  },
+  "features": {
+    "certificate": "شهادة إتمام",
+    "lifetimeUpdates": "تحديثات دائمة",
+    "community": "مجتمع خاص",
+    "individualSupport": "متابعة فردية"
+  },
+  "purchaseCard": {
+    "free": "مجاني",
+    "currency": "ج.م",
+    "freeGift": "مجاناً",
+    "giftNote": "🎁 حصلت على هذا الكورس كهدية",
+    "watchNow": "ابدأ المشاهدة",
+    "continuePayment": "متابعة الدفع",
+    "buyFree": "سجل مجاناً",
+    "buyPaid": "أحصل على الكورس الآن",
+    "buyPaidShort": "احصل على الكورس",
+    "securePayment": "دفع آمن ١٠٠٪",
+    "joinCommunity": "انضم لمجتمع الدورة",
+    "communityHint": "تواصل مع الطلاب والمدرب",
+    "discount": "خصم {{value}}%"
+  },
+  "curriculum": {
+    "title": "محتوى الدورة",
+    "lesson": "درس",
+    "lessons": "دروس",
+    "lessonWord": "درس",
+    "lectureLabel": "محاضرة",
+    "previewBadge": "معاينة",
+    "comingSoon": "قريباً",
+    "comingSoonHint": "سيتم إضافة محتوى الدورة قريباً",
+    "contentTypes": {
+      "video": "فيديو",
+      "pdf": "ملف PDF",
+      "audio": "ملف صوتي",
+      "image": "صورة",
+      "text": "مقال نصي",
+      "embed": "محتوى مضمّن",
+      "download": "ملف للتحميل",
+      "quiz": "اختبار",
+      "epub": "كتاب إلكتروني",
+      "office": "مستند أوفيس",
+      "zoom": "جلسة مباشرة",
+      "featured_product": "منتج مميز",
+      "upsell": "عرض إضافي",
+      "default": "محتوى"
+    },
+    "shortHour": "س",
+    "shortMinute": "د"
+  },
+  "checkout": {
+    "and": "و",
+    "secure": "دفع آمن",
+    "notFound": "لم يتم العثور على الدورة",
+    "steps": {
+      "info": "البيانات",
+      "infoHint": "معلومات الطالب",
+      "payment": "الدفع",
+      "paymentHint": "إتمام الشراء بأمان"
+    },
+    "priceLabel": "السعر",
+    "free": "مجاني",
+    "discount": "الخصم",
+    "total": "الإجمالي",
+    "giftBadge": "🎁 كورسات مجانية مع الشراء",
+    "freeGift": "مجاناً",
+    "encrypted": "جميع المعاملات مشفرة وآمنة",
+    "contact": {
+      "title": "بيانات التواصل",
+      "subtitle": "أدخل بياناتك لإتمام عملية الشراء",
+      "firstName": "الاسم الأول",
+      "lastName": "الاسم الأخير",
+      "email": "البريد الالكتروني",
+      "phone": "رقم الهاتف",
+      "next": "استمرار",
+      "back": "السابق"
+    },
+    "toast": {
+      "fillRequired": "يرجى ملء جميع الحقول المطلوبة",
+      "invalidEmail": "يرجى إدخال بريد إلكتروني صحيح",
+      "emailTypoTitle": "خطأ في البريد الإلكتروني",
+      "invalidPhone": "يرجى إدخال رقم هاتف صحيح",
+      "invalidWallet": "أدخل رقم محفظة صحيح (01xxxxxxxxx)",
+      "couponApplied": "تم تطبيق الكوبون بنجاح! 🎉",
+      "couponInvalid": "كوبون غير صالح",
+      "couponError": "خطأ في التحقق من الكوبون",
+      "alreadyEnrolledTitle": "لديك حساب بهذا الإيميل والدورة مسجلة عندك بالفعل",
+      "alreadyEnrolledDesc": "من فضلك سجّل الدخول للوصول إلى الدورة من لوحة الطالب",
+      "alreadyEnrolledShort": "أنت مسجل بالفعل في هذه الدورة",
+      "genericError": "حدث خطأ",
+      "retry": "يرجى المحاولة مرة أخرى",
+      "error": "خطأ"
+    },
+    "emailTypo": "\"{{typo}}\" خطأ، يجب تصحيحها إلى \"{{correct}}\"",
+    "payment": {
+      "title": "طريقة الدفع",
+      "subtitle": "اختر الطريقة المفضلة لديك",
+      "cards": "بطاقات الدفع",
+      "wallet": "محفظة إلكترونية",
+      "applePay": "Apple Pay",
+      "walletLabel": "رقم المحفظة",
+      "walletHint": "أدخل رقم هاتفك لتتمكن من الدفع بواسطة محفظة إلكترونية",
+      "iframeTitle": "إتمام الدفع",
+      "close": "إغلاق"
+    },
+    "coupon": {
+      "prompt": "لديك كود خصم؟",
+      "apply": "تطبيق",
+      "placeholder": "أدخل كود الخصم",
+      "applied": "تم تطبيق الخصم بنجاح",
+      "discountLabel": "خصم"
+    },
+    "bump": {
+      "addLabel": "أضف لطلبك!"
+    },
+    "summary": {
+      "title": "ملخص الطلب",
+      "total": "الإجمالي"
+    },
+    "pay": "ادفع {{price}}",
+    "continue": "متابعة",
+    "editInfo": "العودة لتعديل البيانات",
+    "password": {
+      "email": "البريد الإلكتروني",
+      "password": "كلمة المرور",
+      "passwordPlaceholder": "كلمة المرور",
+      "confirm": "تأكيد كلمة المرور",
+      "confirmPlaceholder": "تأكيد كلمة المرور",
+      "editEmail": "تعديل البريد الإلكتروني",
+      "toggle": "إظهار/إخفاء كلمة المرور",
+      "mismatch": "كلمتا المرور غير متطابقتين",
+      "submit": "إستمرار",
+      "existingAccount": "هذا البريد لديه حساب بكلمة مرور بالفعل. أدخل كلمة المرور الحالية للمتابعة، أو أعد تعيينها.",
+      "resetLink": "إرسال رابط إعادة تعيين كلمة المرور",
+      "resetSent": "تم إرسال رابط إعادة تعيين كلمة المرور إلى بريدك الإلكتروني.",
+      "signInFailed": "تم إنشاء الحساب لكن تعذّر تسجيل الدخول تلقائياً. جرّب تسجيل الدخول يدوياً.",
+      "setupFailed": "تعذّر تعيين كلمة المرور. يرجى المحاولة مرة أخرى.",
+      "unknownError": "حدث خطأ غير متوقع. يرجى المحاولة مرة أخرى.",
+      "missingPurchase": "تعذّر التعرف على عملية الشراء. حاول إعادة فتح رابط تأكيد الدفع.",
+      "invalidPassword": "كلمة المرور غير صحيحة. حاول مرة أخرى.",
+      "existingPassword": "كلمة المرور الحالية",
+      "signInSubmit": "تسجيل الدخول"
+    },
+    "result": {
+      "loadingTitle": "جاري التحقق من الدفع...",
+      "loadingSubtitle": "يرجى الانتظار بينما نتحقق من حالة الدفع",
+      "failedTitle": "فشل الدفع",
+      "failedSubtitle": "لم تتم عملية الدفع. يرجى المحاولة مرة أخرى.",
+      "retry": "حاول مرة أخرى",
+      "registeredTitle": "تم تسجيلك بنجاح! 🎉",
+      "signInSubtitle": "سجّل الدخول بكلمة المرور الخاصة بحسابك للوصول إلى {{name}}",
+      "createPassword": "أنشئ كلمة مرور لحسابك للوصول إلى {{name}}",
+      "defaultCourse": "الدورة",
+      "accountCreatedTitle": "تم إنشاء حسابك بنجاح! 🎉",
+      "paidTitle": "تم الدفع بنجاح! 🎉",
+      "startWatching": "يمكنك الآن البدء في مشاهدة {{name}}",
+      "enrolled": "تم تسجيلك في {{name}} بنجاح.",
+      "dashboard": "لوحة التحكم",
+      "start": "ابدأ المشاهدة",
+      "secureBadge": "تشفير آمن بتقنية 256-بت"
+    },
+    "upsell": {
+      "badge": "عرض خاص لمرة واحدة فقط!",
+      "save": "وفر {{percent}}%",
+      "freeExclaim": "مجاناً!",
+      "acceptPaid": "نعم، أريد الحصول عليها بـ {{price}} ج.م فقط!",
+      "acceptFree": "نعم، أريد الحصول عليها مجاناً!",
+      "skip": "لا شكراً، تابع بدون العرض",
+      "acceptedToast": "تم قبول العرض بنجاح! 🎉",
+      "studentNotFound": "خطأ: لم يتم العثور على بيانات الطالب"
+    }
+  }
+}

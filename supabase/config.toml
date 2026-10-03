@@ -1,0 +1,51 @@
+project_id = "hnrcibzgoziqvtsiepws"
+
+[functions]
+  [functions.auth-email-hook]
+    verify_jwt = false
+  [functions.handle-email-events]
+    verify_jwt = false
+  [functions.preview-transactional-email]
+    verify_jwt = false
+  [functions.kashier-create-session]
+    verify_jwt = false
+  [functions.kashier-webhook]
+    verify_jwt = false
+  [functions.paymob-webhook]
+    verify_jwt = false
+  [functions.paymob-return]
+    verify_jwt = false
+  [functions.live-course-checkout]
+    verify_jwt = false
+  [functions.setup-student-password]
+    verify_jwt = false
+  [functions.check-purchase-account]
+    verify_jwt = false
+  [functions.validate-coupon]
+    verify_jwt = false
+  [functions.zoom-oauth-callback]
+    verify_jwt = false
+  [functions.google-calendar-oauth-callback]
+    verify_jwt = false
+  [functions.google-calendar-sync]
+    verify_jwt = false
+  [functions.google-calendar-busy]
+    verify_jwt = false
+  [functions.share]
+    verify_jwt = false
+  [functions.send-student-new-password]
+    verify_jwt = false
+  [functions.live-session-ensure-zoom]
+    verify_jwt = false
+  [functions.booking-ensure-zoom]
+    verify_jwt = false
+  [functions.subscription-checkout]
+    verify_jwt = false
+  [functions.subscription-sync-access]
+    verify_jwt = false
+  [functions.reconcile-paymob-payments]
+    verify_jwt = false
+
+
+  [functions.send-settlement-email]
+    verify_jwt = false

@@ -1,0 +1,1 @@
+ALTER TABLE public.subscription_plans ADD COLUMN IF NOT EXISTS includes_digital_products boolean NOT NULL DEFAULT false;

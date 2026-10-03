@@ -1,0 +1,1 @@
+ALTER TABLE public.tenants ADD COLUMN IF NOT EXISTS dashboard_language text NOT NULL DEFAULT 'ar';

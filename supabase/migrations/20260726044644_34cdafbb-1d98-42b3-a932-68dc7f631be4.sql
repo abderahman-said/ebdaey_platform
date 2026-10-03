@@ -1,0 +1,2 @@
+ALTER TABLE public.notifications ADD COLUMN IF NOT EXISTS source TEXT NOT NULL DEFAULT 'system';
+CREATE INDEX IF NOT EXISTS idx_notifications_tenant_source ON public.notifications(tenant_id, source, created_at DESC);

@@ -1,0 +1,1 @@
+UPDATE public.live_courses SET meeting_link = NULL WHERE attendance_type = 'zoom' AND meeting_link IS NOT NULL;

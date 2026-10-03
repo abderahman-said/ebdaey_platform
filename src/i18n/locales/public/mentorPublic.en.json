@@ -1,0 +1,66 @@
+{
+  "notFound": {
+    "title": "Mentor not found",
+    "hint": "Check the link or contact support",
+    "backHome": "Back to home"
+  },
+  "stats": {
+    "reviews": "reviews"
+  },
+  "subscriptions": {
+    "badge": "Subscribe now",
+    "title": "Subscription plans",
+    "subtitle": "Get full access to all courses",
+    "noYearly": "No yearly plan available right now",
+    "popular": "Most popular ⭐",
+    "yearlyPlan": "Yearly plan",
+    "perYear": "/ year",
+    "subscribe": "Subscribe now",
+    "planDescription": "Subscribe now and get full access to all courses and educational content all year round with continuous updates and ongoing support.",
+    "features": {
+      "allCourses": "Full access to all current and upcoming courses",
+      "updates": "Continuous updates to educational content all year",
+      "certificates": "Certified completion certificates for every course",
+      "support": "Continuous technical support throughout the subscription",
+      "digitalProducts": "Full access to all digital products"
+    }
+  },
+
+  "catalog": {
+    "empty": "No products available yet",
+    "badge": "Products",
+    "title": "All products",
+    "searchPlaceholder": "Search products...",
+    "noResults": "No results match your search",
+    "categories": {
+      "all": "All",
+      "courses": "Courses",
+      "digital": "Digital products",
+      "live": "Live courses",
+      "consultations": "Consultations"
+    },
+    "typeBadge": {
+      "course": "Course",
+      "digital": "Digital product",
+      "live": "Live course",
+      "consultation": "Consultation"
+    },
+    "defaultBtn": {
+      "course": "View course",
+      "digital": "View product",
+      "live": "Book your seat",
+      "consultation": "Book a session",
+      "generic": "View"
+    },
+    "free": "Free",
+    "discount": "Off",
+    "view": "View"
+  },
+  "reviewsSection": {
+    "badge": "Reviews",
+    "title": "What students say",
+    "average": "Average rating",
+    "outOf": "out of 5 based on",
+    "review": "reviews"
+  }
+}

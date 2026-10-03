@@ -1,0 +1,3 @@
+ALTER TABLE public.digital_product_purchases ALTER COLUMN digital_product_id DROP NOT NULL;
+ALTER TABLE public.digital_product_purchases DROP CONSTRAINT digital_product_purchases_digital_product_id_fkey;
+ALTER TABLE public.digital_product_purchases ADD CONSTRAINT digital_product_purchases_digital_product_id_fkey FOREIGN KEY (digital_product_id) REFERENCES public.digital_products(id) ON DELETE SET NULL;

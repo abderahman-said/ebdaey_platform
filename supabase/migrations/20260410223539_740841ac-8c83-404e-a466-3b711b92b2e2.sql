@@ -1,0 +1,7 @@
+ALTER TABLE public.tenants
+ADD COLUMN first_name text DEFAULT NULL,
+ADD COLUMN last_name text DEFAULT NULL,
+ADD COLUMN email text DEFAULT NULL,
+ADD COLUMN phone text DEFAULT NULL,
+ADD COLUMN country text DEFAULT NULL,
+ADD COLUMN city text DEFAULT NULL;

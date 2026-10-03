@@ -1,0 +1,1 @@
+ALTER TABLE public.tenants ALTER COLUMN whatsapp_default_color SET DEFAULT false;

@@ -1,0 +1,1 @@
+ALTER TABLE public.tenants ADD COLUMN primary_color text DEFAULT NULL;

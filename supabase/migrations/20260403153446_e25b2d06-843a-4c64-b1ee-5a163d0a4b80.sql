@@ -1,0 +1,6 @@
+
+ALTER TABLE public.coupons
+  ADD COLUMN IF NOT EXISTS max_uses integer DEFAULT NULL,
+  ADD COLUMN IF NOT EXISTS used_count integer NOT NULL DEFAULT 0,
+  ADD COLUMN IF NOT EXISTS max_per_customer integer DEFAULT NULL,
+  ADD COLUMN IF NOT EXISTS course_id uuid DEFAULT NULL REFERENCES public.courses(id) ON DELETE SET NULL;

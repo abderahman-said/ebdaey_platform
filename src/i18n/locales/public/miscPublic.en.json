@@ -1,0 +1,422 @@
+{
+  "brand": "Ebdaey",
+  "notFound": {
+    "title": "Page not found | Ebdaey",
+    "description": "Sorry, the page you're looking for doesn't exist.",
+    "pageNotFound": "Oops! Page not found",
+    "returnHome": "Return to Home"
+  },
+  "notFoundInline": {
+    "course": "Course not found",
+    "product": "Product not found",
+    "page": "Page not found",
+    "liveCourse": "Course not found"
+  },
+  "verify": {
+    "checking": "Verifying certificate...",
+    "verified": "Verified certificate ✓",
+    "verifiedDesc": "This certificate has been verified via the Ebdaey platform",
+    "studentName": "Student name",
+    "courseName": "Course name",
+    "mentor": "Mentor",
+    "issueDate": "Issue date",
+    "certificateNumber": "Certificate number",
+    "visitMentor": "Visit mentor page",
+    "notFoundTitle": "Certificate not found",
+    "notFoundDesc": "We couldn't find a certificate with the code {{code}}. It may be forged or the link is incorrect.",
+    "backHome": "Back to home"
+  },
+  "lessonViewer": {
+    "paidContentTitle": "Paid content",
+    "paidContentDesc": "You need to enroll in the course to access this lesson",
+    "contentBankLabel": "Content Bank",
+    "aiAssistant": "Course Assistant",
+    "courseContent": "Course content",
+    "joinCommunity": "Join the course community",
+    "downloadFile": "Download file",
+    "epubHint": "EPUB e-book",
+    "downloadEpub": "Download book",
+    "downloadDoc": "Download document",
+    "zoomHint": "Live Zoom meeting",
+    "joinMeeting": "Join meeting",
+    "featuredProduct": "Featured product",
+    "viewProduct": "View product",
+    "extraProducts": "Extra products you might like",
+    "productN": "Product {{n}}",
+    "noContent": "No content has been uploaded for this lesson yet",
+    "noVideoUploaded": "No video has been uploaded for this lesson yet, content is being prepared.",
+    "types": {
+      "video": "Video",
+      "pdf": "PDF file",
+      "audio": "Audio",
+      "image": "Image",
+      "text": "Text & images",
+      "embed": "Embed",
+      "download": "Downloadable file",
+      "quiz": "Quiz",
+      "epub": "E-book",
+      "office": "Office document",
+      "zoom": "Zoom meeting",
+      "featured_product": "Featured product",
+      "upsell": "Extra products"
+    },
+    "markComplete": "Mark as complete",
+    "completed": "Completed",
+    "prevLesson": "Previous lesson",
+    "prev": "Previous",
+    "nextLesson": "Next lesson",
+    "next": "Next",
+    "finishCourse": "Finish course",
+    "finish": "Finish",
+    "chooseLesson": "Choose a lesson from the list to start",
+    "lessonNumber": "Lesson {{n}}",
+    "currentBadge": "Current",
+    "congrats": "🎉 Congratulations!",
+    "congratsDesc": "You have completed all lessons of the course!",
+    "congratsHint": "You can now download your completion certificate",
+    "continue": "Continue"
+  },
+  "contentBank": {
+    "back": "Back to course",
+    "backShort": "Back",
+    "title": "Content Bank",
+    "searchPlaceholder": "Search the content bank...",
+    "index": "Index",
+    "backToIndex": "Back to index",
+    "downloadFile": "Download file",
+    "click": "Click here",
+    "types": {
+      "rich": "Text & images",
+      "video": "Video",
+      "audio": "Audio",
+      "pdf": "PDF",
+      "link": "Link",
+      "button": "Button"
+    },
+    "emptyFolder": "No content in this category",
+    "noResults": "No results",
+    "noContent": "No content yet"
+  },
+  "footer": {
+    "poweredBy": "Powered by",
+    "logoAlt": "Ebdaey",
+    "privacy": "Privacy Policy",
+    "terms": "Terms & Conditions",
+    "refund": "Refund Policy",
+    "contact": "Contact us",
+    "about": "About us",
+    "delivery": "Delivery Policy"
+  },
+  "whatsapp": {
+    "supportMessage": "Hello, I have an issue on the Ebdaey platform and need help",
+    "alt": "WhatsApp",
+    "contact": "Contact via WhatsApp"
+  },
+  "trustedBadge": {
+    "alt": "Supported and verified by Ebdaey",
+    "visit": "Visit Ebdaey website",
+    "dialogTitle": "Verified by Ebdaey badge",
+    "startNow": "Start now",
+    "startNowDesc": "Get the course now and pay directly through the website"
+  },
+  "booking": {
+    "chooseDate": "Choose session date",
+    "chooseDateHint": "Only available days can be selected",
+    "chooseTime": "Choose session time",
+    "duration": "Session duration: {{n}} minutes",
+    "selectedDate": "Selected date",
+    "selectedTime": "Selected time",
+    "timezone": "Timezone: {{tz}}",
+    "bookingSummary": "{{date}} · {{time}} · {{timezone}}",
+    "noSlots": "No available times",
+    "chooseOtherDay": "Pick another day from the calendar",
+    "changeDate": "Choose another date",
+    "slotCount": "{{n}} slots",
+    "morning": "Morning",
+    "afternoon": "Afternoon",
+    "evening": "Evening",
+    "bookNow": "Book now"
+  },
+  "marketing": {
+    "bento": {
+      "badge": "✦ Showcase",
+      "title": "Everything you need to build your academy",
+      "subtitle": "Powerful tools and a complete experience that make your teaching journey easier",
+      "alts": {
+        "dashboard": "Professional dashboard",
+        "mobile": "Perfect mobile experience",
+        "analytics": "Smart analytics",
+        "tools": "Integrated tools",
+        "certificates": "Verified certificates",
+        "payments": "Secure online payments",
+        "authoring": "Create your content",
+        "community": "Active learning community"
+      }
+    },
+    "services": {
+      "badge": "✨ Your services on the platform",
+      "title": "3 professional ways to earn",
+      "subtitle": "Deliver your content the way you like — we handle the rest",
+      "cta": "Start now",
+      "items": {
+        "recorded": {
+          "badge": "Most popular",
+          "title": "Recorded courses",
+          "description": "Upload high-quality videos, organize content into sections and lessons, and issue professional completion certificates for your students.",
+          "points": [
+            "Protected video hosting",
+            "Quizzes & certificates",
+            "Track student progress"
+          ]
+        },
+        "digital": {
+          "badge": "Passive income",
+          "title": "Digital products",
+          "description": "Sell ebooks, templates, and ready-made files, offer free previews, then deliver purchases automatically through email and a dedicated download page.",
+          "points": [
+            "Automatic instant delivery",
+            "Free previews before purchase",
+            "Secure download links"
+          ]
+        },
+        "live": {
+          "badge": "Live interaction",
+          "title": "Live sessions & consultations",
+          "description": "Open one-on-one consultation bookings, set your availability, and organize appointments with Google Calendar sync and automatic Zoom links.",
+          "points": [
+            "Scheduling conflict prevention",
+            "Automatic Zoom integration",
+            "Google Calendar sync"
+          ]
+        }
+      }
+    },
+    "features": {
+      "badge": "Features",
+      "title": "Everything you need in one place",
+      "subtitle": "An integrated platform giving you every tool to build, manage and sell your online courses",
+      "step": "Step {{n}}",
+      "items": {
+        "1": {
+          "title": "Professional platform",
+          "desc": "Showcase your courses professionally on your own page and start selling immediately with no technical experience.",
+          "tags": [
+            "Advanced protection",
+            "Fast performance",
+            "Easy interface"
+          ]
+        },
+        "2": {
+          "title": "Instant collection",
+          "desc": "Your students can pay from anywhere with credit cards or Vodafone Cash securely and easily.",
+          "tags": [
+            "Secure payment",
+            "Vodafone Cash",
+            "Credit cards"
+          ]
+        },
+        "3": {
+          "title": "Regular transfers",
+          "desc": "Transfer your earnings directly to your bank account periodically and securely, with detailed financial reports.",
+          "tags": [
+            "Financial reports",
+            "Fast withdrawal"
+          ]
+        },
+        "4": {
+          "title": "Unlimited students",
+          "desc": "No limit on the number of students or courses you can add. Your platform's growth is unrestricted.",
+          "tags": [
+            "Unlimited capacity",
+            "Global reach"
+          ]
+        },
+        "5": {
+          "title": "Advanced analytics",
+          "desc": "Monitor your courses' performance, student count and sales with detailed reports and accurate statistics.",
+          "tags": [
+            "Live statistics",
+            "Detailed reports"
+          ]
+        }
+      }
+    },
+    "steps": {
+      "badge": "Your journey with us",
+      "title": "Start in 3 quick steps",
+      "subtitle": "From signup to your first sale — everything is ready and set up for you",
+      "startFree": "Start now for free",
+      "moreDetails": "More details",
+      "items": {
+        "1": {
+          "title": "Sign up and create your platform",
+          "desc": "Create your account in two minutes and get a professional link to showcase your services and share with your audience.",
+          "tags": [
+            "Fully Arabic dashboard",
+            "Free custom link, live instantly",
+            "Custom colors and logo"
+          ]
+        },
+        "2": {
+          "title": "Add your services and expertise",
+          "desc": "Upload your recorded courses, digital products, and set up your live sessions and consultation appointments easily.",
+          "tags": [
+            "Secure protected video uploads",
+            "One-on-one consultation scheduling",
+            "Sell digital files and books"
+          ]
+        },
+        "3": {
+          "title": "Start selling and receive your earnings",
+          "desc": "Share your platform link, accept payments securely through an integrated gateway, and withdraw your earnings to your bank account.",
+          "tags": [
+            "Accept all cards and cash wallets 🇪🇬",
+            "Withdraw earnings to your bank",
+            "Sales reports and analytics"
+          ]
+        }
+      }
+    }
+  },
+  "sessionGate": {
+    "title": "Your session ended",
+    "subtitle": "Please sign in again to continue.",
+    "signIn": "Sign in",
+    "backHome": "Back to home",
+    "poweredBy": "powered by"
+  },
+  "studentDashboard": {
+    "pageTitle": "{{site}}",
+    "completionCertificate": "Certificate",
+    "courseCompletionCertificate": "Course completion certificate",
+    "mentorNotFound": "Mentor not found",
+    "accessDeniedTitle": "Access denied",
+    "accessDeniedDesc": "You are not enrolled as a student with this mentor",
+    "mustSignIn": "You must sign in first",
+    "signIn": "Sign in",
+    "mySubscription": "My subscription",
+    "changePassword": "Change password",
+    "signOut": "Sign out",
+    "greeting": "Hi{{name}} 👋",
+    "yourProgress": "{{value}}% progress",
+    "continueWatching": "Continue watching",
+    "percentComplete": "% complete",
+    "resumeLearning": "Resume learning now",
+    "startLearningJourneyTitle": "Start your learning journey",
+    "startLearningJourneyDesc": "Pick one of your courses below and start watching",
+    "welcomeJourneyTitle": "Welcome to your learning journey",
+    "welcomeJourneyDesc": "Start by browsing the available courses",
+    "browseCourses": "Browse courses",
+    "browseMore": "Browse more",
+    "overallProgress": "Overall progress",
+    "completedLessons": "Completed lessons",
+    "completedCourses": "Completed courses",
+    "enrolledCourses": "Enrolled courses",
+    "myDigitalProducts": "My digital products",
+    "clickToDownload": "Click to download",
+    "myLiveCourses": "My live courses",
+    "consultationBadge": "Consultation",
+    "liveBadge": "Live",
+    "yourSessionAppointment": "Your session time",
+    "minutes": "{{count}} minutes",
+    "joinZoom": "Join Zoom",
+    "joinMeeting": "Join meeting",
+    "googleMaps": "Google Maps",
+    "sessionsSchedule": "Sessions schedule ({{count}})",
+    "myCourses": "My courses",
+    "noCoursesYet": "You haven't enrolled in any course yet",
+    "backToCourses": "Back to courses",
+    "annualSubscriptionTitle": "My annual subscription",
+    "annualSubscriptionSubtitle": "Details of your current subscription with {{mentor}}",
+    "noYearlyPlan": "No annual subscription plan is currently available from this mentor",
+    "yearlyPlan": "Annual plan",
+    "yearlyPlanDefaultDesc": "Full annual subscription",
+    "statusActive": "Active subscription",
+    "statusInactive": "Inactive",
+    "annualPrice": "Annual price",
+    "priceEgp": "{{value}} EGP",
+    "subscriptionStartDate": "Subscription start date",
+    "renewalDate": "Renewal date",
+    "daysRemaining": "{{count}} days remaining",
+    "planFeatures": "Plan features",
+    "subscriptionFooterNote": "Your subscription includes access to the courses you're enrolled in during the subscription period. To renew or cancel, please contact your mentor directly.",
+    "contactMentor": "Contact mentor",
+    "waMessage": "Hello, I'm {{name}} and I'd like to ask about my annual subscription with {{mentor}}.",
+    "courseCard": {
+      "completed": "Completed",
+      "lessonsProgress": "{{done}} of {{total}} lessons",
+      "reviewCourse": "Review course",
+      "continueLearning": "Continue learning"
+    },
+    "greetingBack": "Welcome back, {{name}}",
+    "greetingSubtitle": "Glad to see you — continue your learning journey today.",
+    "statInProgress": "In progress",
+    "statCompletedCourses": "Completed courses",
+    "statCertificates": "Certificates",
+    "heroContinuePill": "Continue learning",
+    "heroCta": "Resume next lesson",
+    "filterAll": "All",
+    "filterRecorded": "Recorded courses",
+    "filterLive": "Live sessions",
+    "filterDigital": "Digital products",
+    "filterConsultations": "Consultations",
+    "badgeRecorded": "Recorded",
+    "badgeLive": "Live",
+    "badgeDigital": "Digital",
+    "badgeConsultation": "Consultation",
+    "statusCompleted": "Completed",
+    "watch": "Watch",
+    "viewCertificate": "View certificate",
+    "nextSessionLabel": "Next session:",
+    "appointmentLabel": "Your appointment:",
+    "joinLinkSoon": "Link available before start",
+    "viewPastSessions": "Past sessions",
+    "pastSessionsTitle": "Previous sessions history",
+    "minutesShort": "min",
+    "bookAppointment": "Book your appointment",
+    "noSessionYet": "No session scheduled yet",
+    "downloadFile": "Download file",
+    "openLesson": "Open lesson",
+    "viewSessionDetails": "View session details",
+    "tabTitles": {
+      "lesson": "Course viewer",
+      "contentBank": "Content bank",
+      "download": "Download",
+      "certificate": "Certificate"
+    }
+  },
+  "subscribe": {
+    "planLabel": "Subscription plan",
+    "free": "Free",
+    "yourData": "Your details",
+    "firstName": "First name",
+    "lastName": "Last name",
+    "email": "Email",
+    "phone": "Phone number",
+    "paymentMethod": "Payment method",
+    "card": "Card",
+    "wallet": "Mobile wallet",
+    "walletLabel": "Wallet number (Vodafone Cash / Orange / Etisalat)",
+    "walletHint": "Enter your phone number to pay with your mobile wallet, then press the \"Subscribe now\" button",
+    "applePay": "Apple Pay",
+    "payBtn": "Subscribe now — {{amount}}",
+    "activateBtn": "Activate subscription",
+    "secured": "Secure, encrypted payment",
+    "invalidWallet": "Invalid wallet number",
+    "alreadySubscribed": "You already have an active yearly subscription",
+    "errorTitle": "Could not complete the payment",
+    "unavailable": "The yearly subscription is not available right now",
+    "backToProfile": "Back to profile",
+    "verifyingTitle": "Confirming your subscription",
+    "verifyingSubtitle": "Your full access is being activated",
+    "failedTitle": "Payment was not completed",
+    "failedSubtitle": "Your subscription was not activated. You can try again.",
+    "retry": "Try again",
+    "successTitle": "Your yearly subscription is active 👑",
+    "setPassword": "Create a password to sign in and access all content",
+    "signInSubtitle": "Enter your account password to open the student dashboard",
+    "activeTitle": "Subscription active",
+    "redirecting": "Taking you to your dashboard...",
+    "goNow": "Go now"
+  }
+}

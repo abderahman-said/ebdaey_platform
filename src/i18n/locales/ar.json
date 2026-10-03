@@ -1,0 +1,2649 @@
+{
+  "common": {
+    "language": "اللغة",
+    "arabic": "العربية",
+    "english": "English",
+    "startNow": "ابدأ الآن",
+    "startFree": "ابدأ منصتك الآن",
+    "startFreeCta": "إبدأ الآن مجاناً",
+    "login": "تسجيل الدخول",
+    "signup": "إنشاء حساب",
+    "myAccount": "حسابي",
+    "logout": "تسجيل الخروج",
+    "noCardRequired": "بدون بطاقة ائتمانية · جاهز خلال دقيقتين",
+    "close": "إغلاق",
+    "open": "فتح"
+  },
+  "nav": {
+    "myAccount": "حسابي"
+  },
+  "auth": {
+    "welcomeBack": "أهلاً بك من جديد",
+    "noAccountPrompt": "ليس لديك حساب؟",
+    "noAccountCta": "أنشئ حسابك الآن",
+    "tabs": {
+      "login": "تسجيل دخول",
+      "signup": "حساب جديد"
+    },
+    "google": {
+      "signIn": "تسجيل الدخول بـ Google",
+      "loading": "جاري التحميل..."
+    },
+    "or": "أو",
+    "fields": {
+      "fullName": "الاسم الكامل",
+      "fullNamePlaceholder": "أدخل اسمك",
+      "phone": "رقم الهاتف",
+      "email": "البريد الإلكتروني",
+      "password": "كلمة المرور",
+      "passwordPlaceholder": "كلمة المرور",
+      "confirmPasswordPlaceholder": "تأكيد كلمة المرور",
+      "rememberMe": "تذكرني",
+      "forgotPassword": "نسيت كلمة المرور؟"
+    },
+    "actions": {
+      "processing": "جاري المعالجة...",
+      "login": "دخول",
+      "signup": "إنشاء حساب",
+      "backHome": "العودة للصفحة الرئيسية"
+    },
+    "verification": {
+      "title": "أكد بريدك الإلكتروني",
+      "descriptionPrefix": "تم إرسال رابط تأكيد إلى",
+      "descriptionSuffix": ". افتح البريد واضغط زر التأكيد للمتابعة.",
+      "resend": "إعادة إرسال رابط التأكيد",
+      "resending": "جاري الإرسال...",
+      "spamHint": "لم يصلك الرمز؟ تحقق من مجلد الرسائل غير المرغوب فيها (Spam).",
+      "backToLogin": "العودة لتسجيل الدخول"
+    },
+    "toast": {
+      "welcomeTitle": "مرحباً!",
+      "signedInSuccess": "تم تسجيل الدخول بنجاح",
+      "errorTitle": "خطأ",
+      "unexpectedError": "حدث خطأ غير متوقع",
+      "fillAllFields": "يرجى ملء جميع الحقول",
+      "enterEmailFirst": "يرجى إدخال بريدك الإلكتروني أولاً",
+      "enterName": "يرجى إدخال الاسم",
+      "invalidCredentials": "البريد الإلكتروني أو كلمة السر غير صحيحة",
+      "emailTypoTitle": "خطأ في البريد الإلكتروني",
+      "emailTypoDescription": "\"{{typo}}\" خطأ، يجب تصحيحها إلى \"{{correct}}\"",
+      "loginErrorTitle": "خطأ في تسجيل الدخول",
+      "signupErrorTitle": "خطأ في إنشاء الحساب",
+      "forgotSentTitle": "تم!",
+      "forgotSentDesc": "تم إرسال رابط إعادة تعيين كلمة المرور إلى بريدك الإلكتروني",
+      "accountCreatedTitle": "تم إنشاء الحساب!",
+      "accountCreatedDesc": "مرحباً بك!",
+      "passwordCreated": "تم إنشاء حسابك بنجاح! 🎉",
+      "loginRequired": "يجب تسجيل الدخول",
+      "requestFailed": "فشل الطلب"
+    },
+    "dialog": {
+      "modes": {
+        "mentor": {
+          "title": "دخول المدربين",
+          "subtitle": "سجّل دخولك أو أنشئ حسابك كمدرب"
+        },
+        "student": {
+          "title": "تسجيل الدخول",
+          "subtitle": "سجّل دخولك للوصول لحسابك "
+        },
+        "admin": {
+          "title": "لوحة الإدارة",
+          "subtitle": "دخول المسؤولين فقط"
+        }
+      },
+      "tabs": {
+        "login": "تسجيل دخول",
+        "signup": "حساب جديد"
+      },
+      "fields": {
+        "fullName": "الاسم الكامل",
+        "fullNamePlaceholder": "أدخل اسمك",
+        "phone": "رقم الهاتف",
+        "email": "البريد الإلكتروني",
+        "password": "كلمة المرور",
+        "passwordPlaceholder": "كلمة المرور",
+        "rememberMe": "تذكرني",
+        "forgotPassword": "نسيت كلمة المرور؟"
+      },
+      "actions": {
+        "processing": "جاري المعالجة...",
+        "login": "دخول",
+        "signup": "إنشاء حساب"
+      },
+      "emailTypo": "\"{{typo}}\" خطأ، يجب تصحيحها إلى \"{{correct}}\""
+    },
+    "forgot": {
+      "title": "نسيت كلمة المرور",
+      "subtitle": "برجاء إدخال البريد الإلكتروني أو رقم الهاتف المستخدم عند الشراء",
+      "fieldLabel": "البريد الالكتروني أو رقم الهاتف",
+      "hint": "برجاء إدخال بريدك الإلكتروني أو رقم الهاتف مضافاً إليه كود الدولة مثال 201001340331+",
+      "submit": "أرسل كلمة مرور جديدة",
+      "backToLogin": "تسجيل دخول",
+      "sentTitle": "تم الإرسال",
+      "sentDesc": "إذا كان الحساب موجوداً، ستصلك كلمة مرور جديدة على بريدك الإلكتروني",
+      "errorTitle": "تعذّر إرسال كلمة المرور، حاول مرة أخرى"
+    }
+  },
+  "mentorSidebar": {
+    "groups": {
+      "home": "الرئيسية",
+      "products": "المنتجات",
+      "complete": "استكمال",
+      "finance": "المالية",
+      "marketing": "التسويق والمحتوى",
+      "subscriptions": "الإشتراكات",
+      "account": "الحساب"
+    },
+    "items": {
+      "home": "الرئيسية",
+      "overview": "نظرة عامة",
+      "orders": "الطلبات",
+      "students": "العملاء",
+      "schedules": "جداول المواعيد",
+      "upcomingAppointments": "مواعيدي القادمة",
+      "courses": "الكورسات المسجلة",
+      "digitalProducts": "المنتجات الرقمية",
+      "liveCourses": "الكورسات اللايف",
+      "consultations": "جلسات فردية",
+      "coupons": "الكوبونات",
+      "transactions": "المعاملات",
+      "withdrawals": "السحب",
+      "transfers": "التحويلات",
+      "paymentGateways": "بوابات الدفع",
+      "marketingApps": "التطبيقات والتكاملات",
+      "promotionalOffers": "العروض الترويجية",
+      "reviews": "تقييمات العملاء",
+      "notifications": "الإشعارات",
+      "certificate": "قالب الشهادة",
+      "plans": "الباقات",
+      "subscriptions": "إدارة الاشتراكات",
+      "profile": "إعدادات موقعي",
+      "editMyData": "بياناتي الشخصية",
+      "membership": "نظامي",
+      "changePassword": "تغيير كلمة المرور",
+      "sessionBundles": "باقات جلسات فردية"
+    },
+    "tabs": {
+      "profile": "إعدادات موقعي"
+    },
+    "comingSoon": "قريباً",
+    "logout": "تسجيل خروج",
+    "dashboardTitle": "لوحة التحكم",
+    "openMenu": "فتح القائمة",
+    "previewSite": "معاينة موقعي",
+    "darkMode": "الوضع الداكن",
+    "lightMode": "الوضع الفاتح"
+    ,"accountMenu": "الحساب والأدوات"
+    ,"mentorRole": "منتور"
+    ,"shareLink": "مشاركة الرابط"
+  },
+  "home": {
+    "seoTitle": "إبداعي | بيع الكورسات والمنتجات الرقمية وحجز الاستشارات داخل وخارج مصر",
+    "seoDescription": "منصة عربية لبيع الكورسات والمنتجات الرقمية والاستشارات. بيع في مصر بالجنيه (PayMob) وحول العالم بالدولار وعملات متعددة (Stripe) بعمولة ٨٪ فقط بدون اشتراك شهري.",
+    "hero": {
+      "badge": "منصة عربية لبيع معرفتك للعالم 🌍",
+      "titlePart1": "ابنِ منصتك",
+      "titleHighlight": "مجاناً",
+      "titlePart2": "لبيع معرفتك",
+      "subtitle": "كورسات، منتجات رقمية، استشارات",
+      "description": "مكان واحد لتقديم كل خبراتك من خلال موقع خاص بك",
+      "scroll": "اكتشف",
+      "stats": {
+        "commission": "٨٪",
+        "commissionLabel": "عمولة فقط، بدون اشتراك شهري",
+        "time": "٢ دقيقة",
+        "timeLabel": "لإنشاء منصتك",
+        "arabic": "٧+",
+        "arabicLabel": "عملات دولية للبيع داخل وخارج مصر"
+      }
+    },
+    "products": {
+      "eyebrow": "ماذا تبيع",
+      "title1": "أربعة أنواع من التذاكر،",
+      "title2": "تصدرها أنت.",
+      "items": {
+        "recorded": {
+          "title": "الكورسات المسجلة",
+          "desc": "ارفع دروسك، نظّم الفصول، وبيعها بسهولة مع حماية كاملة للمحتوى."
+        },
+        "digital": {
+          "title": "المنتجات الرقمية",
+          "desc": "بِع ملفات PDF والقوالب والكتب الإلكترونية، مع معاينات مجانية وتسليم تلقائي وروابط تنزيل آمنة فور نجاح الدفع."
+        },
+        "live": {
+          "title": "الكورسات اللايف",
+          "desc": "روابط Zoom تلقائية، و جوجل Meet مع تذكيرات للطلاب."
+        },
+        "consulting": {
+          "title": "الاستشارات",
+          "desc": "حدّد أوقاتك وأسعارك، ودَع العميل يختار موعده؛ مع منع التعارض، مزامنة Google Calendar، وإنشاء رابط Zoom تلقائياً."
+        }
+      }
+    },
+    "capabilities": {
+      "eyebrow": "مختوم ومضمون",
+      "title1": "كل ما تحتاجه، معتمد",
+      "title2": "من إبداعي.",
+      "items": {
+        "design": "تخصيص كامل للتصميم",
+        "protection": "حماية المحتوى",
+        "analytics": "تحليلات مبيعات",
+        "payments": "بوابات دفع محلية ودولية (PayMob & Stripe)",
+        "certificates": "شهادات إتمام",
+        "notifications": "إشعارات تلقائية"
+      }
+    },
+    "steps": {
+      "chapter": "§ ٠٣ — الخطوات",
+      "title1": "سجل الخطوات",
+      "title2": "— من الفكرة إلى أول عملية بيع",
+      "footer": "Process Protocol / Vol. ٠١ — ٢٠٢٥",
+      "items": {
+        "s1": {
+          "label": "STEP_٠١",
+          "title": "أنشئ حسابك",
+          "desc": "سجل بايميلك خلال ثوان، اختر رابط أكاديميتك، وأنت جاهز."
+        },
+        "s2": {
+          "label": "STEP_٠٢",
+          "title": "ارفع محتواك",
+          "desc": "أضف كورساتك، منتجاتك الرقمية، أو جلساتك اللايف بواجهة بسيطة."
+        },
+        "s3": {
+          "label": "STEP_٠٣",
+          "title": "اربط الدفع",
+          "desc": "فعّل بوابات الدفع (PayMob لمصر وStripe للعالم)، واستقبل مدفوعاتك بالجنيه والدولار."
+        },
+        "s4": {
+          "label": "FINALE",
+          "title": "ابدأ البيع",
+          "desc": "شارك رابطك مع جمهورك، وابدأ في تحقيق أرباحك بكل سهولة."
+        }
+      }
+    },
+    "pricing": {
+      "eyebrow": "إيصال بالأرقام",
+      "title1": "حرّك السعر، وشوف",
+      "title2": "أرباحك بنفسك.",
+      "priceLabel": "سعر الكورس (ج.م)",
+      "sliderAria": "سعر الكورس بالجنيه المصري",
+      "explanation": "<b>٨٪</b> فقط، على كل عملية بيع ناجحة. بدون رسوم إعداد، بدون اشتراك شهري، بدون رسوم مخفية في أي مكان.",
+      "guaranteed": "مضمون",
+      "hundred": "١٠٠٪",
+      "receipt": "إيصال إبداعي",
+      "coursePrice": "سعر الكورس",
+      "commission": "عمولة إبداعي (٨٪)",
+      "net": "صافي أرباحك",
+      "netNote": "يوصل لحسابك البنكي مباشرة بالجنيه أو بما يعادله بالعملات المدعومة",
+      "currency": "ج.م"
+    },
+    "faq": {
+      "eyebrow": "ملاحظات هامشية",
+      "title": "أسئلة بيتسألوا كتير.",
+      "items": [
+        {
+          "q": "ما هي منصة إبداعي؟",
+          "a": "إبداعي (وتُكتب أيضًا: ابداعي) هي منصة متكاملة تمكّن المدربين وصناع المحتوى من إنشاء أكاديمياتهم الرقمية الخاصة وبيع الكورسات المسجلة والمنتجات الرقمية وحجز الاستشارات بكل سهولة واحتراف، بدون الحاجة لأي خبرة تقنية."
+        },
+        {
+          "q": "ما هي تكاليف استخدام المنصة؟",
+          "a": "لا توجد رسوم اشتراك شهري ولا تكاليف إعداد. انشئ وخصص موقعك مجاناً مقابل عمولة ٨٪ فقط على كل عملية بيع ناجحة، سواء كانت كورساً أو منتجاً رقمياً أو جلسة استشارة."
+        },
+        {
+          "q": "ما هي طرق الدفع المتاحة للعملاء؟",
+          "a": "للعملاء في مصر: فيزا، ماستركارد، ميزة، والمحافظ الإلكترونية (فودافون كاش، اتصالات كاش، أورانج موني) بالجنيه المصري عبر PayMob. وللعملاء خارج مصر: فيزا، ماستركارد، Apple Pay، وGoogle Pay بالدولار أو بعملة كل دولة عبر Stripe."
+        },
+        {
+          "q": "كيف أستلم أرباحي؟",
+          "a": "يتم تحويل أرباحك مباشرة لحسابك البنكي. يمكنك تقديم طلب سحب من لوحة التحكم وسيتم التحويل خلال أيام عمل قليلة."
+        },
+        {
+          "q": "هل يمكنني البيع لعملاء خارج مصر بالدولار أو عملات دولية؟",
+          "a": "نعم بكل تأكيد! عبر تكامل بوابة Stripe الدولية، يمكنك بيع كورساتك ومنتجاتك لأي دولة في العالم بالدولار الأمريكي أو الريال السعودي أو الدرهم الإماراتي أو اليورو أو الجنيه الإسترليني وغيرها. يمكنك تحديد سعر موحد بالدولار لجميع الدول أو تخصيص سعر لكل دولة بعملتها المحلية مع الكشف التلقائي لموقع الزائر."
+        },
+        {
+          "q": "ما الذي يميز إبداعي عن المنصات الأخرى؟",
+          "a": "إبداعي مصممة خصيصاً للمدربين العرب: واجهة عربية كاملة، دفع محلي في مصر عبر PayMob، ودفع دولي متعدد العملات عبر Stripe، وإمكانية تسعير مخصص حسب الدولة، بعمولة ٨٪ فقط وبدون أي اشتراك شهري."
+        }
+      ]
+    },
+    "cta": {
+      "chapter": "§ الفصل التالي — لك",
+      "title1": "موقعك ينتظرك.",
+      "title2": "ابدأ اليوم.",
+      "description": "سجّل خلال دقيقتين، بِع بالجنيه أو الدولار أو بأي عملة، واستقبل أول عملية بيع اليوم."
+    },
+    "footer": {
+      "rights": "© {{year}} إبداعي. جميع الحقوق محفوظة.",
+      "privacy": "سياسة الخصوصية",
+      "terms": "الشروط والأحكام",
+      "refund": "سياسة الاسترداد",
+      "contact": "تواصل معنا",
+      "about": "من نحن",
+      "delivery": "سياسة التسليم",
+      "follow": "تابعنا على"
+    }
+  },
+  "overview": {
+    "greeting": "مرحبًا، {{name}} 👋",
+    "defaultMentor": "المدرب",
+    "subtitle": "إليك ملخص أداء منصتك",
+    "kpis": {
+      "visits": "إجمالي الزيارات",
+      "orders": "إجمالي الطلبات",
+      "revenue": "إجمالي الإيرادات",
+      "balance": "الرصيد الحالي"
+    },
+    "sections": {
+      "visitsOrders": "الزيارات والطلبات",
+      "revenueOverview": "نظرة عامة على الإيرادات",
+      "orderStatus": "حالة الطلبات",
+      "devices": "الأجهزة",
+      "os": "أنظمة التشغيل",
+      "sources": "المصادر",
+      "countries": "الدول"
+    },
+    "chart": {
+      "visits": "الزيارات",
+      "orders": "الطلبات",
+      "revenue": "الإيرادات",
+      "source": "المصدر"
+    },
+    "status": {
+      "completed": "مكتملة",
+      "pending": "قيد التنفيذ",
+      "cancelled": "ملغاة",
+      "refunded": "مرتجعة"
+    },
+    "totalOrders": "إجمالي الطلبات",
+    "noData": "لا توجد بيانات",
+    "comparedToPrev": "مقارنة بالفترة السابقة",
+    "direct": "مباشر"
+  },
+  "orders": {
+    "title": "الطلبات",
+    "count": "عدد الطلبات ({{count}})",
+    "searchPlaceholder": "الاسم، الإيميل أو رقم الهاتف",
+    "statusLabel": "حالة الطلب",
+    "statusFilters": {
+      "all": "الكل",
+      "paid": "مكتملة",
+      "pending": "انتظار الدفع",
+      "unpaid": "غير مكتملة",
+      "cancelled": "ملغي"
+    },
+    "table": {
+      "product": "المنتج",
+      "customer": "اسم العميل",
+      "cost": "التكلفة",
+      "status": "الحالة",
+      "createdAt": "تاريخ الإنشاء",
+      "actions": "خيارات",
+      "deletedProduct": "(منتج محذوف)"
+    },
+    "actions": {
+      "viewDetails": "عرض التفاصيل",
+      "contactWhatsapp": "تواصل عبر واتساب",
+      "delete": "حذف"
+    },
+    "empty": "لا توجد طلبات",
+    "currency": "ج.م",
+    "detail": {
+      "purchasePrice": "سعر الشراء",
+      "discount": "خصم",
+      "settlement": "مبلغ التسوية",
+      "grossAmount": "المبلغ الكلي",
+      "gatewayFee": "رسوم الدفع",
+      "platformFee": "رسوم المنصة",
+      "netAmount": "المبلغ الصافي",
+      "product": "المنتج",
+      "customer": "العميل"
+    },
+    "whatsapp": {
+      "unpaid": "مرحباً {{name}}، لاحظنا إن طلبك لدورة \"{{course}}\" لسه مكتملش. هل واجهتك أي مشكلة في عملية الدفع؟ نقدر نساعدك 😊",
+      "paid": "مرحباً {{name}}، شكراً لتسجيلك في دورة \"{{course}}\"! لو عندك أي استفسار تواصل معانا 😊"
+    },
+    "delete": {
+      "title": "هل تريد إلغاء الطلب؟",
+      "description": "سيتم تمييز هذا الطلب كملغي دون حذفه من السجلات.",
+      "cancel": "تراجع",
+      "confirm": "إلغاء الطلب",
+      "deleting": "جاري الإلغاء...",
+      "success": "تم إلغاء الطلب",
+      "errorTitle": "تعذر إلغاء الطلب",
+      "refundErrorTitle": "تعذر تنفيذ الاسترداد",
+      "refundSuccess": "تم إلغاء الطلب واسترداد المبلغ",
+      "withRefund": "إلغاء مع رد المبلغ",
+      "withRefundHint": "سيتم رد المبلغ للعميل عبر بوابة الدفع",
+      "withoutRefund": "إلغاء بدون رد المبلغ",
+      "withoutRefundHint": "سيتم إلغاء وصول الطالب فقط دون رد أي مبالغ",
+      "commissionWarning": "تنبيه: عمولة المنصة وعمولة بوابة الدفع غير قابلة للاسترداد وسيتم خصمها من رصيدك."
+    }
+  },
+  "profileTab": {
+    "title": "إعدادات موقعي",
+    "subtitle": "• تحكم في مظهر وبيانات موقعك العام الذي يراه طلابك و عملاؤك",
+    "previewSite": "معاينة الموقع",
+    "cover": {
+      "alt": "صورة الغلاف",
+      "change": "تغيير صورة الغلاف",
+      "uploading": "جاري الرفع..."
+    },
+    "avatarAlt": "صورة شخصية",
+    "username": {
+      "title": "اسم المستخدم",
+      "edit": "تعديل",
+      "empty": "لم يتم الإضافة",
+      "dialogTitle": "تعديل اسم المستخدم",
+      "hint": "أحرف إنجليزية صغيرة وأرقام وشرطات فقط، بدون مسافات (مثال: ahmed-ali)",
+      "placeholder": "ahmed-ali",
+      "available": "✓ متاح",
+      "unavailable": "✗ غير متاح",
+      "minLength": "يجب أن يكون 3 أحرف على الأقل",
+      "cancel": "إلغاء",
+      "save": "حفظ",
+      "saving": "جاري التحقق والحفظ..."
+    },
+    "info": {
+      "title": "معلومات موقعك",
+      "edit": "تعديل",
+      "empty": "لم يتم الإضافة",
+      "fields": {
+        "name": "إسم موقعك",
+        "specialty": "مجال عملك",
+        "bio": "نبذة عنك",
+        "whatsapp": "رقم واتساب"
+      },
+      "dialogTitle": "تعديل معلومات الملف الشخصي",
+      "placeholders": {
+        "name": "اسمك الظاهر للطلاب",
+        "specialty": "مثال: تطوير الويب",
+        "bio": "اكتب نبذة مختصرة عن نفسك وخبراتك...",
+        "whatsapp": "رقم الواتساب"
+      },
+      "whatsappHint": "سيظهر كزر واتساب عائم في صفحة ملفك الشخصي",
+      "cancel": "إلغاء",
+      "save": "حفظ",
+      "saving": "جاري الحفظ..."
+    },
+    "publicLanguage": {
+      "title": "لغة الموقع العام",
+      "hint": "اختر اللغة التي سيرى بها زوارك صفحاتك العامة. ",
+      "options": {
+        "ar": "العربية",
+        "en": "English"
+      }
+    }
+  },
+  "studentsTab": {
+    "title": "العملاء",
+    "searchPlaceholder": "ابحث بالاسم أو البريد أو رقم الهاتف",
+    "table": {
+      "name": "الاسم",
+      "email": "البريد",
+      "phone": "الهاتف",
+      "joinedAt": "تاريخ الانضمام",
+      "actions": "إجراءات"
+    },
+    "firstNamePlaceholder": "الاسم الأول",
+    "lastNamePlaceholder": "الاسم الأخير",
+    "empty": "لا يوجد طلاب بعد",
+    "changePasswordTitle": "تغيير كلمة مرور  العميل",
+    "changePasswordTooltip": "تغيير كلمة المرور",
+    "newPassword": "كلمة المرور الجديدة",
+    "newPasswordPlaceholder": "6 أحرف على الأقل",
+    "confirmPassword": "تأكيد كلمة المرور",
+    "cancel": "إلغاء",
+    "save": "حفظ",
+    "saving": "جاري الحفظ...",
+    "toasts": {
+      "updated": "تم تحديث بيانات الطالب",
+      "updateFailed": "لم يتم حفظ التعديلات",
+      "duplicateEmail": "هذا البريد مستخدم بالفعل لعميل آخر",
+      "invalidEmail": "يرجى إدخال بريد إلكتروني صحيح",
+      "shortPasswordTitle": "كلمة المرور قصيرة",
+      "shortPasswordDesc": "يجب أن تكون 6 أحرف على الأقل",
+      "mismatch": "كلمتا المرور غير متطابقتين",
+      "failed": "فشل تغيير كلمة المرور",
+      "success": "تم تغيير كلمة المرور بنجاح"
+    }
+  },
+  "settingsTab": {
+    "title": "الإعدادات",
+    "withdrawal": {
+      "heading": "إعدادات السحب",
+      "legalName": "الاسم القانوني الكامل",
+      "legalNamePlaceholder": "الاسم كما في البطاقة",
+      "iban": "رقم IBAN",
+      "ibanPlaceholder": "EG...",
+      "save": "حفظ الإعدادات"
+    }
+  },
+  "couponsTab": {
+    "title": "الكوبونات",
+    "newCoupon": "كوبون جديد",
+    "editTitle": "تعديل كود خصم",
+    "addTitle": "إضافة كود خصم",
+    "dialogSubtitle": "أضف كود خصم جديد لمنتج محدد أو لكل المنتجات",
+    "codeLabel": "كود الخصم",
+    "codePlaceholder": "مثال: DISCOUNT10, SUMMER2021",
+    "codeHint": "أدخل كود الخصم الذي سيستخدمه العملاء",
+    "typeFixed": "مبلغ ثابت",
+    "typePercentage": "نسبة مئوية",
+    "typeHint": "اختر ما إذا كان الخصم نسبة مئوية أم مبلغ ثابت",
+    "valueLabel": "قيمة الخصم",
+    "valueHint": "أدخل مبلغ الخصم أو النسبة المئوية",
+    "addCurrency": "إضافة عملة",
+    "amountsHint": "يُطبَّق الكوبون فقط على المشترين الذين يدفعون بإحدى هذه العملات.",
+    "amountsRequired": "أضف قيمة خصم لعملة واحدة على الأقل",
+    "currency": "ج.م",
+    "activeToggle": "مفعل",
+    "activeHint": "يمكنك إلغاء تفعيل الكود لمنع الاستخدام",
+    "maxUsesToggle": "العدد الأقصى للاستخدام",
+    "maxUsesHint": "أقصى عدد مرات استخدام كود الخصم",
+    "maxUsesPlaceholder": "مثال: 100",
+    "maxPerCustomerToggle": "تحديد عدد أقصى للاستخدام لكل عميل",
+    "maxPerCustomerHint": "يمكنك تحديد أقصى عدد مرات استخدام الكود لكل عميل",
+    "maxPerCustomerPlaceholder": "مثال: 1",
+    "specificToggle": "تخصيص الكود على منتج محدد",
+    "specificHint": "السماح باستخدام كود الخصم على منتج محدد فقط",
+    "selectPlaceholder": "اختر الكورس أو المنتج",
+    "coursesGroup": "الكورسات",
+    "productsGroup": "المنتجات الرقمية",
+    "back": "العودة",
+    "save": "حفظ",
+    "deleteTitle": "حذف الكوبون",
+    "deleteDesc": "هل أنت متأكد من حذف هذا الكوبون؟ لا يمكن التراجع عن هذا الإجراء.",
+    "cancel": "إلغاء",
+    "delete": "حذف",
+    "table": {
+      "code": "كود الخصم",
+      "value": "قيمة الخصم",
+      "maxUses": "أقصى استخدام",
+      "maxPerCustomer": "أقصى استخدام للعميل",
+      "usedCount": "مرات التطبيق",
+      "status": "الحالة",
+      "actions": "خيارات"
+    },
+    "unlimited": "غير محدود",
+    "statusActive": "منشور",
+    "statusInactive": "معطل",
+    "empty": "لا توجد كوبونات بعد",
+    "toasts": {
+      "updated": "تم تحديث الكوبون",
+      "created": "تم إنشاء الكوبون",
+      "saveError": "حدث خطأ أثناء حفظ الكوبون",
+      "deleted": "تم حذف الكوبون",
+      "deleteError": "حدث خطأ أثناء حذف الكوبون",
+      "codeCopied": "تم نسخ الكود"
+    }
+  },
+  "transactionsTab": {
+    "title": "المعاملات",
+    "filters": {
+      "all": "الكل",
+      "purchase": "شراء",
+      "subscription": "اشتراك",
+      "commission": "عمولة",
+      "gateway_fee": "رسوم الدفع",
+      "withdrawal": "سحب",
+      "refund": "استرداد"
+    },
+    "empty": "لا توجد معاملات بعد",
+    "table": {
+      "dateTime": "التاريخ والوقت",
+      "amount": "المبلغ",
+      "category": "التصنيف",
+      "description": "الوصف"
+    },
+    "currency": "ج.م"
+  },
+  "transfersTab": {
+    "title": "التحويلات",
+    "currency": "ج.م",
+    "stats": {
+      "available": "المتاح للسحب",
+      "totalSales": "إجمالي المبيعات",
+      "totalWithdrawn": "إجمالي السحوبات"
+    },
+    "periods": {
+      "all": "الكل",
+      "7": "آخر 7 أيام",
+      "30": "آخر 30 يوم",
+      "90": "آخر 90 يوم",
+      "365": "آخر سنة"
+    },
+    "empty": "لا توجد تحويلات بعد",
+    "emptyHint": "ستظهر هنا تحويلات الأرباح من المنصة إلى حسابك البنكي.",
+    "table": {
+      "date": "تاريخ",
+      "amount": "المبلغ",
+      "requestNumber": "رقم الطلب",
+      "status": "الحالة",
+      "description": "وصف"
+    },
+    "status": {
+      "settled": "تمت التسوية",
+      "paid": "تم التحويل",
+      "approved": "قيد التحويل",
+      "pending": "قيد المراجعة",
+      "rejected": "مرفوض"
+    },
+    "notes": {
+      "paid": "قد يستغرق حتى 5 أيام عمل ليظهر المبلغ في حسابك البنكي",
+      "approved": "تمت الموافقة، جاري إتمام التحويل"
+    }
+  },
+  "paymentGatewaysTab": {
+    "title": "بوابة الدفع المصرية",
+    "subtitle": "تدعم الدفع بالجنيه المصري في مصر و حول العالم",
+    "active": "مفعل",
+    "description": "يمكن لعملائك الدفع بالمحافظ الالكترونية (فودافون كاش وغيرها) وبطاقات ميزة وماستركارد وفيزا وغيرها",
+    "methodsLabel": "طرق الدفع المتاحة",
+    "feeLabel": "رسوم بوابة الدفع",
+    "feeCurrency": "ج.م",
+    "feeNote": "تُخصم عند كل عملية دفع ناجحة فقط",
+    "terms": "الشروط والأحكام",
+    "termsList": [
+      "لديك حساب بنكي مصري بعملة الجنيه المصري لاستقبال المبالغ المحصلة",
+      "مصرح لك القيام بالعمل داخل جمهورية مصر العربية",
+      "تُخصم رسوم البوابة بالإضافة إلى عمولة المنصة عند كل عملية بيع",
+      "لا يوجد مصاريف إضافية عند تحويل المبالغ المحصلة إلى حسابك البنكي"
+    ]
+  },
+  "withdrawalsTab": {
+    "title": "السحب",
+    "subtitle": "إدارة حسابك البنكي واستقبال المدفوعات",
+    "settings": "إعدادات السحب",
+    "settingsHint": "أدخل بيانات حسابك البنكي لاستقبال المدفوعات",
+    "status": {
+      "approved": "مقبول",
+      "rejected": "مرفوض",
+      "pending": "قيد المراجعة"
+    },
+    "pendingBanner": "طلبك قيد المراجعة حالياً",
+    "approvedBanner": "تم قبول بياناتك البنكية بنجاح",
+    "approvedHint": "لتعديل بيانات السحب يجب عليك التواصل مع الدعم الفني",
+    "rejectedBanner": "تم رفض بياناتك البنكية",
+    "rejectedReason": "سبب الرفض",
+    "sections": {
+      "personal": "البيانات الشخصية",
+      "bank": "البيانات البنكية",
+      "id": "صور بطاقة الهوية"
+    },
+    "fields": {
+      "fullName": "الاسم الكامل",
+      "fullNamePlaceholder": "الاسم كما في البطاقة الشخصية",
+      "address": "العنوان",
+      "addressPlaceholder": "المدينة، المحافظة، الدولة",
+      "accountType": "نوع الحساب",
+      "personal": "شخصي",
+      "company": "شركات",
+      "beneficiary": "اسم المستفيد للحساب البنكي",
+      "beneficiaryPlaceholder": "الاسم المسجل في الحساب البنكي",
+      "bank": "اسم البنك",
+      "bankPlaceholder": "اختر البنك",
+      "iban": "رقم IBAN",
+      "ibanHint": "رقم الحساب الدولي المكون من 29 رقم"
+    },
+    "idHint": "ارفع صورة واضحة لوجه وظهر البطاقة (JPG / PNG)",
+    "front": "وجه البطاقة",
+    "back": "ظهر البطاقة",
+    "upload": "اضغط للرفع",
+    "uploading": "جاري الرفع...",
+    "change": "تغيير",
+    "view": "عرض الصورة",
+    "secure": "البيانات محفوظة بشكل آمن",
+    "submit": "إرسال الطلب",
+    "resubmit": "إعادة الإرسال"
+  },
+  "reviewsManager": {
+    "title": "تقييمات العملاء",
+    "showOnProfile": "عرض في الملف الشخصي",
+    "showOnProfileHint": "إظهار جميع التقييمات في صفحتك العامة",
+    "add": "إضافة تقييم",
+    "searchPlaceholder": "بحث بالاسم أو التعليق...",
+    "filterPlaceholder": "فلترة بالمنتج",
+    "all": "الكل",
+    "general": "عام (بدون منتج)",
+    "generalLabel": "عام",
+    "typeGroup": {
+      "course": "كورسات مسجلة",
+      "live_course": "كورسات لايف",
+      "consultation": "استشارات",
+      "session_bundle": "باقات جلسات",
+      "digital_product": "منتجات رقمية"
+    },
+    "typeSuffix": {
+      "course": "",
+      "live_course": " (لايف)",
+      "consultation": " (استشارة)",
+      "session_bundle": " (باقة جلسات)",
+      "digital_product": " (رقمي)"
+    },
+    "table": {
+      "name": "الاسم",
+      "product": "المنتج",
+      "rating": "التقييم",
+      "comment": "التعليق",
+      "status": "الحالة",
+      "date": "التاريخ",
+      "actions": "خيارات"
+    },
+    "noComment": "بدون تعليق",
+    "published": "منشور",
+    "hidden": "مخفي",
+    "clickToHide": "اضغط للإخفاء",
+    "clickToPublish": "اضغط للنشر",
+    "hideTip": "إخفاء",
+    "publishTip": "نشر",
+    "editTip": "تعديل",
+    "deleteTip": "حذف",
+    "empty": "لا توجد تقييمات",
+    "dialog": {
+      "editTitle": "تعديل التقييم",
+      "newTitle": "إضافة تقييم جديد",
+      "firstName": "الاسم الأول",
+      "lastName": "الاسم الأخير",
+      "firstNamePlaceholder": "أحمد",
+      "lastNamePlaceholder": "محمد",
+      "assignProduct": "تخصيص هذا المنتج للتقييم",
+      "chooseProduct": "اختر المنتج",
+      "chooseProductPlaceholder": "اختر كورس...",
+      "rating": "التقييم",
+      "comment": "التعليق",
+      "commentPlaceholder": "اكتب تعليق العميل...",
+      "update": "تحديث التقييم",
+      "create": "إضافة التقييم"
+    },
+    "toast": {
+      "shown": "سيتم عرض التقييمات في صفحتك",
+      "hiddenProfile": "تم إخفاء التقييمات من صفحتك",
+      "error": "حدث خطأ",
+      "updated": "تم تحديث التقييم",
+      "added": "تم إضافة التقييم",
+      "deleted": "تم حذف التقييم",
+      "published": "تم نشر التقييم",
+      "hidden": "تم إخفاء التقييم"
+    }
+  },
+  "schedulesManager": {
+    "title": "جداول المواعيد",
+    "subtitle": "أنشئ جداول مواعيد متاحة لاستخدامها في حجز الاستشارات",
+    "new": "جدول جديد",
+    "loading": "جاري التحميل...",
+    "empty": "لا يوجد جداول مواعيد بعد",
+    "createFirst": "أنشئ أول جدول",
+    "default": "افتراضي",
+    "edit": "تعديل",
+    "dialog": {
+      "title": "جدول مواعيد جديد",
+      "name": "اسم الجدول",
+      "namePlaceholder": "مثال: جدول الاستشارات الأسبوعي",
+      "cancel": "إلغاء",
+      "creating": "جاري الإنشاء...",
+      "create": "إنشاء"
+    },
+    "delete": {
+      "title": "حذف الجدول؟",
+      "description": "سيتم حذف الجدول وكل سلوتاته. لا يمكن التراجع.",
+      "cancel": "إلغاء",
+      "confirm": "حذف"
+    },
+    "toast": {
+      "nameRequired": "أدخل اسم الجدول",
+      "created": "تم إنشاء الجدول",
+      "deleted": "تم الحذف",
+      "error": "خطأ",
+      "createError": "خطأ في الإنشاء"
+    }
+  },
+  "upcomingAppointments": {
+    "title": "مواعيدي القادمة",
+    "subtitle": "كل المواعيد القادمة من الكورسات المباشرة والجلسات الفردية",
+    "empty": "لا توجد مواعيد قادمة حالياً",
+    "consultation": "جلسة فردية",
+    "liveCourse": "كورس مباشر",
+    "attendee": "مشترك",
+    "attendees": "مشترك",
+    "join": "دخول الجلسة",
+    "appointmentsLabel": "موعد",
+    "minutes": "د",
+    "defaultConsultation": "جلسة فردية",
+    "defaultLiveCourse": "كورس مباشر"
+  },
+  "promotionalOffers": {
+    "title": "العروض الترويجية",
+    "subtitle": "أضف (عروض إضافية) أثناء تواجد العميل في صفحة الدفع ، لزيادة متوسط قيمة الطلب",
+    "back": "رجوع",
+    "kindCourse": "كورس",
+    "kindProduct": "منتج رقمي",
+    "addBump": "أضف عرض",
+    "editBump": "عدّل عرض",
+    "tabs": {
+      "all": "الكل",
+      "courses": "الكورسات",
+      "products": "المنتجات الرقمية",
+      "liveCourses": "الكورسات اللايف",
+      "consultations": "الاستشارات",
+      "sessionBundles": "باقات الجلسات"
+    },
+    "empty": "لا توجد عناصر"
+  },
+  "liveCoursesManager": {
+    "liveHeading": "الكورسات المباشرة (Live)",
+    "liveSubtitle": "كورسات بمواعيد محددة عبر Zoom أو أونلاين أو حضور شخصي",
+    "liveCta": "كورس لايف جديد",
+    "liveEmpty": "لا توجد كورسات مباشرة بعد",
+    "liveEmptyCta": "أنشئ أول كورس لايف",
+    "consultationHeading": "جلسات فردية",
+    "consultationSubtitle": "جلسات يتم حجزها بشكل منفصل، مثل استشارة أو  شرح خاص",
+    "consultationCta": "أضف جديد",
+    "consultationEmpty": "لا توجد جلسات فردية بعد",
+    "consultationEmptyCta": "أنشئ أول جلسة",
+    "cards": "بطاقات",
+    "table": "جدوَل",
+    "columns": {
+      "session": "الجلسة",
+      "course": "الكورس",
+      "price": "السعر",
+      "status": "الحالة",
+      "actions": "الإجراءات",
+      "bundle": "الباقة"
+    },
+    "published": "منشور",
+    "draft": "غير منشور",
+    "free": "مجاني",
+    "priceEgp": "{{price}} جنيه",
+    "edit": "تعديل",
+    "share": "مشاركة",
+    "view": "معاينة",
+    "publish": "نشر",
+    "hide": "إخفاء",
+    "loading": "جاري التحميل...",
+    "dialog": {
+      "titleNew": "منتج جديد",
+      "titleConsultation": "جلسة فردية جديدة",
+      "productType": "نوع المنتج",
+      "typeLive": "كورس مباشر",
+      "typeLiveDesc": "محاضرات بمواعيد محددة",
+      "typeConsultation": "حجز استشارة",
+      "typeConsultationDesc": "جلسة فردية بحجز موعد",
+      "title": "العنوان",
+      "placeholderLive": "مثال: ورشة تصميم مكثفة",
+      "placeholderConsultation": "مثال: استشارة فردية 30 دقيقة",
+      "cancel": "إلغاء",
+      "create": "إنشاء",
+      "creating": "جاري الإنشاء...",
+      "titleBundle": "باقة جلسات جديدة",
+      "placeholderBundle": "مثال: باقة ٤ جلسات تدريب",
+      "typeBundle": "باقة جلسات فردية",
+      "typeBundleDesc": "عدة جلسات فردية يحجزها الطالب بنفسه"
+    },
+    "delete": {
+      "title": "حذف؟",
+      "description": "سيتم الحذف نهائياً. لا يمكن التراجع.",
+      "cancel": "إلغاء",
+      "confirm": "حذف"
+    },
+    "toast": {
+      "enterTitle": "أدخل العنوان",
+      "created": "تم الإنشاء",
+      "createError": "خطأ في الإنشاء",
+      "genericError": "خطأ",
+      "published": "تم النشر",
+      "hidden": "تم الإخفاء",
+      "deleted": "تم الحذف"
+    },
+    "bundleHeading": "باقات جلسات فردية",
+    "bundleSubtitle": "أنشئ باقات تحتوي عدة جلسات فردية يحجزها الطالب بنفسه",
+    "bundleCta": "باقة جديدة",
+    "bundleEmpty": "لا توجد باقات جلسات بعد",
+    "bundleEmptyCta": "إنشاء أول باقة"
+  },
+  "digitalProductsManager": {
+    "title": "المنتجات الرقمية",
+    "subtitle": "بِع ملفات وموارد رقمية ",
+    "cta": "منتج جديد",
+    "empty": "لا توجد منتجات رقمية بعد",
+    "emptyCta": "أنشئ أول منتج",
+    "cards": "بطاقات",
+    "table": "جدوَل",
+    "columns": {
+      "product": "المنتج",
+      "price": "السعر",
+      "status": "الحالة",
+      "actions": "الإجراءات"
+    },
+    "published": "منشور",
+    "draft": "غير منشور",
+    "free": "مجاني",
+    "priceEgp": "{{price}} جنيه",
+    "edit": "تعديل",
+    "hide": "إخفاء",
+    "publish": "نشر",
+    "view": "عرض",
+    "dialog": {
+      "title": "منتج رقمي جديد",
+      "label": "عنوان المنتج",
+      "placeholder": "مثال: حزمة قوالب التصميم",
+      "cancel": "إلغاء",
+      "create": "إنشاء",
+      "creating": "جاري الإنشاء..."
+    },
+    "delete": {
+      "title": "حذف المنتج؟",
+      "description": "سيتم حذف المنتج وجميع ملفاته وارتباطاته بالكورسات الهدية. لا يمكن التراجع.",
+      "cancel": "إلغاء",
+      "confirm": "حذف"
+    },
+    "toast": {
+      "enterTitle": "أدخل عنوان المنتج",
+      "loadError": "تعذر تحميل المنتجات",
+      "createError": "تعذر إنشاء المنتج",
+      "created": "تم إنشاء المنتج",
+      "published": "تم نشر المنتج",
+      "hidden": "تم إخفاء المنتج",
+      "deleted": "تم حذف المنتج",
+      "genericError": "خطأ"
+    }
+  },
+  "notificationBell": {
+    "title": "الإشعارات",
+    "empty": "لا توجد إشعارات"
+  },
+  "notificationsManager": {
+    "heading": "الإشعارات",
+    "subtitle": "أرسل إشعارات لطلابك عبر المنصة أو الإيميل",
+    "tabs": {
+      "send": "إرسال إشعار جديد",
+      "history": "سجل الإشعارات"
+    },
+    "channels": {
+      "title": "قناة الإرسال",
+      "bell": "إشعار داخلي",
+      "email": "إيميل"
+    },
+    "targeting": {
+      "title": "الاستهداف",
+      "all": "كل المشترين",
+      "specificCourses": "طلاب كورسات محددة",
+      "noPublishedCourses": "لا توجد كورسات منشورة",
+      "studentsCount": "{{count}} طالب مستهدف"
+    },
+    "bellContent": {
+      "title": "محتوى الإشعار الداخلي",
+      "pickIcon": "اختر أيقونة",
+      "titleLabel": "عنوان الإشعار (حد أقصى 60 حرف)",
+      "titlePlaceholder": "مثال: تم إضافة درس جديد",
+      "descLabel": "نص الإشعار (حد أقصى 160 حرف)",
+      "descPlaceholder": "وصف مختصر...",
+      "linkLabel": "رابط (اختياري) — يوصل الطالب فين لما يضغط"
+    },
+    "emailContent": {
+      "title": "محتوى الإيميل",
+      "subjectLabel": "عنوان الإيميل (Subject)",
+      "subjectPlaceholder": "مثال: درس جديد متاح الآن!",
+      "bodyLabel": "نص الإيميل",
+      "bodyHint": "استخدم {{studentVar}} و{{courseVar}} للتخصيص التلقائي",
+      "bodyPlaceholder": "مرحباً {{studentVar}}،\n\nتم إضافة محتوى جديد في {{courseVar}}...",
+      "ctaTextLabel": "نص زر الإجراء (CTA)",
+      "ctaTextPlaceholder": "شاهد الآن",
+      "ctaUrlLabel": "رابط الزر"
+    },
+    "scheduling": {
+      "title": "الجدولة",
+      "sendNow": "إرسال فوري",
+      "schedule": "جدولة"
+    },
+    "actions": {
+      "preview": "معاينة",
+      "sendNow": "إرسال الآن",
+      "schedule": "جدولة الإشعار"
+    },
+    "preview": {
+      "title": "معاينة الإشعار",
+      "live": "معاينة مباشرة",
+      "bellLabel": "الإشعار الداخلي",
+      "emailLabel": "الإيميل",
+      "empty": "اختر قناة إرسال لرؤية المعاينة",
+      "bellHeader": "الإشعارات",
+      "titleFallback": "عنوان الإشعار",
+      "now": "الآن",
+      "fromPlatform": "من: المنصة",
+      "toExample": "إلى: student@example.com",
+      "subjectFallback": "عنوان الإيميل",
+      "bodyFallback": "محتوى الإيميل هنا...",
+      "sampleStudent": "أحمد محمد",
+      "sampleCourse": "الكورس التجريبي",
+      "footer": "هذا الإيميل مرسل تلقائياً — إلغاء الاشتراك"
+    },
+    "history": {
+      "loading": "جاري التحميل...",
+      "empty": "لا توجد إشعارات مرسلة بعد",
+      "create": "إنشاء إشعار",
+      "columns": {
+        "title": "العنوان",
+        "channels": "القنوات",
+        "audience": "الجمهور",
+        "date": "التاريخ",
+        "recipients": "المستلمين",
+        "status": "الحالة"
+      },
+      "targetAll": "كل المشترين",
+      "targetSpecific": "كورسات محددة",
+      "channelBell": "داخلي",
+      "channelEmail": "إيميل"
+    },
+    "status": {
+      "sent": "مرسل",
+      "scheduled": "مجدول",
+      "draft": "غير منشور",
+      "partial_failure": "فشل جزئي",
+      "failed": "فشل"
+    },
+    "delete": {
+      "title": "حذف الإشعار",
+      "description": "هل أنت متأكد من حذف هذا الإشعار؟",
+      "cancel": "إلغاء",
+      "confirm": "حذف"
+    },
+    "toast": {
+      "needTitle": "يرجى كتابة عنوان الإشعار",
+      "needChannel": "يرجى اختيار قناة إرسال واحدة على الأقل",
+      "needSubject": "يرجى كتابة عنوان الإيميل",
+      "needCourses": "يرجى اختيار كورس واحد على الأقل",
+      "needSchedule": "يرجى تحديد تاريخ ووقت الإرسال",
+      "scheduled": "تم جدولة الإشعار بنجاح",
+      "sent": "تم إرسال الإشعار بنجاح",
+      "sendError": "حدث خطأ أثناء الإرسال",
+      "deleted": "تم حذف الإشعار"
+    }
+  },
+  "editMyData": {
+    "loading": "جاري التحميل...",
+    "title": "بياناتي الشخصية",
+    "editButton": "تعديل البيانات",
+    "notAdded": "لم يتم الإضافة",
+    "fields": {
+      "firstName": "الاسم الأول",
+      "lastName": "الاسم الأخير",
+      "email": "البريد الإلكتروني",
+      "phone": "رقم الهاتف",
+      "country": "الدولة",
+      "city": "المدينة"
+    },
+    "dialog": {
+      "title": "تعديل بياناتي",
+      "firstNamePlaceholder": "أدخل الاسم الأول",
+      "lastNamePlaceholder": "أدخل الاسم الأخير",
+      "phonePlaceholder": "201234567890",
+      "countryPlaceholder": "مثال: مصر",
+      "cityPlaceholder": "مثال: القاهرة",
+      "cancel": "إلغاء",
+      "save": "حفظ البيانات",
+      "saving": "جاري الحفظ..."
+    },
+    "toast": {
+      "saveError": "حدث خطأ أثناء الحفظ",
+      "saved": "تم حفظ البيانات بنجاح"
+    }
+  },
+  "subscriptionPlans": {
+    "loading": "جاري التحميل...",
+    "header": {
+      "title": "باقة الاشتراك السنوي",
+      "subtitle": "حدّد السعر السنوي للطلاب",
+      "enabled": "مفعّلة",
+      "disabled": "غير مفعّلة"
+    },
+    "plan": {
+      "label": "الباقة السنوية",
+      "name": "اشتراك سنوي",
+      "visible": "ظاهرة",
+      "hidden": "مخفية",
+      "priceLabel": "السعر السنوي",
+      "priceUnit": "ج.م/سنة",
+      "editPrice": "تعديل السعر",
+      "savePrice": "حفظ السعر",
+      "cancel": "إلغاء",
+      "hiddenNotice": "الباقة مخفية حالياً عن الطلاب"
+    },
+    "digital": {
+      "title": "تضمين المنتجات الرقمية",
+      "subtitle": "إتاحة جميع منتجاتك الرقمية ضمن الباقة"
+    },
+    "disabledCard": {
+      "title": "الباقة معطلة",
+      "subtitle": "قم بتفعيل الباقة لعرضها في صفحتك الشخصية"
+    },
+    "fixed": {
+      "description": "اشترك الآن واحصل على وصول كامل لجميع الدورات والمحتوى التعليمي طوال العام مع تحديثات مستمرة ودعم متواصل.",
+      "features": [
+        "وصول كامل لجميع الدورات الحالية والقادمة",
+        "تحديثات مستمرة للمحتوى التعليمي طوال العام",
+        "شهادات إتمام معتمدة لكل دورة",
+        "دعم فني متواصل طوال فترة الاشتراك"
+      ],
+      "digitalFeature": "وصول كامل لجميع المنتجات الرقمية"
+    },
+    "toast": {
+      "enabled": "تم تفعيل الباقات",
+      "disabled": "تم إلغاء الباقات",
+      "toggleError": "تعذر تحديث الحالة",
+      "retry": "حاول مرة أخرى",
+      "saved": "تم حفظ الباقة السنوية"
+    }
+  },
+  "socialLinks": {
+    "loading": "جاري التحميل...",
+    "title": "روابط السوشيال ميديا",
+    "edit": "تعديل",
+    "notAdded": "لم يتم الإضافة",
+    "dialogTitle": "تعديل روابط السوشيال ميديا",
+    "cancel": "إلغاء",
+    "save": "حفظ",
+    "saving": "جاري الحفظ...",
+    "saveError": "حدث خطأ أثناء الحفظ",
+    "saved": "تم حفظ روابط السوشيال ميديا",
+    "labels": {
+      "facebook": "فيسبوك",
+      "instagram": "انستاجرام",
+      "youtube": "يوتيوب",
+      "x": "X (تويتر)",
+      "tiktok": "تيك توك",
+      "linkedin": "لينكد إن"
+    }
+  },
+  "membership": {
+    "title": "نظامي",
+    "subtitle": "باقتك الحالية ومميزاتها على منصة إبداعي",
+    "currentPlan": "نظامك الحالي",
+    "free": "مجانية",
+    "freeInline": "مجاناً",
+    "monthly": "/شهرياً",
+    "commissionSuffix": "عمولة المنصة من كل عملية بيع",
+    "commissionOnly": "عمولة المنصة فقط من كل عملية بيع",
+    "basicBadge": "الباقة الأساسية",
+    "proTitle": "باقة المحترفين",
+    "proDesc": "الباقة الافتراضية لجميع الحسابات الجديدة بكل مميزات المبدعين وأكثر.",
+    "proExtrasHeader": "كل مميزات باقة المبدعين، بالإضافة إلى:",
+    "creatorsTitle": "باقة المبدعين",
+    "creatorsDesc": "باقة مصممة لمقدمي المحتوى الذين يرغبون في بناء أعمال تعليمية ناجحة بأقل التكاليف.",
+    "contactSupport": "تواصل مع الدعم",
+    "supportMessage": "مرحباً، عندي مشكلة في منصة إبداعي وأحتاج مساعدة",
+    "creatorsFeatures": [
+      "وصول كامل لجميع أدوات المنصة",
+      "حماية المحتوى من النسخ والتحميل",
+      "رفع غير محدود للكورسات والمنتجات",
+      "دعم فني مخصص على مدار الساعة",
+      "بوابات دفع متكاملة وتحويلات سريعة",
+      "تحديثات وميزات جديدة باستمرار"
+    ],
+    "proExtras": [
+      "المساعد الذكي للطلاب داخل الكورسات",
+      "شهادات إتمام احترافية قابلة للتخصيص",
+      "إمكانية زيادة المبيعات عن طريق عرض إضافي"
+    ]
+  },
+  "changePassword": {
+    "title": "تغيير كلمة المرور",
+    "subtitle": "يمكنك تغيير كلمة المرور الخاصة بك من هنا",
+    "email": "البريد الإلكتروني",
+    "current": "كلمة المرور الحالية",
+    "currentPlaceholder": "كلمة المرور الحالية",
+    "new": "كلمة المرور الجديدة",
+    "newPlaceholder": "كلمة المرور الجديدة",
+    "confirm": "تأكيد كلمة المرور",
+    "confirmPlaceholder": "تأكيد كلمة المرور",
+    "submit": "تغيير كلمة المرور",
+    "submitting": "جاري التغيير...",
+    "errors": {
+      "fillAll": "يرجى ملء جميع الحقول",
+      "mismatch": "كلمة المرور الجديدة وتأكيدها غير متطابقتين",
+      "wrongCurrent": "كلمة المرور الحالية غير صحيحة",
+      "unexpected": "حدث خطأ غير متوقع",
+      "genericTitle": "خطأ"
+    },
+    "success": {
+      "title": "تم!",
+      "description": "تم تغيير كلمة المرور بنجاح"
+    }
+  },
+  "landingSettings": {
+    "faqs": {
+      "title": "الأسئلة الشائعة",
+      "add": "إضافة سؤال",
+      "hint": "أضف حتى 10 أسئلة شائعة تظهر في صفحة الدورة",
+      "prefix": "س",
+      "questionPlaceholder": "السؤال",
+      "answerLabel": "الإجابة",
+      "empty": "لم تتم إضافة أسئلة شائعة بعد"
+    },
+    "fontSizes": {
+      "small": "صغير",
+      "medium": "متوسط",
+      "large": "كبير",
+      "xlarge": "كبير جداً",
+      "huge": "ضخم"
+    }
+  },
+  "qaBot": {
+    "deletedLesson": "(درس محذوف)",
+    "retryStarted": "تم بدء إعادة المحاولة",
+    "retryStartedDesc": "سيتم تحديث الحالة خلال دقيقة.",
+    "retryFailed": "فشلت المحاولة",
+    "toggleErrorTitle": "خطأ",
+    "enabled": "تم تفعيل البوت",
+    "disabled": "تم تعطيل البوت",
+    "enabledDesc": "سيتم فهرسة محتوى الكورس وتفريغ الفيديوهات تلقائياً في الخلفية.",
+    "header": {
+      "title": "مساعد الذكاء الاصطناعي",
+      "subtitle": "بوت يجاوب أسئلة الطلاب من محتوى الكورس فقط (نصوص الدروس + تفريغ الفيديوهات صوتياً)."
+    },
+    "auto": {
+      "title": "كل شيء يتم تلقائياً ✨",
+      "b1": "عند إضافة أو تعديل أي درس، يتم فهرسته في الخلفية فوراً.",
+      "b2": "الطالب يستطيع سؤال البوت من داخل أي درس في الكورس.",
+      "b3": "كل طالب لديه حد أقصى ٢٠ سؤال يومياً لكل كورس."
+    },
+    "indexed": {
+      "title": "الدروس التي استمع إليها البوت",
+      "count": "تم فهرسة {{count}} درس بنجاح",
+      "count_one": "تم فهرسة {{count}} درس بنجاح",
+      "count_other": "تم فهرسة {{count}} درس بنجاح",
+      "none": "لم يتم فهرسة أي درس بعد",
+      "empty": "سيظهر هنا أي درس بعد فهرسته في الخلفية.",
+      "sourceAudio": "تفريغ صوتي",
+      "sourceText": "نص",
+      "chunks": "{{count}} مقطع",
+      "chunks_one": "{{count}} مقطع",
+      "chunks_other": "{{count}} مقطع"
+    },
+    "failed": {
+      "title": "دروس فشل تفريغها",
+      "subtitle": "{{count}} درس لم يتمكن البوت من الاستماع إليها. يمكنك إعادة المحاولة.",
+      "subtitle_one": "{{count}} درس لم يتمكن البوت من الاستماع إليها. يمكنك إعادة المحاولة.",
+      "subtitle_other": "{{count}} درس لم يتمكن البوت من الاستماع إليها. يمكنك إعادة المحاولة.",
+      "retryAll": "إعادة محاولة الكل",
+      "retry": "إعادة"
+    }
+  },
+  "marketingPixels": {
+    "loading": "جاري التحميل...",
+    "header": {
+      "title": "التطبيقات والتكاملات",
+      "subtitle": "اربط منصتك بالتطبيقات الخارجية لإدارة حملاتك التسويقية وتحليل أداء موقعك.",
+      "guide": "دليل التكاملات"
+    },
+    "table": {
+      "app": "التطبيق",
+      "description": "الوصف",
+      "status": "الحالة",
+      "accountId": "معرّف الحساب / ID",
+      "actions": "الإجراءات",
+      "connected": "متصل",
+      "disconnected": "غير متصل",
+      "comingSoon": "قريباً",
+      "manage": "إدارة",
+      "connect": "ربط الآن"
+    },
+    "security": "جميع عمليات الربط آمنة ومشفّرة. لا نصل إلى بيانات حساباتك.",
+    "apps": {
+      "meta": {
+        "desc": "لقياس فعالية الحملات الإعلانية على فيسبوك وإنستجرام وواتساب"
+      },
+      "tiktok": {
+        "desc": "لقياس فعالية الحملات الإعلانية على تيك توك"
+      },
+      "zoom": {
+        "desc": "إنشاء روابط اجتماعات Zoom تلقائياً للجلسات والكورسات اللايف"
+      },
+      "gtm": {
+        "desc": "إدارة ونشر أكواد التسويق دون الحاجة إلى تعديل الكود"
+      },
+      "gcal": {
+        "desc": "جدولة الجلسات الفردية والكورسات اللايف تلقائياً عبر تقويم جوجل"
+      },
+      "ga": {
+        "desc": "تتبع وتحليل حركة المرور وسلوك المستخدمين"
+      },
+      "clarity": {
+        "desc": "تحليل تجربة المستخدم عبر تسجيلات الجلسات والخرائط الحرارية"
+      },
+      "snap": {
+        "desc": "لقياس فعالية الحملات الإعلانية على سناب شات"
+      }
+    },
+    "toasts": {
+      "zoomConnected": "تم ربط Zoom بنجاح",
+      "gcalConnected": "تم ربط Google Calendar بنجاح",
+      "connectFailed": "فشل بدء الربط",
+      "disconnectFailed": "فشل الفصل",
+      "saveFailed": "فشل الحفظ",
+      "noAuthUrl": "لم يتم الحصول على رابط الربط",
+      "zoomDisconnected": "تم فصل Zoom",
+      "gcalDisconnected": "تم فصل Google Calendar",
+      "metaConnected": "تم ربط Meta Pixel بنجاح ✅",
+      "metaDisconnected": "تم فصل Meta Pixel",
+      "tiktokConnected": "تم ربط TikTok Pixel بنجاح ✅",
+      "tiktokDisconnected": "تم فصل TikTok Pixel",
+      "invalidMeta": "كود Meta Pixel غير صالح. تأكد من لصق Pixel ID الصحيح.",
+      "invalidTiktok": "كود TikTok Pixel غير صالح. تأكد من لصق Pixel ID الصحيح.",
+      "invalidClarity": "معرّف Clarity غير صالح. تأكد من لصق Project ID أو الكود الصحيح.",
+      "clarityConnected": "تم ربط Microsoft Clarity بنجاح ✅",
+      "clarityDisconnected": "تم فصل Microsoft Clarity",
+      "invalidSnap": "معرّف Snap Pixel غير صالح. تأكد من لصق Pixel ID أو الكود الصحيح.",
+      "snapConnected": "تم ربط Snap Pixel بنجاح ✅",
+      "snapDisconnected": "تم فصل Snap Pixel",
+      "invalidGa": "معرّف Google Analytics غير صالح. الصق معرّفًا مثل G-XXXXXXXXXX أو كود التتبع الكامل.",
+      "gaConnected": "تم ربط Google Analytics بنجاح ✅",
+      "gaDisconnected": "تم فصل Google Analytics",
+      "invalidGtm": "معرّف حاوية Google Tag Manager غير صالح",
+      "gtmConnected": "تم ربط Google Tag Manager بنجاح",
+      "gtmDisconnected": "تم فصل Google Tag Manager"
+    },
+    "meta": {
+      "connectTitle": "ربط Meta Pixel",
+      "connectDesc": "الصق Pixel ID الخاص بك من Meta Events Manager. يمكنك لصق الكود الكامل أو الـ ID فقط.",
+      "pixelId": "Pixel ID",
+      "metaPlaceholder": "مثال: 1234567890123456",
+      "cancel": "إلغاء",
+      "connect": "ربط",
+      "manageTitle": "إدارة Meta Pixel",
+      "manageDesc": "تفاصيل الربط الحالي مع Meta Pixel.",
+      "capiEnabled": "CAPI مفعّل تلقائياً",
+      "close": "إغلاق",
+      "disconnect": "فصل الربط"
+    },
+    "tiktok": {
+      "connectTitle": "ربط TikTok Pixel",
+      "connectDesc": "الصق Pixel ID الخاص بك من TikTok Ads Manager.",
+      "placeholder": "مثال: COUU1U2U3UUUUUUUUUUMG",
+      "manageTitle": "إدارة TikTok Pixel",
+      "manageDesc": "تفاصيل الربط الحالي مع TikTok Pixel."
+    },
+    "clarityDlg": {
+      "connectTitle": "ربط Microsoft Clarity",
+      "connectDesc": "الصق Project ID الخاص بمشروع Clarity، أو الصق كود التتبع الكامل.",
+      "projectId": "Project ID",
+      "placeholder": "مثال: abcd1234ef",
+      "manageTitle": "إدارة Microsoft Clarity",
+      "manageDesc": "تفاصيل الربط الحالي مع Microsoft Clarity.",
+      "auto": "سيتم تسجيل جلسات الزوار والخرائط الحرارية تلقائياً"
+    },
+    "snapDlg": {
+      "connectTitle": "ربط Snap Pixel",
+      "connectDesc": "الصق Pixel ID من Snapchat Ads Manager، أو الصق كود التتبع الكامل.",
+      "pixelId": "Pixel ID",
+      "placeholder": "مثال: 1a2b3c4d-5e6f-7a8b-9c0d-1e2f3a4b5c6d",
+      "manageTitle": "إدارة Snap Pixel",
+      "manageDesc": "تفاصيل الربط الحالي مع Snap Pixel.",
+      "auto": "سيتم تتبع الزيارات وعمليات الشراء تلقائياً"
+    },
+    "gaDlg": {
+      "connectTitle": "ربط Google Analytics",
+      "connectDesc": "الصق معرّف القياس (Measurement ID) من حساب Google Analytics، أو الصق كود التتبع الكامل.",
+      "measurementId": "Measurement ID",
+      "placeholder": "مثال: G-XXXXXXXXXX",
+      "manageTitle": "إدارة Google Analytics",
+      "manageDesc": "تفاصيل الربط الحالي مع Google Analytics.",
+      "auto": "سيتم تتبع الزيارات وعمليات الشراء تلقائياً"
+    },
+    "zoomDlg": {
+      "title": "إدارة Zoom",
+      "desc": "تفاصيل حساب Zoom المربوط بمنصتك.",
+      "email": "البريد الإلكتروني",
+      "accountName": "اسم الحساب",
+      "auto": "سيتم إنشاء روابط الاجتماعات تلقائياً"
+    },
+    "gcalDlg": {
+      "title": "إدارة Google Calendar",
+      "desc": "تفاصيل حساب جوجل المربوط بمنصتك.",
+      "email": "البريد الإلكتروني",
+      "auto": "سيتم إضافة الجلسات والاستشارات لتقويمك تلقائياً",
+      "busyTitle": "مزامنة الأوقات المشغولة",
+      "busyDesc": "إخفاء المواعيد المشغولة في تقويمك من صفحات الحجز"
+    },
+    "guide": {
+      "title": "دليل التكاملات",
+      "desc": "تعرّف على كيفية ربط كل تطبيق وما الفائدة منه.",
+      "pixels": "Meta / TikTok Pixel",
+      "pixelsDesc": "الصق Pixel ID من حساب الإعلانات لتتبع زيارات صفحات الكورسات وأحداث الشراء تلقائياً.",
+      "meet": "Zoom / Google Meet",
+      "meetDesc": "إنشاء روابط اجتماعات تلقائية للكورسات اللايف والجلسات الفردية عند الحجز.",
+      "cal": "Google Calendar",
+      "calDesc": "مزامنة المواعيد المحجوزة مع تقويم جوجل الخاص بك ومنع التضارب الزمني.",
+      "analytics": "Google Analytics / Clarity",
+      "analyticsDesc": "تحليل حركة الزوار على صفحاتك ومشاهدة تسجيلات الجلسات لتحسين معدل التحويل.",
+      "done": "تم"
+    },
+    "gtmDlg": {
+      "connectTitle": "ربط Google Tag Manager",
+      "connectDesc": "الصق معرّف الحاوية (GTM-XXXXXXX) أو كود التتبع الكامل.",
+      "containerId": "معرّف الحاوية",
+      "placeholder": "GTM-XXXXXXX",
+      "manageTitle": "إدارة Google Tag Manager",
+      "manageDesc": "الحاوية مفعّلة على صفحاتك العامة.",
+      "auto": "يتم إرسال مشاهدات الصفحات وأحداث الشراء تلقائيًا إلى dataLayer"
+    }
+  },
+  "contentBank": {
+    "title": "بنك المحتوى (للمشتركين فقط)",
+    "newFolder": "تصنيف جديد",
+    "newFolderTitle": "تصنيف جديد",
+    "empty": "لا توجد تصنيفات بعد",
+    "createFirst": "أنشئ أول تصنيف",
+    "noItems": "لا يوجد عناصر بعد",
+    "untitledItem": "عنصر بدون عنوان",
+    "addItem": "إضافة عنصر",
+    "uploadedFile": "ملف مرفوع",
+    "uploadTitle": "رفع ملف",
+    "toasts": {
+      "folderAdded": "تم إضافة التصنيف",
+      "folderDeleted": "تم حذف التصنيف",
+      "itemAdded": "تم إضافة العنصر",
+      "itemAddError": "خطأ في إضافة العنصر",
+      "fileUploaded": "تم رفع الملف",
+      "fileUploadError": "خطأ في رفع الملف"
+    },
+    "types": {
+      "rich": "نص و صور",
+      "video": "فيديو",
+      "audio": "صوت",
+      "pdf": "PDF",
+      "link": "رابط",
+      "button": "زر"
+    },
+    "add": {
+      "title": "إضافة عنصر جديد",
+      "type": "نوع المحتوى",
+      "itemTitle": "عنوان العنصر",
+      "cancel": "إلغاء",
+      "add": "إضافة"
+    },
+    "edit": {
+      "title": "تعديل العنصر",
+      "itemTitle": "عنوان العنصر",
+      "content": "المحتوى",
+      "contentPlaceholder": "اكتب المحتوى هنا... يمكنك إضافة صور وتنسيقات",
+      "videoSource": "مصدر الفيديو",
+      "uploadFile": "رفع ملف",
+      "ytLink": "رابط YouTube",
+      "ytUrl": "رابط YouTube",
+      "file": "الملف",
+      "uploading": "جاري الرفع...",
+      "replaceFile": "استبدال الملف الحالي",
+      "chooseFile": "اختر ملف للرفع",
+      "descOptional": "الوصف (اختياري)",
+      "descPlaceholder": "اكتب وصفاً مختصراً...",
+      "url": "الرابط",
+      "buttonLabel": "نص الزر",
+      "buttonLabelPlaceholder": "اضغط هنا",
+      "buttonUrl": "رابط الزر",
+      "done": "تم"
+    },
+    "delete": {
+      "title": "حذف التصنيف",
+      "desc": "هل أنت متأكد أنك تريد حذف هذا التصنيف؟ سيتم حذف جميع العناصر داخله نهائياً ولا يمكن التراجع عن هذا الإجراء.",
+      "cancel": "إلغاء",
+      "confirm": "حذف"
+    }
+  },
+  "giftPicker": {
+    "label": "اختر الهدايا المجانية",
+    "placeholder": "اختر الكورسات والمنتجات اللي هتكون هدية",
+    "empty": "لا توجد {{kind}} متاحة لتكون هدية.",
+    "clearAll": "مسح الكل",
+    "done": "تم",
+    "kinds": {
+      "course": "الكورسات",
+      "live_course": "الكورسات المباشرة",
+      "digital_product": "المنتجات الرقمية",
+      "consultation": "الاستشارات"
+    }
+  },
+  "shareDialog": {
+    "title": "مشاركة المنتج",
+    "copied": "تم نسخ الرابط",
+    "copyError": "تعذر النسخ",
+    "copy": "نسخ",
+    "preview": "معاينة"
+  },
+  "quizEditor": {
+    "loading": "جاري التحميل...",
+    "passPercentage": "نسبة النجاح (%)",
+    "addQuestion": "إضافة سؤال",
+    "noQuestions": "لم تتم إضافة أسئلة بعد",
+    "questionPlaceholder": "نص السؤال",
+    "optionPlaceholder": "نص الخيار",
+    "markCorrect": "تحديد كإجابة صحيحة",
+    "addOption": "إضافة خيار"
+  },
+  "certificateEditor": {
+    "title": "قالب الشهادة",
+    "subtitle": "يتم اصدارها بشكل تلقائي للطالب عند إتمامه للكورس ",
+    "sampleStudent": "محمد خالد",
+    "sampleCourse": "اسم الدورة",
+    "sampleMentor": "اسم المدرب",
+    "shortNameTitle": "إضافة إسمي الشخصي كتوقيع",
+    "shortNameDesc": "يظهر اسمك الشخصي (من الملف الشخصي) كتوقيع أسفل اسم موقعك على الشهادة",
+    "saved": "تم حفظ الإعداد",
+    "saveFailed": "تعذّر حفظ الإعداد"
+  },
+  "salesOffers": {
+    "bumpTitle": "عرض",
+    "bumpSubtitle": "عرض إضافي أثناء الدفع",
+    "upsellTitle": "Upsell (عرض بعد الشراء)",
+    "upsellSubtitle": "عرض خاص يظهر بعد إتمام الدفع مباشرة",
+    "offerType": "نوع العرض",
+    "kindCourse": "كورس",
+    "kindProduct": "منتج رقمي",
+    "featuredCourse": "الكورس المعروض",
+    "featuredProduct": "المنتج الرقمي المعروض",
+    "pickCourse": "اختر كورس",
+    "pickProduct": "اختر منتج رقمي",
+    "bumpProduct": "المنتج المضاف",
+    "bumpProductPlaceholder": "اختر منتج للعرض",
+    "offerTitleLabel": "عنوان العرض",
+    "offerTitlePlaceholder": "أضف هذا العرض بخصم خاص!",
+    "bumpTitlePlaceholder": "مثال: أضف الدورة المتقدمة بخصم خاص!",
+    "shortDescription": "وصف مختصر",
+    "shortDescriptionPlaceholder": "وصف قصير للعرض...",
+    "headline": "العنوان الرئيسي",
+    "headlinePlaceholder": "مثال: عرض لمرة واحدة فقط!",
+    "upsellDescription": "وصف العرض",
+    "upsellDescriptionPlaceholder": "لماذا يجب على الطالب قبول هذا العرض...",
+    "originalPrice": "السعر الأصلي (ج.م)",
+    "offerPrice": "سعر العرض (ج.م)",
+    "specialPrice": "السعر الخاص (ج.م)",
+    "offerPricePlaceholderOptional": "اختياري",
+    "offerPricePlaceholderNone": "اتركه فارغاً إن لم يكن هناك خصم",
+    "originalPriceInfo": "السعر الأصلي: {{price}} ج.م",
+    "save": "حفظ الإعدادات",
+    "savedBump": "تم حفظ إعدادات العرض بنجاح",
+    "savedUpsell": "تم حفظ إعدادات Upsell بنجاح",
+    "saveError": "خطأ في الحفظ",
+    "currency": "ج.م",
+    "bumpHint": "عرض إضافي أثناء الدفع",
+    "upsellHint": "عرض خاص بعد إتمام الشراء",
+    "edit": "تعديل",
+    "notConfigured": "لم يتم إعداد هذا العرض بعد",
+    "active": "مفعّل",
+    "inactive": "غير مفعّل",
+    "dialogEditBump": "تعديل عرض",
+    "dialogEditUpsell": "تعديل Upsell"
+  },
+  "scheduleEditor": {
+    "title": "تعديل جدول المواعيد",
+    "subtitle": "يمكنك تعديل البيانات الخاصة بجدول المواعيد",
+    "save": "حفظ",
+    "saving": "جاري الحفظ...",
+    "loadFailed": "تعذر التحميل",
+    "titleRequired": "العنوان مطلوب",
+    "saved": "تم الحفظ بنجاح",
+    "savedShort": "تم الحفظ",
+    "resetDay": "تم إعادة اليوم لوضعه الافتراضي",
+    "tabs": {
+      "weekly": "الساعات الأسبوعية",
+      "calendar": "التقويم"
+    },
+    "form": {
+      "titleLabel": "العنوان",
+      "titlePlaceholder": "مثال: جدول الاستشارات الأسبوعي",
+      "timezone": "التوقيت الزمني"
+    },
+    "slots": {
+      "availableTimes": "المواعيد المتاحة",
+      "hint": "ⓘ يرجى تحديد فترات العمل المتاحة بالكامل، سيقوم النظام بتقسيم ساعاتك الأسبوعية على حسب مدة المنتج",
+      "add": "أضف توقيت"
+    },
+    "override": {
+      "available": "متاح للحجز",
+      "disableHint": "عطّل هذا اليوم لمنع الحجوزات",
+      "from": "من",
+      "to": "إلى",
+      "remove": "إزالة الاستثناء",
+      "cancel": "إلغاء",
+      "save": "حفظ"
+    },
+    "calendar": {
+      "clickToCustomize": "اضغط على أي يوم لتخصيصه",
+      "today": "اليوم",
+      "daysAvailable": "يوم متاح",
+      "customTimes": "توقيت مخصص",
+      "daysBlocked": "يوم معطل",
+      "custom": "مخصص",
+      "more": "المزيد",
+      "legend": {
+        "defaultAvailable": "متاح افتراضي",
+        "custom": "توقيت مخصص",
+        "blocked": "معطل",
+        "today": "اليوم"
+      }
+    },
+    "days": {
+      "sun": "الأحد",
+      "mon": "الإثنين",
+      "tue": "الثلاثاء",
+      "wed": "الأربعاء",
+      "thu": "الخميس",
+      "fri": "الجمعة",
+      "sat": "السبت"
+    },
+    "months": {
+      "jan": "يناير",
+      "feb": "فبراير",
+      "mar": "مارس",
+      "apr": "أبريل",
+      "may": "مايو",
+      "jun": "يونيو",
+      "jul": "يوليو",
+      "aug": "أغسطس",
+      "sep": "سبتمبر",
+      "oct": "أكتوبر",
+      "nov": "نوفمبر",
+      "dec": "ديسمبر"
+    },
+    "period": {
+      "am": "ص",
+      "pm": "م"
+    },
+    "timezones": {
+      "cairo": "أفريقيا / القاهرة (GMT+3)",
+      "riyadh": "آسيا / الرياض (GMT+3)",
+      "dubai": "آسيا / دبي (GMT+4)",
+      "london": "أوروبا / لندن",
+      "newYork": "أمريكا / نيويورك"
+    }
+  },
+  "courseEditor": {
+    "title": "تعديل الدورة",
+    "subtitle": "تعديل تفاصيل ومحتوى الدورة",
+    "unpublishedTooltip": "هذه الدورة غير منشورة حالياً ولن تكون ظاهرة للطلاب",
+    "unpublishedBadge": "⚠️ المنتج غير منشور",
+    "publish": "نشر",
+    "preview": "معاينة",
+    "save": "حفظ",
+    "saving": "جاري الحفظ...",
+    "tabs": {
+      "productInfo": "صفحة البيع",
+      "content": "المحتوى",
+      "pricing": "السعر و العرض",
+      "contentBank": "بنك المحتوى",
+      "aiBot": "المساعد الذكي",
+      "additionalSettings": "إعدادات إضافية"
+    },
+    "contentTypes": {
+      "video": "فيديو",
+      "quiz": "اختبار",
+      "text": "نص وصور",
+      "featuredProduct": "منتج مميز"
+    },
+    "pricing": {
+      "currentLabel": "الحالي:",
+      "free": "مجاني",
+      "currency": "ج.م",
+      "priceLabel": "سعر الدورة (ج.م)",
+      "pricePlaceholder": "مثال: 650",
+      "priceBeforeDiscount": "السعر قبل الخصم — اختياري",
+      "priceBeforeDiscountPlaceholder": "مثال: 1200"
+    },
+    "visibility": {
+      "title": "منتج غير مدرج",
+      "private": "خاص",
+      "public": "عام",
+      "privateDesc": "يعمل بالرابط فقط ولا يظهر في صفحتك",
+      "publicDesc": "ظاهر للجميع في صفحة البروفايل"
+    },
+    "displayAndButtons": {
+      "title": "العرض و الأزرار",
+      "subtitle": "ترتيب الظهور و نصوص الأزرار في الصفحات",
+      "displayOrder": "ترتيب الظهور في صفحة الملف الشخصي",
+      "displayOrderHint": "رقم أصغر = يظهر أولاً",
+      "decrement": "إنقاص",
+      "increment": "زيادة",
+      "buyButton": "زر الشراء",
+      "salesPageBadge": "صفحة البيع",
+      "buyButtonPlaceholder": "اشترك الآن",
+      "cardButton": "زر الكارد",
+      "profileBadge": "البروفايل",
+      "cardButtonPlaceholder": "عرض الدورة"
+    },
+    "support": {
+      "title": "المتابعة مع المشتركين",
+      "requiredWarning": "يجب اختيار طريقة المتابعة مع المشتركين قبل نشر الدورة",
+      "community": "مجتمع الكورس",
+      "communityDesc": "جروب أو مجتمع خاص بالطلاب",
+      "individual": "متابعة فردية",
+      "individualDesc": "دعم ومتابعة شخصية عبر واتساب",
+      "both": "كلاهما",
+      "bothDesc": "مجتمع الكورس + متابعة فردية"
+    },
+    "media": {
+      "sectionTitle": "🖼️ الوسائط",
+      "edit": "تعديل",
+      "salesPageImage": "صورة صفحة البيع",
+      "bannerVideo": "فيديو البانر",
+      "noImage": "لم يتم رفع صورة",
+      "noVideo": "لم يتم رفع فيديو",
+      "dialogTitle": "تعديل الوسائط",
+      "dialogDesc": "الصورة المصغرة وفيديو البانر لصفحة البيع",
+      "imageLabel": "🖼️ صورة صفحة البيع",
+      "imageHint": "تُستخدم كصورة مصغرة في كل الأماكن وعند مشاركة الرابط",
+      "noImageYet": "لم يتم رفع صورة بعد",
+      "videoLabel": "🎬 فيديو البانر (اختياري)",
+      "videoHint": "فيديو تعريفي يظهر في صفحة البيع بدلاً من الصورة",
+      "noVideoYet": "لم يتم رفع فيديو بعد",
+      "uploading": "جاري الرفع...",
+      "changeImage": "تغيير الصورة",
+      "uploadImage": "رفع صورة",
+      "deleteImage": "حذف الصورة",
+      "changeVideo": "تغيير الفيديو",
+      "uploadVideo": "رفع فيديو",
+      "deleteVideo": "حذف الفيديو"
+    },
+    "courseInfo": {
+      "sectionTitle": "📝 معلومات الدورة",
+      "titleLabel": "عنوان الدورة",
+      "detailsLabel": "تفاصيل الدورة",
+      "notSet": "غير محدد",
+      "none": "اضغط على زر تعديل لإضافة وصف و تفاصيل الكورس",
+      "dialogTitle": "تعديل معلومات الدورة",
+      "dialogDesc": "العنوان و تفاصيل الدورة"
+    },
+    "faqs": {
+      "sectionTitle": "❓ الأسئلة الشائعة",
+      "count": "سؤال شائع",
+      "empty": "لم تتم إضافة أسئلة شائعة بعد",
+      "dialogTitle": "تعديل الأسئلة الشائعة",
+      "dialogDesc": "الأسئلة الشائعة التي تظهر في صفحة البيع"
+    },
+    "common": {
+      "cancel": "إلغاء",
+      "save": "حفظ",
+      "saving": "جاري الحفظ..."
+    },
+    "curriculum": {
+      "title": "الأقسام والدروس",
+      "newSection": "قسم جديد"
+    },
+    "lessons": {
+      "addLesson": "إضافة درس",
+      "freePreview": "معاينة مجانية",
+      "publishLesson": "نشر الدرس",
+      "untitled": "درس بدون عنوان",
+      "queued": "في الانتظار...",
+      "uploadLessonContent": "رفع محتوى الدرس",
+      "editLesson": "تعديل الدرس",
+      "titlePlaceholder": "عنوان الدرس",
+      "descriptionPlaceholder": "وصف المحتوى (اختياري)",
+      "published": "منشور",
+      "uploadingFile": "جاري رفع الملف...",
+      "uploadedSuccessfully": "تم الرفع بنجاح",
+      "image": "صورة",
+      "video": "فيديو",
+      "audio": "ملف صوتي",
+      "pdfFile": "ملف PDF",
+      "textContent": "محتوى نصي (يدعم HTML)",
+      "embedCode": "كود التضمين (HTML / iframe)",
+      "changeFile": "تغيير الملف",
+      "uploadDownloadFile": "رفع ملف للتحميل",
+      "uploaded": "تم الرفع",
+      "uploadEpub": "رفع ملف EPUB",
+      "uploadOffice": "رفع مستند Office",
+      "zoomLink": "رابط اجتماع Zoom",
+      "zoomHint": "سيظهر زر \"انضم للاجتماع\" للطلاب",
+      "selectFeatured": "اختر المنتج المميز",
+      "selectFeaturedPlaceholder": "اختر منتج من قائمة منتجاتك",
+      "noProductsAvailable": "لا توجد منتجات متاحة",
+      "selectFeaturedHint": "اختر برنامج أو منتج من قائمة منتجاتك ليظهر كمنتج مميز للطالب",
+      "upsellLinks": "روابط المنتجات الإضافية",
+      "upsellPlaceholder": "رابط كل منتج في سطر منفصل\nhttps://...\nhttps://...",
+      "upsellHint": "ضع رابط كل منتج في سطر منفصل",
+      "done": "تم"
+    },
+    "pricingCard": {
+      "title": "التسعير",
+      "subtitle": "حدد سعر البيع و السعر قبل الخصم"
+    },
+    "gift": {
+      "title": "إضافة هدية مجانية",
+      "desc": "الطالب يحصل على كورسات، منتجات رقمية أو جلسات مجاناً عند الشراء"
+    },
+    "additionalSettings": {
+      "title": "إعدادات إضافية",
+      "subtitle": "حدد الخصائص التي تميّز دورتك — ستظهر كأيقونات في صفحة عرض الدورة",
+      "certificate": "شهادة إتمام",
+      "certificateDesc": "يحصل الطالب على شهادة عند إكمال الدورة",
+      "lifetimeUpdates": "تحديثات دائمة",
+      "lifetimeUpdatesDesc": "الدورة تتلقى تحديثات ومحتوى جديد باستمرار"
+    },
+    "community": {
+      "linkLabel": "رابط جروب/مجتمع الكورس",
+      "linkPlaceholder": "https://chat.whatsapp.com/... أو https://t.me/...",
+      "linkHint": "سيتم عرض هذا الرابط للمشتركين بعد الشراء للانضمام لمجتمع الكورس.",
+      "whatsappInfo": "المشتركين هيتواصلوا معاك واتساب للاستفسار على الرقم:",
+      "whatsappMissing": "لم يتم إدخال رقم واتساب بعد. أضف رقمك من إعدادات الملف الشخصي.",
+      "profileSettings": "إعدادات الملف الشخصي"
+    },
+    "addLesson": {
+      "title": "إضافة محتوى للدرس",
+      "contentType": "نوع المحتوى",
+      "contentTypePlaceholder": "اختر نوع المحتوى",
+      "contentTitle": "عنوان المحتوى",
+      "titleFallback": "عنوان الدرس",
+      "extraSettings": "إعدادات اضافية",
+      "description": "وصف المحتوى",
+      "descriptionPlaceholder": "وصف مختصر للدرس (اختياري)",
+      "freePreview": "معاينة مجانية",
+      "freePreviewDesc": "السماح لغير المشتركين بمشاهدة هذا الدرس في صفحة بيع الكورس",
+      "cancel": "إلغاء",
+      "add": "إضافة"
+    },
+    "deleteSection": {
+      "title": "حذف القسم",
+      "description": "هل أنت متأكد أنك تريد حذف هذا القسم؟ سيتم حذف جميع الدروس داخله نهائياً ولا يمكن التراجع عن هذا الإجراء.",
+      "cancel": "إلغاء",
+      "delete": "حذف"
+    },
+    "toasts": {
+      "requireSupportBeforePublish": "يجب اختيار طريقة المتابعة مع المشتركين قبل نشر الدورة",
+      "saveSuccess": "تم الحفظ بنجاح",
+      "saveError": "خطأ في الحفظ",
+      "coverUploadSuccess": "تم رفع صورة الكورس بنجاح",
+      "imageUploadError": "خطأ في رفع الصورة",
+      "createVideoFailed": "فشل إنشاء الفيديو",
+      "videoUploadFailed": "فشل رفع الفيديو",
+      "connectionError": "خطأ في الاتصال",
+      "bannerVideoUploadSuccess": "تم رفع فيديو البانر بنجاح",
+      "videoUploadError": "خطأ في رفع الفيديو",
+      "uploadCancelled": "تم إلغاء الرفع",
+      "fileUploadFailed": "فشل رفع الملف",
+      "attachmentUploadSuccess": "تم رفع المرفق بنجاح",
+      "attachmentUploadError": "خطأ في رفع المرفق",
+      "imageUploadSuccess": "تم رفع الصورة بنجاح"
+    },
+    "priceTab": {
+      "tabTitle": "السعر والعرض",
+      "tabSubtitle": "تحكم في تسعير المنتج وطريقة ظهوره للطلاب",
+      "pricingSection": "تفاصيل التسعير",
+      "buttonsSection": "تخصيص أزرار الشراء",
+      "savings": "وفر {{pct}}٪",
+      "buyButtonLabel": "نص الزر في صفحة البيع",
+      "cardButtonLabel": "نص الزر في بطاقة المنتج",
+      "orderTitle": "ترتيب الظهور",
+      "orderHint": "الأولوية في صفحة الملف الشخصي"
+    }
+  },
+  "unsavedChanges": {
+    "title": "لديك تغييرات غير محفوظة",
+    "description": "هل تريد حفظ التغييرات قبل المغادرة؟",
+    "cancel": "إلغاء",
+    "discard": "تجاهل التغييرات",
+    "save": "حفظ",
+    "saving": "جاري الحفظ..."
+  },
+  "uploadProgress": {
+    "uploadedSuccessfully": "تم الرفع بنجاح",
+    "error": "خطأ"
+  },
+  "bunnyVideo": {
+    "processing": "جاري المعالجة"
+  },
+  "iconPicker": {
+    "chooseIcon": "اختر أيقونة",
+    "noResults": "لا توجد نتائج",
+    "searchPlaceholder": "ابحث عن أيقونة..."
+  },
+  "platformAnnouncements": {
+    "aria": "إشعارات المنصة",
+    "title": "تحديثات المنصة",
+    "subtitle": "آخر الإعلانات والتحديثات من إبداعي",
+    "markAllRead": "تعليم الكل كمقروء",
+    "empty": "لا توجد تحديثات حالياً",
+    "view": "عرض"
+  },
+  "liveCourseEditor": {
+    "terms": {
+      "productThe": {
+        "consultation": "الاستشارة",
+        "course": "الكورس"
+      },
+      "productA": {
+        "consultation": "استشارة",
+        "course": "كورس"
+      },
+      "productYour": {
+        "consultation": "استشارتك",
+        "course": "كورسك المباشر"
+      },
+      "productsList": {
+        "consultation": "الاستشارات",
+        "course": "الكورسات"
+      }
+    },
+    "toasts": {
+      "loadFailed": "تعذر تحميل البيانات",
+      "titleRequired": "العنوان مطلوب",
+      "saveError": "خطأ في الحفظ",
+      "saved": "تم الحفظ بنجاح",
+      "genericError": "خطأ",
+      "imageUploaded": "تم رفع الصورة",
+      "createVideoFailed": "فشل إنشاء الفيديو",
+      "uploadFailed": "فشل الرفع",
+      "videoUploaded": "تم رفع الفيديو",
+      "fillAllFields": "املأ كل الحقول",
+      "sessionSaved": "تم الحفظ",
+      "sessionUpdated": "تم التحديث",
+      "zoomLinkCreated": "تم إنشاء رابط Zoom",
+      "zoomLinkExists": "رابط Zoom جاهز",
+      "zoomLinkFailed": "تم حفظ الجلسة، لكن تعذر إنشاء رابط Zoom",
+      "requiredMissing": "يرجى إكمال البيانات التالية",
+      "sessionPast": "يجب أن يكون تاريخ ووقت الجلسة في المستقبل"
+    },
+    "tabs": {
+      "info": "صفحة البيع",
+      "attendance": "مكان الحضور",
+      "schedule": "المواعيد والمحاضرات",
+      "pricing": "السعر و العرض",
+      "contentBank": "بنك المحتوى",
+      "additionalSettings": "إعدادات إضافية",
+      "customers": "العملاء"
+    },
+    "header": {
+      "editConsultation": "تعديل الاستشارة",
+      "editLive": "تعديل الكورس المباشر",
+      "subConsultation": "إدارة استشارة بمواعيد للحجز",
+      "subLive": "إدارة كورس بمواعيد محددة",
+      "notPublishedTooltip": "هذا المنتج غير منشور حالياً ولن يكون ظاهراً للطلاب",
+      "notPublished": "⚠️ المنتج غير منشور",
+      "publish": "نشر",
+      "preview": "معاينة",
+      "save": "حفظ",
+      "saving": "جاري الحفظ...",
+      "editBundle": "تعديل باقة الجلسات",
+      "subBundle": "إدارة باقة جلسات فردية قابلة للحجز"
+    },
+    "info": {
+      "media": "🖼️ الوسائط",
+      "saleImage": "صورة صفحة البيع",
+      "bannerVideo": "فيديو البانر",
+      "noImage": "لم يتم رفع صورة",
+      "noVideo": "لم يتم رفع فيديو",
+      "edit": "تعديل",
+      "faqs": "❓ الأسئلة الشائعة",
+      "faqCount": "سؤال شائع",
+      "faqEmpty": "لم تتم إضافة أسئلة شائعة بعد",
+      "productInfo": "📝 معلومات {{prod}}",
+      "title": "العنوان",
+      "notSet": "غير محدد",
+      "capacity": "عدد الأماكن المتاحة",
+      "shortDesc": "وصف مختصر",
+      "none": "اضغط على زر تعديل لإضافة وصف و تفاصيل الكورس اللايف",
+      "description": "الوصف",
+      "sessionDuration": "مدة الجلسة",
+      "minutes": "دقيقة",
+      "schedule": "جدول المواعيد"
+    },
+    "mediaDialog": {
+      "title": "تعديل الوسائط",
+      "desc": "الصورة المصغرة وفيديو البانر لصفحة البيع",
+      "saleImage": "🖼️ صورة صفحة البيع",
+      "dims": "الأبعاد الموصى بها 1600 × 900 بيكسل",
+      "uploading": "جاري الرفع...",
+      "changeImage": "تغيير الصورة",
+      "uploadImage": "رفع صورة",
+      "deleteImage": "حذف الصورة",
+      "noImageYet": "لم يتم رفع صورة بعد",
+      "bannerVideoOptional": "🎬 فيديو البانر (اختياري)",
+      "bannerVideoDesc": "يظهر في صفحة البيع بدلاً من الصورة",
+      "changeVideo": "تغيير الفيديو",
+      "uploadVideo": "رفع فيديو",
+      "deleteVideo": "حذف الفيديو",
+      "noVideoYet": "لم يتم رفع فيديو بعد",
+      "cancel": "إلغاء"
+    },
+    "infoDialog": {
+      "titlePrefix": "تعديل معلومات {{prod}}",
+      "desc": "العنوان والرابط والوصف",
+      "andConsultation": " وإعدادات الاستشارة",
+      "labelTitle": "عنوان {{prod}}",
+      "phConsultation": "مثال، استشارة تسويقية",
+      "phCourse": "مثال، دورة تعليم اللغة الانجليزية",
+      "capacity": "عدد الأماكن المتاحة",
+      "capacityPh": "أقصى عدد للحضور في الدورة، مثال 20",
+      "capacityHint": "عند اكتمال هذا العدد سيتم منع الشراء تلقائياً",
+      "shortDescLabel": "وصف مختصر",
+      "shortDescPh": "سوف يظهر هذا الوصف في قائمة {{list}}",
+      "descLabel": "الوصف",
+      "consultSettings": "إعدادات الاستشارة",
+      "consultSettingsDesc": "حدد مدة الجلسة وجدول المواعيد المتاحة للحجز",
+      "duration": "مدة الجلسة (بالدقائق)",
+      "durationPh": "مثال: 30",
+      "durationHint": "سيتم تقسيم المواعيد المتاحة بناءً على هذه المدة",
+      "scheduleLabel": "جدول المواعيد المتاحة",
+      "noSchedules": "لم يتم إنشاء أي جدول مواعيد بعد.",
+      "goToSchedules": "اذهب إلى صفحة جداول المواعيد لإنشاء جدول",
+      "chooseSchedule": "اختر جدول المواعيد",
+      "cancel": "إلغاء",
+      "sessionsCount": "عدد الجلسات في الباقة",
+      "sessionsCountHint": "عدد المواعيد التي يمكن للطالب حجزها بعد الشراء",
+      "minLeadHours": "أقل مدة قبل الحجز (ساعة)",
+      "minLeadHoursHint": "لا يمكن للطالب الحجز قبل الموعد بأقل من هذه المدة",
+      "bufferSlots": "عدد المواعيد الفاصلة",
+      "bufferSlotsHint": "مواعيد يتم إغلاقها قبل وبعد كل حجز",
+      "bookingWindowDays": "أقصى مدة للحجز المستقبلي (يوم)",
+      "bookingWindowDaysPh": "بدون حد",
+      "bookingWindowDaysHint": "أقصى عدد أيام مقدماً يمكن الحجز خلالها",
+      "bookingStartDate": "بداية فترة الحجز",
+      "bookingEndDate": "نهاية فترة الحجز"
+    },
+    "landingDialog": {
+      "title": "تعديل الأسئلة الشائعة",
+      "desc": "الأسئلة الشائعة التي تظهر في صفحة البيع",
+      "cancel": "إلغاء"
+    },
+    "attendance": {
+      "method": "طريقة الحضور",
+      "chooseMethod": "اختر طريقة الحضور",
+      "chooseHint": "يجب اختيار طريقة الحضور قبل حفظ المنتج",
+      "zoom": "Zoom",
+      "zoomDesc": "اجتماع عبر Zoom",
+      "online": "أونلاين",
+      "onlineDesc": "Google Meet أو رابط آخر",
+      "inPerson": "حضور شخصي",
+      "inPersonDesc": "في مكان محدد",
+      "zoomNote": "سيتم إنشاء رابط اجتماع Zoom تلقائياً عبر حسابك المربوط وإرساله للعميل بالبريد الإلكتروني بعد الشراء.",
+      "zoomNotConnected": "غير متصل",
+      "zoomNotConnectedHint": "يجب ربط حساب Zoom أولاً لاستخدامه كطريقة حضور.",
+      "zoomConnectCta": "ربط",
+      "meetingLink": "رابط Google Meet أو الرابط المباشر",
+      "meetingHint": "يصل للعميل بعد الشراء فقط",
+      "placeName": "اسم المكان",
+      "placeNamePh": "مثال: قاعة المؤتمرات - فندق ...",
+      "mapUrl": "رابط خرائط جوجل",
+      "directions": "كيفية الوصول",
+      "directionsPh": "تعليمات تفصيلية للوصول للمكان"
+    },
+    "schedule": {
+      "title": "جدول المحاضرات",
+      "desc": "أضف كل محاضرة بتاريخها ووقتها ومدتها",
+      "addSession": "أضف محاضرة",
+      "empty": "لم تتم إضافة محاضرات بعد",
+      "sessionNum": "محاضرة رقم {{num}}",
+      "save": "حفظ",
+      "cancel": "إلغاء",
+      "sessionTitle": "عنوان المحاضرة",
+      "sessionTitlePh": "مثال، مقدمة",
+      "sessionDate": "تاريخ المحاضرة",
+      "sessionTime": "وقت المحاضرة",
+      "durationMin": "المدة بالدقائق",
+      "creatingZoomLink": "جارٍ إنشاء رابط الاجتماع…"
+    },
+    "pricing": {
+      "headerTitle": "السعر و العرض",
+      "headerDesc": "تحكم في تسعير {{prod}}، طريقة عرضه، نصوص الأزرار، الهدايا المجانية و عروض المبيعات",
+      "currentPrice": "السعر الحالي",
+      "free": "مجاني",
+      "egp": "ج.م",
+      "pricingTitle": "التسعير",
+      "pricingDesc": "حدد سعر البيع و السعر قبل الخصم",
+      "priceLabel": "السعر (ج.م) — اتركه 0 ليكون مجاني",
+      "priceBefore": "السعر قبل الخصم — اختياري",
+      "priceBeforePh": "مثال: 500",
+      "unlistedTitle": {
+        "consultation": "استشارة غير مدرجة",
+        "course": "كورس غير مدرج"
+      },
+      "private": "خاص",
+      "public": "عام",
+      "unlistedYes": "يعمل بالرابط فقط ولا يظهر في صفحتك",
+      "unlistedNo": "ظاهر للجميع في صفحة البروفايل",
+      "displaySection": "العرض و الأزرار",
+      "displayDesc": "ترتيب الظهور و نصوص الأزرار في الصفحات",
+      "displayOrder": "ترتيب الظهور في صفحة الملف الشخصي",
+      "decrease": "إنقاص",
+      "increase": "زيادة",
+      "orderHint": "رقم أصغر = يظهر أولاً",
+      "buyButton": "زر الشراء",
+      "buyPage": "صفحة {{prod}}",
+      "buyPh": {
+        "consultation": "احجز استشارتك",
+        "course": "احجز الآن"
+      },
+      "cardButton": "زر الكارد",
+      "cardPh": "اشترك الآن",
+      "addGift": "إضافة هدية مجانية",
+      "giftDesc": "الطالب يحصل على كورسات، منتجات رقمية أو جلسات مجاناً عند الشراء"
+    },
+    "additional": {
+      "title": "إعدادات إضافية",
+      "desc": "حدد الخصائص التي تميّز {{prod}} — ستظهر كأيقونات في صفحة العرض",
+      "certificate": "شهادة إتمام",
+      "certDesc": "يحصل الطالب على شهادة عند إكمال {{prod}}",
+      "lifetime": "تحديثات دائمة",
+      "lifetimeDesc": {
+        "consultation": "الاستشارة تتلقى تحديثات ومحتوى جديد باستمرار",
+        "course": "الكورس يتلقى تحديثات ومحتوى جديد باستمرار"
+      },
+      "followup": "المتابعة مع المشتركين",
+      "community": "مجتمع الكورس",
+      "communityDesc": "جروب أو مجتمع خاص بالطلاب",
+      "individual": "متابعة فردية",
+      "individualDesc": "دعم ومتابعة شخصية عبر واتساب",
+      "both": "كلاهما",
+      "bothDesc": "مجتمع الكورس + متابعة فردية",
+      "communityLink": "رابط مجتمع الكورس",
+      "whatsappOn": "المشتركين هيتواصلوا معاك واتساب على: ",
+      "whatsappMissing": "لم يتم إدخال رقم واتساب بعد. أضف رقمك من إعدادات الملف الشخصي."
+    },
+    "customers": {
+      "title": "العملاء المسجلون",
+      "empty": "لا يوجد عملاء بعد"
+    },
+    "missing": {
+      "attendanceType": "طريقة الحضور",
+      "meetingLink": "رابط الاجتماع",
+      "locationName": "اسم المكان",
+      "locationMapUrl": "رابط الموقع على الخريطة",
+      "sessionDuration": "مدة الجلسة",
+      "schedule": "جدول المواعيد",
+      "sessionsCount": "عدد الجلسات في الباقة"
+    }
+  },
+  "digitalProductEditor": {
+    "toasts": {
+      "loadFail": "تعذر تحميل المنتج",
+      "titleRequired": "العنوان مطلوب",
+      "needSupport": "يجب اختيار طريقة المتابعة قبل النشر",
+      "saveError": "خطأ في الحفظ",
+      "saveSuccess": "تم الحفظ بنجاح",
+      "imageError": "خطأ في رفع الصورة",
+      "imageUploaded": "تم رفع الصورة",
+      "videoCreateFail": "فشل إنشاء الفيديو",
+      "uploadFail": "فشل الرفع",
+      "uploadError": "خطأ",
+      "videoUploaded": "تم رفع الفيديو",
+      "videoError": "خطأ في رفع الفيديو",
+      "fileUploadFail": "فشل رفع {{name}}",
+      "filesUploaded": "تم رفع الملفات",
+      "filesPartial": "تم رفع {{done}} من {{total}}",
+      "error": "خطأ",
+      "fileDeleted": "تم الحذف",
+      "titleSaveError": "خطأ في حفظ العنوان",
+      "sampleUploaded": "تم رفع ملف المعاينة",
+      "sampleError": "خطأ في رفع ملف المعاينة",
+      "sampleCanceled": "تم إلغاء المعاينة المجانية"
+    },
+    "confirm": {
+      "deleteFile": "حذف الملف \"{{name}}\"؟",
+      "cancelSample": "إلغاء ملف المعاينة المجانية؟"
+    },
+    "header": {
+      "titleFallback": "تعديل المنتج",
+      "subtitle": "تعديل تفاصيل ومحتوى المنتج الرقمي",
+      "unpublishedTooltip": "هذا المنتج غير منشور حالياً ولن يكون ظاهراً للطلاب",
+      "unpublishedBadge": "⚠️ المنتج غير منشور",
+      "publish": "نشر",
+      "preview": "معاينة",
+      "save": "حفظ",
+      "saving": "جاري الحفظ..."
+    },
+    "tabs": {
+      "productInfo": "صفحة البيع",
+      "content": "المحتوى",
+      "pricing": "السعر و العرض",
+      "additionalSettings": "إعدادات إضافية"
+    },
+    "media": {
+      "heading": "🖼️ الوسائط",
+      "edit": "تعديل",
+      "thumbLabel": "صورة صفحة البيع",
+      "videoLabel": "فيديو البانر",
+      "noImage": "لم يتم رفع صورة",
+      "noVideo": "لم يتم رفع فيديو",
+      "dialogTitle": "تعديل الوسائط",
+      "dialogDesc": "الصورة المصغرة وفيديو البانر لصفحة البيع",
+      "thumbCardTitle": "🖼️ صورة صفحة البيع",
+      "thumbCardHint": "تظهر كصورة مصغرة في كل الأماكن",
+      "noImageYet": "لم يتم رفع صورة بعد",
+      "uploading": "جاري الرفع...",
+      "changeImage": "تغيير الصورة",
+      "uploadImage": "رفع صورة",
+      "deleteImage": "حذف الصورة",
+      "videoCardTitle": "🎬 فيديو البانر (اختياري)",
+      "videoCardHint": "يظهر في صفحة البيع بدلاً من الصورة",
+      "noVideoYet": "لم يتم رفع فيديو بعد",
+      "changeVideo": "تغيير الفيديو",
+      "uploadVideo": "رفع فيديو",
+      "deleteVideo": "حذف الفيديو",
+      "cancel": "إلغاء",
+      "save": "حفظ",
+      "saving": "جاري الحفظ..."
+    },
+    "info": {
+      "heading": "📝 معلومات المنتج",
+      "titleLabel": "عنوان المنتج",
+      "notSet": "غير محدد",
+      "detailsLabel": "تفاصيل المنتج",
+      "empty": "اضغط على زر تعديل لإضافة وصف و تفاصيل المنتج",
+      "dialogTitle": "تعديل معلومات المنتج",
+      "dialogDesc": "العنوان والرابط وتفاصيل المنتج",
+      "titleInput": "عنوان المنتج",
+      "details": "تفاصيل المنتج"
+    },
+    "faqs": {
+      "heading": "❓ الأسئلة الشائعة",
+      "count": "سؤال شائع",
+      "empty": "لم تتم إضافة أسئلة شائعة بعد",
+      "dialogTitle": "تعديل الأسئلة الشائعة",
+      "dialogDesc": "الأسئلة الشائعة التي تظهر في صفحة البيع"
+    },
+    "contentTab": {
+      "heading": "ملفات المنتج",
+      "subheading": "الملفات اللي هيحملها العميل بعد الشراء.",
+      "addFiles": "إضافة ملفات",
+      "uploading": "جاري الرفع ({{done}}/{{total}})",
+      "empty": "لا توجد ملفات بعد. أضف ملفات قابلة للتحميل (PDF, ZIP, صور...). يمكنك اختيار أكثر من ملف مرة واحدة."
+    },
+    "pricing": {
+      "heading": "التسعير",
+      "subtitle": "حدد سعر البيع و السعر قبل الخصم",
+      "current": "الحالي:",
+      "free": "مجاني",
+      "currency": "ج.م",
+      "priceLabel": "سعر المنتج (ج.م)",
+      "oldPriceLabel": "السعر قبل الخصم — اختياري",
+      "oldPricePlaceholder": "مثال: 500"
+    },
+    "unlisted": {
+      "heading": "منتج غير مدرج",
+      "private": "خاص",
+      "public": "عام",
+      "hintPrivate": "يعمل بالرابط فقط ولا يظهر في صفحتك",
+      "hintPublic": "ظاهر للجميع في صفحة البروفايل"
+    },
+    "display": {
+      "heading": "العرض و الأزرار",
+      "subtitle": "ترتيب الظهور و نصوص الأزرار في الصفحات",
+      "orderLabel": "ترتيب الظهور في صفحة الملف الشخصي",
+      "decrease": "إنقاص",
+      "increase": "زيادة",
+      "orderHint": "رقم أصغر = يظهر أولاً",
+      "buyBtnLabel": "زر الشراء",
+      "buyBtnBadge": "صفحة البيع",
+      "buyPlaceholder": "اشترِ الآن",
+      "cardBtnLabel": "زر الكارد",
+      "cardBtnBadge": "البروفايل",
+      "cardPlaceholder": "عرض المنتج"
+    },
+    "gift": {
+      "heading": "إضافة هدية مجانية",
+      "hint": "الطالب يحصل على كورسات، منتجات رقمية أو جلسات مجاناً عند الشراء"
+    },
+    "additional": {
+      "heading": "إعدادات إضافية",
+      "subtitle": "حدد الخصائص التي تميّز منتجك — ستظهر كأيقونات في صفحة العرض"
+    },
+    "sample": {
+      "title": "معاينة مجانية قبل الشراء",
+      "desc": "ارفع ملف يقدر الطالب يحمّله ويجرّبه قبل ما يشتري المنتج كامل",
+      "replace": "استبدال",
+      "uploading": "جاري رفع ملف المعاينة..."
+    },
+    "lifetime": {
+      "title": "تحديثات دائمة",
+      "desc": "المنتج يتلقى تحديثات ومحتوى جديد باستمرار"
+    },
+    "support": {
+      "title": "المتابعة مع المشترين",
+      "needChoice": "يجب اختيار طريقة المتابعة قبل النشر",
+      "community": {
+        "label": "مجتمع المنتج",
+        "desc": "جروب أو مجتمع خاص بالعملاء"
+      },
+      "individual": {
+        "label": "متابعة فردية",
+        "desc": "دعم ومتابعة شخصية عبر واتساب"
+      },
+      "both": {
+        "label": "كلاهما",
+        "desc": "مجتمع المنتج + متابعة فردية"
+      },
+      "communityLinkLabel": "رابط مجتمع المنتج",
+      "whatsappNote": "العملاء هيتواصلوا معاك واتساب على الرقم:",
+      "whatsappMissing": "لم يتم إدخال رقم واتساب بعد. أضفه من إعدادات الملف الشخصي."
+    }
+  },
+  "themeColorPicker": {
+    "title": "لون الصفحات العامة",
+    "subtitle": "اختر اللون الرئيسي لصفحة عرض الكورس وصفحتك الشخصية",
+    "save": "حفظ اللون",
+    "saving": "جاري الحفظ...",
+    "errorTitle": "خطأ",
+    "errorDesc": "فشل حفظ اللون",
+    "successTitle": "تم الحفظ",
+    "successDesc": "تم تغيير لون الصفحات بنجاح",
+    "themes": {
+      "classicBlack": "أسود كلاسيكي",
+      "emeraldGreen": "أخضر زمردي",
+      "vividPurple": "أرجواني مشع",
+      "cherryRed": "أحمر الكرز",
+      "royalBlue": "أزرق ملكي",
+      "warmOrange": "برتقالي دافئ",
+      "elegantPink": "وردي أنيق",
+      "deepIndigo": "نيلي عميق",
+      "luxuryGold": "ذهبي فاخر",
+      "custom": "لون مخصص"
+    },
+    "productsLabel": "شراء",
+    "customHint": "اضغط لاختيار درجة لون دقيقة تناسب علامتك التجارية",
+    "customPickLabel": "اختر لونك المخصص"
+  },
+  "advancedDateRangePicker": {
+    "quickRanges": "الفترات السريعة",
+    "compareToPrevious": "مقارنة بالفترة السابقة",
+    "cancel": "إلغاء",
+    "update": "تحديث",
+    "presets": {
+      "last24h": "آخر 24 ساعة",
+      "today": "اليوم",
+      "yesterday": "أمس",
+      "today_yesterday": "اليوم وأمس",
+      "last7": "آخر 7 أيام",
+      "last14": "آخر 14 يوم",
+      "last28": "آخر 28 يوم",
+      "last30": "آخر 30 يوم",
+      "last90": "آخر 90 يوم",
+      "this_week": "هذا الأسبوع",
+      "last_week": "الأسبوع الماضي",
+      "this_month": "هذا الشهر",
+      "last_month": "الشهر الماضي",
+      "max": "الحد الأقصى"
+    }
+  },
+  "mentorSubscriptions": {
+    "title": "إدارة الاشتراكات",
+    "subtitle": "إدارة اشتراكات المستخدمين والفوترة",
+    "search": "بحث...",
+    "allStatuses": "جميع الحالات",
+    "active": "نشط",
+    "expired": "منتهي",
+    "cancelled": "ملغي",
+    "allPlans": "جميع الخطط",
+    "monthly": "شهري",
+    "yearly": "سنوي",
+    "allCourses": "جميع الدورات",
+    "clear": "مسح",
+    "refresh": "تحديث",
+    "listTitle": "إدارة الاشتراكات ({{count}})",
+    "listCount": "عرض {{shown}} من {{total}} اشتراك",
+    "empty": "لم يتم العثور على اشتراكات"
+  },
+  "mentorDashboard": {
+    "orderStatus": {
+      "paid": "مكتملة",
+      "unpaid": "غير مكتملة",
+      "cancelled": "ملغي",
+      "pending": "انتظار الدفع"
+    },
+    "presets": {
+      "today": "اليوم"
+    },
+    "overview": {
+      "latestOrders": "آخر الطلبات",
+      "viewAll": "عرض الكل",
+      "colProduct": "المنتج",
+      "colCustomer": "العميل",
+      "colAmount": "المبلغ",
+      "colStatus": "الحالة",
+      "colDate": "التاريخ",
+      "noOrdersInPeriod": "لا توجد طلبات في هذه الفترة",
+      "topProductsTitle": "أكثر البرامج و المنتجات مبيعًا",
+      "noSalesYet": "لا توجد مبيعات بعد",
+      "ordersCount": "{{count}} طلب"
+    },
+    "toast": {
+      "notAllowed": "غير مسموح",
+      "noPermission": "لا تملك صلاحية الوصول إلى هذه الصفحة",
+      "notMentor": "هذا الحساب ليس حساب مدرب",
+      "createdCourse": "تم إنشاء الدورة",
+      "createError": "خطأ في الإنشاء",
+      "chooseSupportTitle": "اختر طريقة المتابعة مع المشتركين أولاً",
+      "chooseSupportDesc": "تم فتح الدورة على القسم المطلوب — اختر الطريقة ثم احفظ.",
+      "deletedCourse": "تم حذف الدورة",
+      "imageUploaded": "تم رفع الصورة بنجاح",
+      "imageUploadError": "حدث خطأ أثناء رفع الصورة",
+      "imageUploadFailed": "فشل رفع الصورة",
+      "fillAllFields": "يرجى ملء جميع الحقول ورفع صور الهوية",
+      "withdrawalSent": "تم إرسال طلبك بنجاح",
+      "withdrawalSentDesc": "سيتم مراجعة طلبك والرد عليك في أقرب وقت",
+      "slugMinLength": "اسم المستخدم يجب أن يكون 3 أحرف على الأقل",
+      "slugDash": "اسم المستخدم لا يمكن أن يبدأ أو ينتهي بشرطة",
+      "slugTaken": "اسم المستخدم غير متاح، جرب اسم آخر",
+      "slugUpdated": "تم تحديث اسم المستخدم بنجاح",
+      "profileSaved": "تم حفظ الملف الشخصي",
+      "genericError": "حدث خطأ"
+    },
+    "unknown": "غير معروف",
+    "free": "مجاني",
+    "egp": "ج.م",
+    "devices": {
+      "mobile": "موبايل",
+      "desktop": "كمبيوتر",
+      "tablet": "تابلت",
+      "smarttv": "تلفاز ذكي",
+      "other": "أخرى"
+    },
+    "countries": {
+      "EG": "مصر",
+      "SA": "السعودية",
+      "AE": "الإمارات",
+      "US": "الولايات المتحدة",
+      "GB": "المملكة المتحدة",
+      "DE": "ألمانيا",
+      "FR": "فرنسا",
+      "NL": "هولندا",
+      "FI": "فنلندا",
+      "BE": "بلجيكا",
+      "QA": "قطر",
+      "KW": "الكويت",
+      "JO": "الأردن",
+      "MA": "المغرب",
+      "DZ": "الجزائر",
+      "TN": "تونس",
+      "IQ": "العراق",
+      "SY": "سوريا",
+      "LB": "لبنان",
+      "PS": "فلسطين",
+      "YE": "اليمن",
+      "OM": "عُمان",
+      "SD": "السودان",
+      "LY": "ليبيا",
+      "TR": "تركيا",
+      "CA": "كندا",
+      "AU": "أستراليا",
+      "IN": "الهند"
+    },
+    "courses": {
+      "pageTitle": "الكورسات المسجلة",
+      "pageSubtitle": "قم بإنشاء و إدارة دوراتك المسجلة بالفيديو",
+      "viewCards": "بطاقات",
+      "viewTable": "جدول",
+      "deleteDialog": {
+        "title": "هل أنت متأكد من حذف هذه الدورة؟",
+        "description": "سيتم حذف الدورة نهائياً ولا يمكن التراجع عن هذا الإجراء.",
+        "cancel": "إلغاء",
+        "confirm": "حذف الدورة"
+      },
+      "deleteError": "تعذر حذف الدورة",
+      "new": "دورة جديدة",
+      "newDialogTitle": "دورة جديدة",
+      "titleLabel": "عنوان الدورة",
+      "titlePlaceholder": "مثال: أساسيات التسويق الرقمي",
+      "cancel": "إلغاء",
+      "create": "إنشاء",
+      "creating": "جاري الإنشاء...",
+      "published": "منشورة",
+      "draft": "غير منشور",
+      "publish": "نشر الدورة",
+      "unpublish": "إلغاء النشر",
+      "edit": "تعديل الدورة",
+      "delete": "حذف الدورة",
+      "empty": "لا توجد دورات بعد",
+      "createFirst": "أنشئ دورتك الأولى",
+      "col": {
+        "course": "الدورة",
+        "slug": "الرابط",
+        "price": "السعر",
+        "status": "الحالة",
+        "actions": "إجراءات"
+      }
+    }
+  },
+  "certificatePreview": {
+    "ariaLabel": "شهادة إتمام {{course}} للطالب {{student}}",
+    "title": "شهادة إتمام {{course}}",
+    "scanToVerify": "امسح للتحقق",
+    "issueDate": "تاريخ الإصدار",
+    "certificateId": "رقم الشهادة: {{id}}",
+    "heading": "شهادة إتمام",
+    "awardedTo": "تشهد هذه الشهادة بأن",
+    "completedCourse": "قد أتم بنجاح",
+    "supervisedBy": "بإشراف"
+  },
+  "mentorSignup": {
+    "otp": {
+      "resumeBanner": "أكمل تأكيد بريدك الإلكتروني للمتابعة",
+      "title": "أكد بريدك الإلكتروني",
+      "descriptionPrefix": "أرسلنا رمز تأكيد مكوّن من 6 أرقام إلى",
+      "descriptionSuffix": ". أدخل الرمز أدناه لإكمال التسجيل.",
+      "verifying": "جاري التحقق...",
+      "confirm": "تأكيد الرمز",
+      "sending": "جاري الإرسال...",
+      "resendIn": "إعادة إرسال الرمز خلال {{seconds}} ثانية",
+      "resend": "إعادة إرسال الرمز",
+      "spamHint": "إذا لم تجد البريد، تحقق من مجلد الرسائل غير المرغوب فيها (Spam).",
+      "editEmail": "تعديل البريد الإلكتروني"
+    },
+    "googlePhone": {
+      "resumeBanner": "لديك حساب غير مكتمل — أكمل بياناتك للمتابعة",
+      "title": "أكمل بياناتك",
+      "subtitle": "نحتاج رقم هاتفك للاستمرار",
+      "firstName": "الاسم الأول",
+      "lastName": "اسم العائلة",
+      "phone": "رقم الهاتف",
+      "saving": "جاري الحفظ...",
+      "next": "التالي"
+    },
+    "details": {
+      "resumeBanner": "لديك حساب غير مكتمل — أكمل بياناتك للمتابعة",
+      "title": "أنشئ صفحتك الشخصية",
+      "subtitle": "سوف تظهر هذه البيانات لزوار صفحتك عند الحجز",
+      "username": "اسم المستخدم",
+      "usernamePlaceholder": "اسم المستخدم الخاص بك",
+      "usernameLangWarning": "استخدم أحرف إنجليزية وأرقام فقط",
+      "available": "متاح ✓",
+      "taken": "محجوز",
+      "usernameHint": "أدخل اسم المستخدم الخاص بك مثال: dr-tarek-saeed، fadi-ibrahim (يمكنك استخدام حروف إنجليزية وأرقام وعلامة -)",
+      "brand": "اسم الصفحة",
+      "brandPlaceholder": "اسمك أو اسم علامتك التجارية",
+      "brandHint": "مثال: فادي ابراهيم، د/ طارق سعيد",
+      "specialty": "مجال عملك",
+      "specialtyPlaceholder": "أدخل مجال عملك",
+      "specialtyHint": "مثال: لايف كوتش، طبيب نفسي، مدرس، طبيب تغذية",
+      "saving": "جاري الحفظ...",
+      "next": "التالي"
+    },
+    "done": {
+      "title": "تم إنشاء حسابك بنجاح 🎉",
+      "subtitle": "للاستمرار، يمكنك اختيار أحد الخيارات التالية",
+      "completeProfile": "أكمل بيانات صفحتك",
+      "addProduct": "أضف منتج",
+      "goToDashboard": "اذهب إلى حسابك"
+    },
+    "form": {
+      "loading": "جاري التحميل...",
+      "signupWithGoogle": "إنشاء حساب بـ Google",
+      "or": "أو",
+      "firstName": "الاسم الأول",
+      "lastName": "اسم العائلة",
+      "email": "البريد الإلكتروني",
+      "password": "كلمة المرور",
+      "confirmPassword": "تأكيد كلمة المرور",
+      "passwordMismatch": "كلمتا المرور غير متطابقتين",
+      "processing": "جاري المعالجة...",
+      "next": "التالي",
+      "haveAccount": "لديك حساب بالفعل؟",
+      "signIn": "سجّل الدخول",
+      "emailTypo": "\"{{typo}}\" خطأ، الصحيح \"{{correct}}\""
+    }
+  },
+  "pwa": {
+    "install": "تثبيت التطبيق",
+    "howToTitle": "تثبيت التطبيق على جهازك",
+    "howToDescription": "أضف التطبيق إلى الشاشة الرئيسية لجهازك لتفتحه بضغطة واحدة.",
+    "iosStep1": "اضغط على زر المشاركة في شريط المتصفح",
+    "iosStep2": "اختر \"إضافة إلى الشاشة الرئيسية\"",
+    "androidStep1": "اضغط على قائمة المتصفح (⋮)",
+    "androidStep2": "اختر \"تثبيت التطبيق\" أو \"إضافة إلى الشاشة الرئيسية\"",
+    "bannerText": "ثبّت {{app}} لاستقبال التنبيهات على جهازك مباشرة",
+    "bannerCta": "ثبّت",
+    "dismissBanner": "إغلاق",
+    "appFallbackName": "التطبيق"
+  },
+  "richTextEditor": {
+    "sizes": {
+      "small": "صغير",
+      "normal": "عادي",
+      "medium": "متوسط",
+      "large": "كبير",
+      "xlarge": "كبير جداً"
+    },
+    "prompts": {
+      "linkTitle": "أدخل الرابط:",
+      "youtubeTitle": "أدخل رابط يوتيوب:"
+    },
+    "toasts": {
+      "audioType": "يرجى اختيار ملف صوتي",
+      "audioSize": "حجم الملف الصوتي يجب أن يكون أقل من 20 ميجابايت",
+      "audioUploaded": "تم رفع الملف الصوتي بنجاح",
+      "audioFailed": "فشل رفع الملف الصوتي: ",
+      "imageType": "يرجى اختيار ملف صورة",
+      "imageSize": "حجم الصورة يجب أن يكون أقل من 5 ميجابايت",
+      "imageUploaded": "تم رفع الصورة بنجاح",
+      "imageFailed": "فشل رفع الصورة: ",
+      "unknownError": "خطأ غير معروف"
+    },
+    "titles": {
+      "bold": "غامق",
+      "italic": "مائل",
+      "underline": "تحته خط",
+      "h1": "عنوان 1",
+      "h2": "عنوان 2",
+      "h3": "عنوان 3",
+      "fontSize": "حجم الخط",
+      "textColor": "لون النص",
+      "customColor": "لون مخصص",
+      "custom": "مخصص",
+      "bgColor": "لون الخلفية",
+      "noBg": "بدون خلفية",
+      "bulletList": "قائمة نقطية",
+      "orderedList": "قائمة مرقمة",
+      "alignRight": "محاذاة يمين",
+      "alignCenter": "محاذاة وسط",
+      "alignLeft": "محاذاة يسار",
+      "addLink": "إضافة رابط",
+      "removeLink": "إزالة الرابط",
+      "addYoutube": "إضافة فيديو يوتيوب",
+      "addImage": "إضافة صورة",
+      "uploading": "جاري الرفع...",
+      "addAudio": "إضافة صوت",
+      "clearFormat": "مسح التنسيق",
+      "undo": "تراجع",
+      "redo": "إعادة"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+name = "ebdaey-og-worker"
+main = "src/worker.ts"
+compatibility_date = "2024-11-01"
+
+# Production environment — bound to the custom domain
+[env.production]
+name = "ebdaey-og-worker"
+routes = [
+  { pattern = "ebdaey.com/*", custom_domain = false, zone_name = "ebdaey.com" },
+  { pattern = "www.ebdaey.com/*", custom_domain = false, zone_name = "ebdaey.com" },
+]
+
+[env.production.vars]
+# The Lovable origin that actually serves the SPA.
+# IMPORTANT: this must NOT be ebdaey.com (would cause an infinite loop).
+ORIGIN_HOST = "ebdaey.lovable.app"
+SITE_URL    = "https://ebdaey.com"
+SUPABASE_URL = "https://hnrcibzgoziqvtsiepws.supabase.co"
+# Anon (publishable) key — safe to commit, it is public by design.
+SUPABASE_ANON_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImhucmNpYnpnb3ppcXZ0c2llcHdzIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzIzNjQ4MDgsImV4cCI6MjA4Nzk0MDgwOH0.zmf60KFFU5ik_cavmcpTGR9eAWUsA915vdzjRFKDVog"

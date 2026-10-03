@@ -1,0 +1,2 @@
+ALTER TABLE public.digital_product_files ADD COLUMN IF NOT EXISTS is_sample boolean NOT NULL DEFAULT false;
+CREATE INDEX IF NOT EXISTS idx_dp_files_product_sample ON public.digital_product_files (digital_product_id) WHERE is_sample = true;

@@ -1,0 +1,5 @@
+ALTER TABLE public.courses 
+ADD COLUMN IF NOT EXISTS adjectives TEXT,
+ADD COLUMN IF NOT EXISTS target_audience TEXT,
+ADD COLUMN IF NOT EXISTS banner_type TEXT DEFAULT 'image',
+ADD COLUMN IF NOT EXISTS banner_video_url TEXT;

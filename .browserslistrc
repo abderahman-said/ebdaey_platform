@@ -1,0 +1,15 @@
+# Browserslist configuration
+# This helps determine which browsers to target for transpilation
+
+# Last 2 versions of modern browsers
+last 2 versions
+# Not dead browsers (browsers with > 0.5% market share)
+not dead
+# Safari and iOS
+Safari >= 12
+iOS >= 12
+# Chrome and Edge
+Chrome >= 90
+Edge >= 90
+# Firefox
+Firefox >= 88

@@ -1,0 +1,1 @@
+update public.courses set landing_subheader = null where slug='perfumery-course';

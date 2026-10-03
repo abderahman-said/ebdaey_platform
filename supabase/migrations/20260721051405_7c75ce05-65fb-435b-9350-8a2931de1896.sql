@@ -1,0 +1,2 @@
+ALTER TABLE public.courses DROP CONSTRAINT IF EXISTS courses_gift_course_id_fkey;
+ALTER TABLE public.courses ADD CONSTRAINT courses_gift_course_id_fkey FOREIGN KEY (gift_course_id) REFERENCES public.courses(id) ON DELETE SET NULL;

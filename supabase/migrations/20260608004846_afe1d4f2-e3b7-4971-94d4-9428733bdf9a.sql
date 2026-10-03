@@ -1,0 +1,2 @@
+ALTER TABLE public.tenants ADD COLUMN IF NOT EXISTS membership_plan text NOT NULL DEFAULT 'free';
+ALTER TABLE public.tenants ADD CONSTRAINT tenants_membership_plan_check CHECK (membership_plan IN ('free','pro'));

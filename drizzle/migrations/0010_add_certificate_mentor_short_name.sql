@@ -1,0 +1,1 @@
+ALTER TABLE public.tenants ADD COLUMN IF NOT EXISTS certificate_mentor_short_name boolean NOT NULL DEFAULT false;

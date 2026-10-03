@@ -1,0 +1,1 @@
+ALTER VIEW public.public_tenants SET (security_invoker = false);

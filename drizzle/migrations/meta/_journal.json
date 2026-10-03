@@ -1,0 +1,258 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1788020735592,
+      "tag": "0000_remove_stale_singular_reminder_cron",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1788164581200,
+      "tag": "0001_add_live_course_order_bump_support",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1788173264437,
+      "tag": "0002_subscription_purchase_fees_and_transactions",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1788200767053,
+      "tag": "0003_admin_tenant_owner_emails",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "7",
+      "when": 1788202430991,
+      "tag": "0004_attendance_type_no_default",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "7",
+      "when": 1788265074655,
+      "tag": "0005_session_bundle_product",
+      "breakpoints": true
+    },
+    {
+      "idx": 6,
+      "version": "7",
+      "when": 1788273283183,
+      "tag": "0006_taken_slots_add_tenant",
+      "breakpoints": true
+    },
+    {
+      "idx": 7,
+      "version": "7",
+      "when": 1788275358339,
+      "tag": "0007_allow_session_bundle_product_type",
+      "breakpoints": true
+    },
+    {
+      "idx": 8,
+      "version": "7",
+      "when": 1788298429930,
+      "tag": "0008_gcal_add_app_user_id",
+      "breakpoints": true
+    },
+    {
+      "idx": 9,
+      "version": "7",
+      "when": 1788305243054,
+      "tag": "0009_security_lessons_preview_and_invoker_views",
+      "breakpoints": true
+    },
+    {
+      "idx": 10,
+      "version": "7",
+      "when": 1788557608001,
+      "tag": "0010_add_certificate_mentor_short_name",
+      "breakpoints": true
+    },
+    {
+      "idx": 11,
+      "version": "7",
+      "when": 1788557925748,
+      "tag": "0011_certificate_mentor_personal_name_fn",
+      "breakpoints": true
+    },
+    {
+      "idx": 12,
+      "version": "7",
+      "when": 1788564992826,
+      "tag": "0012_admin_manage_coupons",
+      "breakpoints": true
+    },
+    {
+      "idx": 13,
+      "version": "7",
+      "when": 1788714847027,
+      "tag": "0013_add_rate_limiting",
+      "breakpoints": true
+    },
+    {
+      "idx": 14,
+      "version": "7",
+      "when": 1788772042058,
+      "tag": "0014_payment_gateway_reference_and_callback_log",
+      "breakpoints": true
+    },
+    {
+      "idx": 15,
+      "version": "7",
+      "when": 1788875820252,
+      "tag": "0015_admin_login_hardening",
+      "breakpoints": true
+    },
+    {
+      "idx": 16,
+      "version": "7",
+      "when": 1788901926998,
+      "tag": "0016_add_buyer_country_to_purchases",
+      "breakpoints": true
+    },
+    {
+      "idx": 17,
+      "version": "7",
+      "when": 1788961994166,
+      "tag": "0017_add_clarity_to_mentor_pixels",
+      "breakpoints": true
+    },
+    {
+      "idx": 18,
+      "version": "7",
+      "when": 1788964207092,
+      "tag": "0018_allow_public_read_mentor_pixels",
+      "breakpoints": true
+    },
+    {
+      "idx": 19,
+      "version": "7",
+      "when": 1788964468615,
+      "tag": "0019_add_snap_pixel_to_mentor_pixels",
+      "breakpoints": true
+    },
+    {
+      "idx": 20,
+      "version": "7",
+      "when": 1788964880942,
+      "tag": "0020_add_ga_to_mentor_pixels",
+      "breakpoints": true
+    },
+    {
+      "idx": 21,
+      "version": "7",
+      "when": 1788965200878,
+      "tag": "0021_add_gtm_to_mentor_pixels",
+      "breakpoints": true
+    },
+    {
+      "idx": 22,
+      "version": "7",
+      "when": 1789054117714,
+      "tag": "0022_reviews_add_half_star_rating",
+      "breakpoints": true
+    },
+    {
+      "idx": 23,
+      "version": "7",
+      "when": 1789213468547,
+      "tag": "0023_balance_adjustments_kind",
+      "breakpoints": true
+    },
+    {
+      "idx": 24,
+      "version": "7",
+      "when": 1789992342255,
+      "tag": "0024_content_protection_events_and_restrictions",
+      "breakpoints": true
+    },
+    {
+      "idx": 25,
+      "version": "7",
+      "when": 1790172962877,
+      "tag": "0025_my_capture_history",
+      "breakpoints": true
+    },
+    {
+      "idx": 26,
+      "version": "7",
+      "when": 1790338065142,
+      "tag": "0026_scope_course_assets_listing",
+      "breakpoints": true
+    },
+    {
+      "idx": 27,
+      "version": "7",
+      "when": 1790376434445,
+      "tag": "0027_cron_secret_for_reminders",
+      "breakpoints": true
+    },
+    {
+      "idx": 28,
+      "version": "7",
+      "when": 1790407788942,
+      "tag": "0028_bunny_video_owners",
+      "breakpoints": true
+    },
+    {
+      "idx": 29,
+      "version": "7",
+      "when": 1790407854084,
+      "tag": "0029_guard_mentor_payment_status",
+      "breakpoints": true
+    },
+    {
+      "idx": 30,
+      "version": "7",
+      "when": 1790448620955,
+      "tag": "0030_multi_currency_pricing",
+      "breakpoints": true
+    },
+    {
+      "idx": 31,
+      "version": "7",
+      "when": 1790449268985,
+      "tag": "0031_transactions_currency_from_gateway",
+      "breakpoints": true
+    },
+    {
+      "idx": 32,
+      "version": "7",
+      "when": 1790450562411,
+      "tag": "0032_usd_balance_settlements",
+      "breakpoints": true
+    },
+    {
+      "idx": 33,
+      "version": "7",
+      "when": 1790450897814,
+      "tag": "0033_usd_balances_include_subscriptions",
+      "breakpoints": true
+    },
+    {
+      "idx": 34,
+      "version": "7",
+      "when": 1790452568658,
+      "tag": "0034_fixed_currency_coupons_and_bump_prices",
+      "breakpoints": true
+    },
+    {
+      "idx": 35,
+      "version": "7",
+      "when": 1790462205929,
+      "tag": "0035_international_withdrawal_settings",
+      "breakpoints": true
+    }
+  ]
+}

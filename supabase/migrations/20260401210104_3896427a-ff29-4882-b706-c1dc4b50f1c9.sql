@@ -1,0 +1,1 @@
+ALTER TABLE public.tenants ADD COLUMN show_reviews_on_profile boolean NOT NULL DEFAULT false;

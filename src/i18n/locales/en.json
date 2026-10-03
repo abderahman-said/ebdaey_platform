@@ -1,0 +1,2650 @@
+{
+  "common": {
+    "language": "Language",
+    "arabic": "العربية",
+    "english": "English",
+    "startNow": "Get Started",
+    "startFree": "Launch your platform",
+    "startFreeCta": "Start free today",
+    "login": "Log in",
+    "signup": "Sign up",
+    "myAccount": "My account",
+    "logout": "Log out",
+    "noCardRequired": "No credit card · Ready in 2 minutes",
+    "close": "Close",
+    "open": "Open"
+  },
+  "nav": {
+    "myAccount": "My account"
+  },
+  "auth": {
+    "welcomeBack": "Welcome back",
+    "noAccountPrompt": "Still without an account?",
+    "noAccountCta": "Create your account",
+    "tabs": {
+      "login": "Log in",
+      "signup": "Create account"
+    },
+    "google": {
+      "signIn": "Sign in with Google",
+      "loading": "Loading..."
+    },
+    "or": "or",
+    "fields": {
+      "fullName": "Full name",
+      "fullNamePlaceholder": "Enter your name",
+      "phone": "Phone number",
+      "email": "Email address",
+      "password": "Password",
+      "passwordPlaceholder": "Password",
+      "confirmPasswordPlaceholder": "Confirm password",
+      "rememberMe": "Remember me",
+      "forgotPassword": "Forgot your password?"
+    },
+    "actions": {
+      "processing": "Processing...",
+      "login": "Log in",
+      "signup": "Create account",
+      "backHome": "Back to homepage"
+    },
+    "verification": {
+      "title": "Confirm your email",
+      "descriptionPrefix": "A confirmation link was sent to",
+      "descriptionSuffix": ". Open the email and click the confirm button to continue.",
+      "resend": "Resend confirmation link",
+      "resending": "Sending...",
+      "spamHint": "Didn't get the code? Check your Spam folder.",
+      "backToLogin": "Back to login"
+    },
+    "toast": {
+      "welcomeTitle": "Welcome!",
+      "signedInSuccess": "You have signed in successfully",
+      "errorTitle": "Error",
+      "unexpectedError": "An unexpected error occurred",
+      "fillAllFields": "Please fill in all fields",
+      "enterEmailFirst": "Please enter your email first",
+      "enterName": "Please enter your name",
+      "invalidCredentials": "Incorrect email or password",
+      "emailTypoTitle": "Email address issue",
+      "emailTypoDescription": "\"{{typo}}\" seems wrong, did you mean \"{{correct}}\"?",
+      "loginErrorTitle": "Sign-in failed",
+      "signupErrorTitle": "Sign-up failed",
+      "forgotSentTitle": "Done!",
+      "forgotSentDesc": "A password reset link has been sent to your email",
+      "accountCreatedTitle": "Account created!",
+      "accountCreatedDesc": "Welcome aboard!",
+      "passwordCreated": "Your account has been created successfully! 🎉",
+      "loginRequired": "You must sign in",
+      "requestFailed": "Request failed"
+    },
+    "dialog": {
+      "modes": {
+        "mentor": {
+          "title": "Mentor sign-in",
+          "subtitle": "Sign in or create your mentor account"
+        },
+        "student": {
+          "title": "Sign-in",
+          "subtitle": "Sign in to access your account"
+        },
+        "admin": {
+          "title": "Admin panel",
+          "subtitle": "Admins only"
+        }
+      },
+      "tabs": {
+        "login": "Sign in",
+        "signup": "Create account"
+      },
+      "fields": {
+        "fullName": "Full name",
+        "fullNamePlaceholder": "Enter your name",
+        "phone": "Phone number",
+        "email": "Email address",
+        "password": "Password",
+        "passwordPlaceholder": "Password",
+        "rememberMe": "Remember me",
+        "forgotPassword": "Forgot your password?"
+      },
+      "actions": {
+        "processing": "Processing...",
+        "login": "Sign in",
+        "signup": "Create account"
+      },
+      "emailTypo": "\"{{typo}}\" is wrong, it should be \"{{correct}}\""
+    },
+    "forgot": {
+      "title": "Forgot password",
+      "subtitle": "Please enter the email or phone number you used at purchase",
+      "fieldLabel": "Email or phone number",
+      "hint": "Enter your email, or your phone number with the country code, e.g. +201003463312",
+      "submit": "Send a new password",
+      "backToLogin": "Sign in",
+      "sentTitle": "Sent",
+      "sentDesc": "If the account exists, a new password has been emailed to you",
+      "errorTitle": "Couldn't send the new password, please try again"
+    }
+  },
+  "mentorSidebar": {
+    "groups": {
+      "home": "GENERAL",
+      "products": "PRODUCTS",
+      "complete": "Complete",
+      "finance": "Finance",
+      "marketing": "Marketing & Content",
+      "subscriptions": "Subscriptions",
+      "account": "Account"
+    },
+    "items": {
+      "home": "Home",
+      "overview": "Overview",
+      "orders": "Orders",
+      "students": "Customers",
+      "schedules": "Availability schedules",
+      "upcomingAppointments": "Upcoming appointments",
+      "courses": "Recorded courses",
+      "digitalProducts": "Digital products",
+      "liveCourses": "Live courses",
+      "consultations": "1:1 sessions",
+      "coupons": "Coupons",
+      "transactions": "Transactions",
+      "withdrawals": "Withdrawals",
+      "transfers": "Transfers",
+      "paymentGateways": "Payment gateways",
+      "marketingApps": "Apps & integrations",
+      "promotionalOffers": "Promotions",
+      "reviews": "Customer reviews",
+      "notifications": "Notifications",
+      "certificate": "Certificate template",
+      "plans": "Plans",
+      "subscriptions": "Manage subscriptions",
+      "profile": "Site settings",
+      "editMyData": "Edit my info",
+      "membership": "plan",
+      "changePassword": "Change password",
+      "sessionBundles": "Session bundles"
+    },
+    "tabs": {
+      "profile": "Site settings"
+    },
+    "comingSoon": "Soon",
+    "logout": "Log out",
+    "dashboardTitle": "Dashboard",
+    "openMenu": "Open menu",
+    "previewSite": "Preview site",
+    "darkMode": "Dark mode",
+    "lightMode": "Light mode"
+    ,"accountMenu": "Account & tools"
+    ,"mentorRole": "Mentor"
+    ,"shareLink": "Share link"
+  },
+  "home": {
+    "seoTitle": "Ebdaey | Sell Courses, Digital Products & Consultations Globally & in Egypt",
+    "seoDescription": "Arabic platform for courses, instant digital product delivery, and consultation bookings. Accept EGP via PayMob in Egypt and USD/multi-currency globally via Stripe. Only 8% commission.",
+    "hero": {
+      "badge": "Arabic platform to sell your knowledge globally 🌍",
+      "titlePart1": "Build your platform",
+      "titleHighlight": "for free",
+      "titlePart2": "and sell your knowledge",
+      "subtitle": "Courses, digital products, consultations",
+      "description": "One place to deliver everything you know — on a site that's yours.",
+      "scroll": "Explore",
+      "stats": {
+        "commission": "8%",
+        "commissionLabel": "commission only — no monthly fee",
+        "time": "2 min",
+        "timeLabel": "to launch your platform",
+        "arabic": "7+",
+        "arabicLabel": "currencies to sell globally & locally"
+      }
+    },
+    "products": {
+      "eyebrow": "What you sell",
+      "title1": "Four kinds of tickets,",
+      "title2": "issued by you.",
+      "items": {
+        "recorded": {
+          "title": "Recorded courses",
+          "desc": "Upload your lessons, organize chapters, and sell them with full content protection."
+        },
+        "digital": {
+          "title": "Digital products",
+          "desc": "Sell PDFs, templates and ebooks with free previews, automatic delivery, and secure download links immediately after payment."
+        },
+        "live": {
+          "title": "Live courses",
+          "desc": "Automatic Zoom & Google Meet links with student reminders."
+        },
+        "consulting": {
+          "title": "Consultations",
+          "desc": "Set your availability and rates while clients choose a time, with conflict prevention, Google Calendar sync, and automatic Zoom links."
+        }
+      }
+    },
+    "capabilities": {
+      "eyebrow": "Stamped and guaranteed",
+      "title1": "Everything you need,",
+      "title2": "certified by Ebdaey.",
+      "items": {
+        "design": "Full design customization",
+        "protection": "Content protection",
+        "analytics": "Sales analytics",
+        "payments": "Local & international payments (PayMob & Stripe)",
+        "certificates": "Completion certificates",
+        "notifications": "Automatic notifications"
+      }
+    },
+    "steps": {
+      "chapter": "§ 03 — Steps",
+      "title1": "The step log",
+      "title2": "— from idea to your first sale",
+      "footer": "Process Protocol / Vol. 01 — 2025",
+      "items": {
+        "s1": {
+          "label": "STEP_01",
+          "title": "Create your account",
+          "desc": "Sign up with your email in seconds, pick your academy URL, and you're set."
+        },
+        "s2": {
+          "label": "STEP_02",
+          "title": "Upload your content",
+          "desc": "Add your courses, digital products or live sessions through a simple interface."
+        },
+        "s3": {
+          "label": "STEP_03",
+          "title": "Connect payments",
+          "desc": "Enable payment gateways (PayMob for Egypt, Stripe globally) and accept EGP, USD, and more."
+        },
+        "s4": {
+          "label": "FINALE",
+          "title": "Start selling",
+          "desc": "Share your link with your audience and start earning right away."
+        }
+      }
+    },
+    "pricing": {
+      "eyebrow": "A receipt in numbers",
+      "title1": "Move the price and see",
+      "title2": "your earnings live.",
+      "priceLabel": "Course price (EGP)",
+      "sliderAria": "Course price in Egyptian pounds",
+      "explanation": "<b>8%</b> only on every successful sale. No setup fees, no monthly subscription, no hidden charges — anywhere.",
+      "guaranteed": "Guaranteed",
+      "hundred": "100%",
+      "receipt": "Ebdaey Receipt",
+      "coursePrice": "Course price",
+      "commission": "Ebdaey fee (8%)",
+      "net": "Your net",
+      "netNote": "Deposited straight to your bank account in EGP or equivalent supported currency",
+      "currency": "EGP"
+    },
+    "faq": {
+      "eyebrow": "Footnotes",
+      "title": "Frequently asked.",
+      "items": [
+        {
+          "q": "What is Ebdaey?",
+          "a": "Ebdaey is an all-in-one platform that lets creators launch their own digital academy and sell recorded courses, digital products, and consultation bookings effortlessly and professionally, with no technical experience needed."
+        },
+        {
+          "q": "How much does it cost?",
+          "a": "There is no monthly subscription or setup fee. Build and design your site for free and pay just 8% on every successful sale — whether it's a course, digital product, or consultation."
+        },
+        {
+          "q": "Which payment methods can customers use?",
+          "a": "For customers in Egypt: Visa, Mastercard, Meeza, and mobile wallets (Vodafone Cash, Etisalat Cash, Orange Money) in EGP via PayMob. For international customers: Visa, Mastercard, Apple Pay, and Google Pay in USD or their local currency via Stripe."
+        },
+        {
+          "q": "How do I receive my earnings?",
+          "a": "Your earnings are transferred directly to your bank account. Submit a withdrawal request from your dashboard and it will be processed within a few business days."
+        },
+        {
+          "q": "Can I sell to customers outside Egypt in USD or foreign currencies?",
+          "a": "Yes, absolutely! With our international Stripe integration, you can sell to buyers anywhere in the world in USD, SAR, AED, EUR, GBP, and more. You can set a global USD price or define custom per-country prices in local currencies with automatic location detection."
+        },
+        {
+          "q": "What makes Ebdaey different?",
+          "a": "Ebdaey is built specifically for Arab educators and creators: a sleek Arabic-first interface, dual payment gateways (local PayMob + global multi-currency Stripe), per-country dynamic pricing, and an 8% commission model with no monthly subscriptions."
+        }
+      ]
+    },
+    "cta": {
+      "chapter": "§ The next chapter — yours",
+      "title1": "Your site is waiting.",
+      "title2": "Start today.",
+      "description": "Sign up in 2 minutes, sell in EGP, USD, or any currency, and take your first sale today."
+    },
+    "footer": {
+      "rights": "© {{year}} Ebdaey. All rights reserved.",
+      "privacy": "Privacy policy",
+      "terms": "Terms & conditions",
+      "refund": "Refund policy",
+      "contact": "Contact us",
+      "about": "About us",
+      "delivery": "Delivery policy",
+      "follow": "Follow us on"
+    }
+  },
+  "overview": {
+    "greeting": "Welcome, {{name}} 👋",
+    "defaultMentor": "Mentor",
+    "subtitle": "Here's a snapshot of your platform's performance",
+    "kpis": {
+      "visits": "Total visits",
+      "orders": "Total orders",
+      "revenue": "Total revenue",
+      "balance": "Current balance"
+    },
+    "sections": {
+      "visitsOrders": "Visits & orders",
+      "revenueOverview": "Revenue overview",
+      "orderStatus": "Order status",
+      "devices": "Devices",
+      "os": "Operating systems",
+      "sources": "Sources",
+      "countries": "Countries"
+    },
+    "chart": {
+      "visits": "Visits",
+      "orders": "Orders",
+      "revenue": "Revenue",
+      "source": "Source"
+    },
+    "status": {
+      "completed": "Completed",
+      "pending": "Pending",
+      "cancelled": "Cancelled",
+      "refunded": "Refunded"
+    },
+    "totalOrders": "Total orders",
+    "noData": "No data",
+    "comparedToPrev": "vs previous period",
+    "direct": "Direct"
+  },
+  "orders": {
+    "title": "Orders",
+    "count": "Orders count ({{count}})",
+    "searchPlaceholder": "Name, email or phone",
+    "statusLabel": "Order status",
+    "statusFilters": {
+      "all": "All",
+      "paid": "Completed",
+      "pending": "Awaiting payment",
+      "unpaid": "Unpaid",
+      "cancelled": "Cancelled"
+    },
+    "table": {
+      "product": "Product",
+      "customer": "Customer name",
+      "cost": "Cost",
+      "status": "Status",
+      "createdAt": "Created at",
+      "actions": "Actions",
+      "deletedProduct": "(Deleted product)"
+    },
+    "actions": {
+      "viewDetails": "View details",
+      "contactWhatsapp": "Contact on WhatsApp",
+      "delete": "Delete"
+    },
+    "delete": {
+      "title": "Cancel order?",
+      "description": "This order will be marked as cancelled without being removed from the records.",
+      "cancel": "Back",
+      "confirm": "Cancel order",
+      "deleting": "Cancelling...",
+      "success": "Order cancelled",
+      "errorTitle": "Could not cancel order",
+      "refundErrorTitle": "Refund failed",
+      "refundSuccess": "Order cancelled and amount refunded",
+      "withRefund": "Cancel and refund",
+      "withRefundHint": "The amount will be refunded to the customer via the payment gateway",
+      "withoutRefund": "Cancel without refund",
+      "withoutRefundHint": "Only the student's access will be revoked, no money is returned",
+      "commissionWarning": "Note: platform and payment gateway fees are non-refundable and will be deducted from your balance."
+    },
+    "empty": "No orders",
+    "currency": "EGP",
+    "detail": {
+      "purchasePrice": "Purchase price",
+      "discount": "discount",
+      "settlement": "Settlement amount",
+      "grossAmount": "Gross amount",
+      "gatewayFee": "Gateway fee",
+      "platformFee": "Platform fee",
+      "netAmount": "Net amount",
+      "product": "Product",
+      "customer": "Customer"
+    },
+    "whatsapp": {
+      "unpaid": "Hi {{name}}, we noticed your order for \"{{course}}\" isn't complete yet. Did you run into any payment issue? We're happy to help 😊",
+      "paid": "Hi {{name}}, thanks for enrolling in \"{{course}}\"! Reach out anytime if you have any questions 😊"
+    }
+  },
+  "profileTab": {
+    "title": "Site settings",
+    "subtitle": "Control how your public site looks and what info your students & customers see",
+    "previewSite": "Preview site",
+    "cover": {
+      "alt": "Cover image",
+      "change": "Change cover image",
+      "uploading": "Uploading..."
+    },
+    "avatarAlt": "Profile picture",
+    "username": {
+      "title": "Username",
+      "edit": "Edit",
+      "empty": "Not set",
+      "dialogTitle": "Edit username",
+      "hint": "Lowercase English letters, numbers and dashes only — no spaces (example: ahmed-ali)",
+      "placeholder": "ahmed-ali",
+      "available": "✓ Available",
+      "unavailable": "✗ Unavailable",
+      "minLength": "Must be at least 3 characters",
+      "cancel": "Cancel",
+      "save": "Save",
+      "saving": "Validating and saving..."
+    },
+    "info": {
+      "title": "Profile information",
+      "edit": "Edit",
+      "empty": "Not set",
+      "fields": {
+        "name": "Name",
+        "specialty": "Your field",
+        "bio": "About you",
+        "whatsapp": "WhatsApp number"
+      },
+      "dialogTitle": "Edit profile information",
+      "placeholders": {
+        "name": "Your display name for students",
+        "specialty": "e.g. Web development",
+        "bio": "Write a short bio about yourself and your experience...",
+        "whatsapp": "WhatsApp number"
+      },
+      "whatsappHint": "Shown as a floating WhatsApp button on your profile page",
+      "cancel": "Cancel",
+      "save": "Save",
+      "saving": "Saving..."
+    },
+    "publicLanguage": {
+      "title": "Public site language",
+      "hint": "Pick the language visitors see on your public pages. Students cannot change it.",
+      "options": {
+        "ar": "العربية",
+        "en": "English"
+      }
+    }
+  },
+  "studentsTab": {
+    "title": "Customers",
+    "searchPlaceholder": "Search by name, email or phone",
+    "table": {
+      "name": "Name",
+      "email": "Email",
+      "phone": "Phone",
+      "joinedAt": "Joined at",
+      "actions": "Actions"
+    },
+    "firstNamePlaceholder": "First name",
+    "lastNamePlaceholder": "Last name",
+    "empty": "No customers yet",
+    "changePasswordTitle": "Change customer password",
+    "changePasswordTooltip": "Change password",
+    "newPassword": "New password",
+    "newPasswordPlaceholder": "At least 6 characters",
+    "confirmPassword": "Confirm password",
+    "cancel": "Cancel",
+    "save": "Save",
+    "saving": "Saving...",
+    "toasts": {
+      "updated": "Customer info updated",
+      "updateFailed": "Could not save the changes",
+      "duplicateEmail": "Another customer already uses this email",
+      "invalidEmail": "Please enter a valid email address",
+      "shortPasswordTitle": "Password too short",
+      "shortPasswordDesc": "Must be at least 6 characters",
+      "mismatch": "Passwords do not match",
+      "failed": "Failed to change password",
+      "success": "Password changed successfully"
+    }
+  },
+  "settingsTab": {
+    "title": "Settings",
+    "withdrawal": {
+      "heading": "Withdrawal settings",
+      "legalName": "Full legal name",
+      "legalNamePlaceholder": "Name as on your ID",
+      "iban": "IBAN number",
+      "ibanPlaceholder": "EG...",
+      "save": "Save settings"
+    }
+  },
+  "couponsTab": {
+    "title": "Coupons",
+    "newCoupon": "New coupon",
+    "editTitle": "Edit discount code",
+    "addTitle": "Add discount code",
+    "dialogSubtitle": "Add a new discount code for a specific product or all products",
+    "codeLabel": "Discount code",
+    "codePlaceholder": "e.g. DISCOUNT10, SUMMER2021",
+    "codeHint": "Enter the discount code your customers will use",
+    "typeFixed": "Fixed amount",
+    "typePercentage": "Percentage",
+    "typeHint": "Choose whether the discount is a percentage or a fixed amount",
+    "valueLabel": "Discount value",
+    "valueHint": "Enter the discount amount or percentage",
+    "addCurrency": "Add currency",
+    "amountsHint": "The coupon only applies to buyers paying in one of these currencies.",
+    "amountsRequired": "Add a discount amount for at least one currency",
+    "currency": "EGP",
+    "activeToggle": "Active",
+    "activeHint": "You can deactivate the code to block its use",
+    "maxUsesToggle": "Maximum uses",
+    "maxUsesHint": "Max number of times this code can be used",
+    "maxUsesPlaceholder": "e.g. 100",
+    "maxPerCustomerToggle": "Max uses per customer",
+    "maxPerCustomerHint": "Cap how many times each customer can use the code",
+    "maxPerCustomerPlaceholder": "e.g. 1",
+    "specificToggle": "Restrict to a specific product",
+    "specificHint": "Allow the discount code only on one selected product",
+    "selectPlaceholder": "Select a course or product",
+    "coursesGroup": "Courses",
+    "productsGroup": "Digital products",
+    "back": "Back",
+    "save": "Save",
+    "deleteTitle": "Delete coupon",
+    "deleteDesc": "Are you sure you want to delete this coupon? This action can't be undone.",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "table": {
+      "code": "Discount code",
+      "value": "Discount value",
+      "maxUses": "Max uses",
+      "maxPerCustomer": "Max per customer",
+      "usedCount": "Times used",
+      "status": "Status",
+      "actions": "Actions"
+    },
+    "unlimited": "Unlimited",
+    "statusActive": "Active",
+    "statusInactive": "Disabled",
+    "empty": "No coupons yet",
+    "toasts": {
+      "updated": "Coupon updated",
+      "created": "Coupon created",
+      "saveError": "Error saving coupon",
+      "deleted": "Coupon deleted",
+      "deleteError": "Error deleting coupon",
+      "codeCopied": "Code copied"
+    }
+  },
+  "transactionsTab": {
+    "title": "Transactions",
+    "filters": {
+      "all": "All",
+      "purchase": "Purchase",
+      "subscription": "Subscription",
+      "commission": "Commission",
+      "gateway_fee": "Gateway fee",
+      "withdrawal": "Withdrawal",
+      "refund": "Refund"
+    },
+    "empty": "No transactions yet",
+    "table": {
+      "dateTime": "Date & time",
+      "amount": "Amount",
+      "category": "Category",
+      "description": "Description"
+    },
+    "currency": "EGP"
+  },
+  "transfersTab": {
+    "title": "Transfers",
+    "currency": "EGP",
+    "stats": {
+      "available": "Available to withdraw",
+      "totalSales": "Total sales",
+      "totalWithdrawn": "Total withdrawn"
+    },
+    "periods": {
+      "all": "All",
+      "7": "Last 7 days",
+      "30": "Last 30 days",
+      "90": "Last 90 days",
+      "365": "Last year"
+    },
+    "empty": "No transfers yet",
+    "emptyHint": "Payouts from the platform to your bank account will appear here.",
+    "table": {
+      "date": "Date",
+      "amount": "Amount",
+      "requestNumber": "Request number",
+      "status": "Status",
+      "description": "Notes"
+    },
+    "status": {
+      "settled": "Settled",
+      "paid": "Transferred",
+      "approved": "Processing",
+      "pending": "Under review",
+      "rejected": "Rejected"
+    },
+    "notes": {
+      "paid": "It may take up to 5 business days to appear in your bank account",
+      "approved": "Approved — transfer in progress"
+    }
+  },
+  "paymentGatewaysTab": {
+    "title": "Egyptian payment gateway",
+    "subtitle": "Accept EGP payments in Egypt and worldwide",
+    "active": "Active",
+    "description": "Your customers can pay with e-wallets (Vodafone Cash and others) plus Meeza, Mastercard, Visa and more.",
+    "methodsLabel": "Available payment methods",
+    "feeLabel": "Gateway fee",
+    "feeCurrency": "EGP",
+    "feeNote": "Deducted only on successful payments",
+    "terms": "Terms & conditions",
+    "termsList": [
+      "You have an Egyptian bank account in EGP to receive settlements",
+      "You're authorized to operate inside the Arab Republic of Egypt",
+      "Gateway fees plus the platform commission are deducted from each sale",
+      "No additional fees when transferring settled amounts to your bank account"
+    ]
+  },
+  "withdrawalsTab": {
+    "title": "Withdrawals",
+    "subtitle": "Manage your bank account and receive payouts",
+    "settings": "Withdrawal settings",
+    "settingsHint": "Enter your bank details to receive payouts",
+    "status": {
+      "approved": "Approved",
+      "rejected": "Rejected",
+      "pending": "Under review"
+    },
+    "pendingBanner": "Your request is currently under review",
+    "approvedBanner": "Your bank details were approved successfully",
+    "approvedHint": "To edit withdrawal details, please contact support",
+    "rejectedBanner": "Your bank details were rejected",
+    "rejectedReason": "Reason",
+    "sections": {
+      "personal": "Personal information",
+      "bank": "Bank details",
+      "id": "ID card photos"
+    },
+    "fields": {
+      "fullName": "Full name",
+      "fullNamePlaceholder": "Name exactly as on your ID card",
+      "address": "Address",
+      "addressPlaceholder": "City, governorate, country",
+      "accountType": "Account type",
+      "personal": "Personal",
+      "company": "Company",
+      "beneficiary": "Bank account beneficiary name",
+      "beneficiaryPlaceholder": "Name registered on the bank account",
+      "bank": "Bank name",
+      "bankPlaceholder": "Select bank",
+      "iban": "IBAN number",
+      "ibanHint": "29-digit international bank account number"
+    },
+    "idHint": "Upload a clear photo of the front and back of the ID (JPG / PNG)",
+    "front": "Front of card",
+    "back": "Back of card",
+    "upload": "Click to upload",
+    "uploading": "Uploading...",
+    "change": "Change",
+    "view": "View image",
+    "secure": "Your data is stored securely",
+    "submit": "Submit request",
+    "resubmit": "Resubmit"
+  },
+  "reviewsManager": {
+    "title": "Customer reviews",
+    "showOnProfile": "Show on profile",
+    "showOnProfileHint": "Display all reviews on your public page",
+    "add": "Add review",
+    "searchPlaceholder": "Search by name or comment...",
+    "filterPlaceholder": "Filter by product",
+    "all": "All",
+    "general": "General (no product)",
+    "generalLabel": "General",
+    "typeGroup": {
+      "course": "Recorded courses",
+      "live_course": "Live courses",
+      "consultation": "Consultations",
+      "session_bundle": "Session bundles",
+      "digital_product": "Digital products"
+    },
+    "typeSuffix": {
+      "course": "",
+      "live_course": " (Live)",
+      "consultation": " (Consultation)",
+      "session_bundle": " (Session bundle)",
+      "digital_product": " (Digital)"
+    },
+    "table": {
+      "name": "Name",
+      "product": "Product",
+      "rating": "Rating",
+      "comment": "Comment",
+      "status": "Status",
+      "date": "Date",
+      "actions": "Actions"
+    },
+    "noComment": "No comment",
+    "published": "Published",
+    "hidden": "Hidden",
+    "clickToHide": "Click to hide",
+    "clickToPublish": "Click to publish",
+    "hideTip": "Hide",
+    "publishTip": "Publish",
+    "editTip": "Edit",
+    "deleteTip": "Delete",
+    "empty": "No reviews yet",
+    "dialog": {
+      "editTitle": "Edit review",
+      "newTitle": "Add new review",
+      "firstName": "First name",
+      "lastName": "Last name",
+      "firstNamePlaceholder": "Ahmed",
+      "lastNamePlaceholder": "Mohamed",
+      "assignProduct": "Assign this review to a product",
+      "chooseProduct": "Choose product",
+      "chooseProductPlaceholder": "Choose a course...",
+      "rating": "Rating",
+      "comment": "Comment",
+      "commentPlaceholder": "Write the customer comment...",
+      "update": "Update review",
+      "create": "Add review"
+    },
+    "toast": {
+      "shown": "Reviews will now show on your page",
+      "hiddenProfile": "Reviews hidden from your page",
+      "error": "Something went wrong",
+      "updated": "Review updated",
+      "added": "Review added",
+      "deleted": "Review deleted",
+      "published": "Review published",
+      "hidden": "Review hidden"
+    }
+  },
+  "schedulesManager": {
+    "title": "Availability schedules",
+    "subtitle": "Create availability schedules to use with consultation booking",
+    "new": "New schedule",
+    "loading": "Loading...",
+    "empty": "No schedules yet",
+    "createFirst": "Create your first schedule",
+    "default": "Default",
+    "edit": "Edit",
+    "dialog": {
+      "title": "New availability schedule",
+      "name": "Schedule name",
+      "namePlaceholder": "e.g. Weekly consultations schedule",
+      "cancel": "Cancel",
+      "creating": "Creating...",
+      "create": "Create"
+    },
+    "delete": {
+      "title": "Delete schedule?",
+      "description": "The schedule and all its slots will be removed. This cannot be undone.",
+      "cancel": "Cancel",
+      "confirm": "Delete"
+    },
+    "toast": {
+      "nameRequired": "Enter a schedule name",
+      "created": "Schedule created",
+      "deleted": "Deleted",
+      "error": "Error",
+      "createError": "Create error"
+    }
+  },
+  "upcomingAppointments": {
+    "title": "Upcoming appointments",
+    "subtitle": "All upcoming appointments from live courses and 1-on-1 sessions",
+    "empty": "No upcoming appointments",
+    "consultation": "1-on-1 session",
+    "liveCourse": "Live course",
+    "attendee": "attendee",
+    "attendees": "attendees",
+    "join": "Join session",
+    "appointmentsLabel": "appointments",
+    "minutes": "min",
+    "defaultConsultation": "1-on-1 session",
+    "defaultLiveCourse": "Live course"
+  },
+  "promotionalOffers": {
+    "title": "Promotional offers",
+    "subtitle": "Add order bumps (additional offers) while the customer is on the checkout page, to increase average order value",
+    "back": "Back",
+    "kindCourse": "course",
+    "kindProduct": "digital product",
+    "addBump": "Add order bump",
+    "editBump": "Edit order bump",
+    "tabs": {
+      "all": "All",
+      "courses": "Courses",
+      "products": "Digital products",
+      "liveCourses": "Live courses",
+      "consultations": "Consultations",
+      "sessionBundles": "Session bundles"
+    },
+    "empty": "No items"
+  },
+  "liveCoursesManager": {
+    "liveHeading": "Live courses",
+    "liveSubtitle": "Courses with scheduled sessions via Zoom, online or in person",
+    "liveCta": "New live course",
+    "liveEmpty": "No live courses yet",
+    "liveEmptyCta": "Create your first live course",
+    "consultationHeading": "1-on-1 sessions",
+    "consultationSubtitle": "Sessions booked individually, like consultations or intro calls",
+    "consultationCta": "Add new",
+    "consultationEmpty": "No 1-on-1 sessions yet",
+    "consultationEmptyCta": "Create your first session",
+    "cards": "Cards",
+    "table": "Table",
+    "columns": {
+      "session": "Session",
+      "course": "Course",
+      "price": "Price",
+      "status": "Status",
+      "actions": "Actions",
+      "bundle": "Bundle"
+    },
+    "published": "Published",
+    "draft": "Unpublished",
+    "free": "Free",
+    "priceEgp": "{{price}} EGP",
+    "edit": "Edit",
+    "share": "Share",
+    "view": "View",
+    "publish": "Publish",
+    "hide": "Hide",
+    "loading": "Loading...",
+    "dialog": {
+      "titleNew": "New product",
+      "titleConsultation": "New 1-on-1 session",
+      "productType": "Product type",
+      "typeLive": "Live course",
+      "typeLiveDesc": "Sessions on fixed dates",
+      "typeConsultation": "Book a consultation",
+      "typeConsultationDesc": "Individual session booked by time",
+      "title": "Title",
+      "placeholderLive": "e.g. Intensive design workshop",
+      "placeholderConsultation": "e.g. 30-minute 1-on-1 consultation",
+      "cancel": "Cancel",
+      "create": "Create",
+      "creating": "Creating...",
+      "titleBundle": "New session bundle",
+      "placeholderBundle": "e.g. 4-session coaching bundle",
+      "typeBundle": "Session bundle",
+      "typeBundleDesc": "Several individual sessions booked by the student"
+    },
+    "delete": {
+      "title": "Delete?",
+      "description": "This will delete it permanently. This cannot be undone.",
+      "cancel": "Cancel",
+      "confirm": "Delete"
+    },
+    "toast": {
+      "enterTitle": "Enter a title",
+      "created": "Created",
+      "createError": "Error creating",
+      "genericError": "Error",
+      "published": "Published",
+      "hidden": "Hidden",
+      "deleted": "Deleted"
+    },
+    "bundleHeading": "Individual session bundles",
+    "bundleSubtitle": "Create bundles of individual sessions students book themselves",
+    "bundleCta": "New bundle",
+    "bundleEmpty": "No session bundles yet",
+    "bundleEmptyCta": "Create your first bundle"
+  },
+  "digitalProductsManager": {
+    "title": "Digital products",
+    "subtitle": "Sell files and digital resources ",
+    "cta": "New product",
+    "empty": "No digital products yet",
+    "emptyCta": "Create your first product",
+    "cards": "Cards",
+    "table": "Table",
+    "columns": {
+      "product": "Product",
+      "price": "Price",
+      "status": "Status",
+      "actions": "Actions"
+    },
+    "published": "Published",
+    "draft": "Unpublished",
+    "free": "Free",
+    "priceEgp": "{{price}} EGP",
+    "edit": "Edit",
+    "hide": "Hide",
+    "publish": "Publish",
+    "view": "View",
+    "dialog": {
+      "title": "New digital product",
+      "label": "Product title",
+      "placeholder": "e.g. Design template pack",
+      "cancel": "Cancel",
+      "create": "Create",
+      "creating": "Creating..."
+    },
+    "delete": {
+      "title": "Delete product?",
+      "description": "This will delete the product, its files, and links to gift courses. This cannot be undone.",
+      "cancel": "Cancel",
+      "confirm": "Delete"
+    },
+    "toast": {
+      "enterTitle": "Enter product title",
+      "loadError": "Could not load products",
+      "createError": "Could not create the product",
+      "created": "Product created",
+      "published": "Product published",
+      "hidden": "Product hidden",
+      "deleted": "Product deleted",
+      "genericError": "Error"
+    }
+  },
+  "notificationBell": {
+    "title": "Notifications",
+    "empty": "No notifications"
+  },
+  "notificationsManager": {
+    "heading": "Notifications",
+    "subtitle": "Send notifications to your customers via the platform or by email",
+    "tabs": {
+      "send": "Send new notification",
+      "history": "Notification history"
+    },
+    "channels": {
+      "title": "Delivery channel",
+      "bell": "In-app notification",
+      "email": "Email"
+    },
+    "targeting": {
+      "title": "Audience",
+      "all": "All customers",
+      "specificCourses": "Students of specific courses",
+      "noPublishedCourses": "No published courses",
+      "studentsCount": "{{count}} customers targeted"
+    },
+    "bellContent": {
+      "title": "In-app notification content",
+      "pickIcon": "Pick an icon",
+      "titleLabel": "Notification title (max 60 chars)",
+      "titlePlaceholder": "e.g. New lesson added",
+      "descLabel": "Notification text (max 160 chars)",
+      "descPlaceholder": "Short description...",
+      "linkLabel": "Link (optional) — where the customer lands on click"
+    },
+    "emailContent": {
+      "title": "Email content",
+      "subjectLabel": "Email subject",
+      "subjectPlaceholder": "e.g. A new lesson is live!",
+      "bodyLabel": "Email body",
+      "bodyHint": "Use {{studentVar}} and {{courseVar}} for auto-personalization",
+      "bodyPlaceholder": "Hello {{studentVar}},\n\nNew content was added to {{courseVar}}...",
+      "ctaTextLabel": "CTA button text",
+      "ctaTextPlaceholder": "Watch now",
+      "ctaUrlLabel": "Button link"
+    },
+    "scheduling": {
+      "title": "Scheduling",
+      "sendNow": "Send now",
+      "schedule": "Schedule"
+    },
+    "actions": {
+      "preview": "Preview",
+      "sendNow": "Send now",
+      "schedule": "Schedule notification"
+    },
+    "preview": {
+      "title": "Notification preview",
+      "live": "Live preview",
+      "bellLabel": "In-app notification",
+      "emailLabel": "Email",
+      "empty": "Pick a delivery channel to see the preview",
+      "bellHeader": "Notifications",
+      "titleFallback": "Notification title",
+      "now": "Now",
+      "fromPlatform": "From: Platform",
+      "toExample": "To: student@example.com",
+      "subjectFallback": "Email subject",
+      "bodyFallback": "Email body goes here...",
+      "sampleStudent": "Ahmed Mohamed",
+      "sampleCourse": "Sample course",
+      "footer": "This email was sent automatically — unsubscribe"
+    },
+    "history": {
+      "loading": "Loading...",
+      "empty": "No notifications sent yet",
+      "create": "Create notification",
+      "columns": {
+        "title": "Title",
+        "channels": "Channels",
+        "audience": "Audience",
+        "date": "Date",
+        "recipients": "Recipients",
+        "status": "Status"
+      },
+      "targetAll": "All customers",
+      "targetSpecific": "Specific courses",
+      "channelBell": "In-app",
+      "channelEmail": "Email"
+    },
+    "status": {
+      "sent": "Sent",
+      "scheduled": "Scheduled",
+      "draft": "Unpublished",
+      "partial_failure": "Partial failure",
+      "failed": "Failed"
+    },
+    "delete": {
+      "title": "Delete notification",
+      "description": "Are you sure you want to delete this notification?",
+      "cancel": "Cancel",
+      "confirm": "Delete"
+    },
+    "toast": {
+      "needTitle": "Please enter a notification title",
+      "needChannel": "Please pick at least one delivery channel",
+      "needSubject": "Please enter an email subject",
+      "needCourses": "Please pick at least one course",
+      "needSchedule": "Please pick the send date and time",
+      "scheduled": "Notification scheduled successfully",
+      "sent": "Notification sent successfully",
+      "sendError": "Something went wrong while sending",
+      "deleted": "Notification deleted"
+    }
+  },
+  "editMyData": {
+    "loading": "Loading...",
+    "title": "My personal details",
+    "editButton": "Edit details",
+    "notAdded": "Not added",
+    "fields": {
+      "firstName": "First name",
+      "lastName": "Last name",
+      "email": "Email",
+      "phone": "Phone number",
+      "country": "Country",
+      "city": "City"
+    },
+    "dialog": {
+      "title": "Edit my details",
+      "firstNamePlaceholder": "Enter first name",
+      "lastNamePlaceholder": "Enter last name",
+      "phonePlaceholder": "201234567890",
+      "countryPlaceholder": "e.g. Egypt",
+      "cityPlaceholder": "e.g. Cairo",
+      "cancel": "Cancel",
+      "save": "Save details",
+      "saving": "Saving..."
+    },
+    "toast": {
+      "saveError": "Something went wrong while saving",
+      "saved": "Details saved successfully"
+    }
+  },
+  "subscriptionPlans": {
+    "loading": "Loading...",
+    "header": {
+      "title": "Yearly subscription plan",
+      "subtitle": "Set the yearly price for students",
+      "enabled": "Enabled",
+      "disabled": "Disabled"
+    },
+    "plan": {
+      "label": "Yearly plan",
+      "name": "Yearly subscription",
+      "visible": "Visible",
+      "hidden": "Hidden",
+      "priceLabel": "Yearly price",
+      "priceUnit": "EGP/year",
+      "editPrice": "Edit price",
+      "savePrice": "Save price",
+      "cancel": "Cancel",
+      "hiddenNotice": "This plan is currently hidden from students"
+    },
+    "digital": {
+      "title": "Include digital products",
+      "subtitle": "Include all your digital products in the plan"
+    },
+    "disabledCard": {
+      "title": "Plan is disabled",
+      "subtitle": "Enable the plan to show it on your profile"
+    },
+    "fixed": {
+      "description": "Subscribe now to unlock full access to every course and educational resource for the whole year, with continuous updates and dedicated support.",
+      "features": [
+        "Full access to all current and upcoming courses",
+        "Continuous content updates throughout the year",
+        "Certified completion certificates for every course",
+        "Ongoing technical support for the entire subscription"
+      ],
+      "digitalFeature": "Full access to all digital products"
+    },
+    "toast": {
+      "enabled": "Plans enabled",
+      "disabled": "Plans disabled",
+      "toggleError": "Could not update status",
+      "retry": "Please try again",
+      "saved": "Yearly plan saved"
+    }
+  },
+  "socialLinks": {
+    "loading": "Loading...",
+    "title": "Social media links",
+    "edit": "Edit",
+    "notAdded": "Not added",
+    "dialogTitle": "Edit social media links",
+    "cancel": "Cancel",
+    "save": "Save",
+    "saving": "Saving...",
+    "saveError": "Something went wrong while saving",
+    "saved": "Social media links saved",
+    "labels": {
+      "facebook": "Facebook",
+      "instagram": "Instagram",
+      "youtube": "YouTube",
+      "x": "X (Twitter)",
+      "tiktok": "TikTok",
+      "linkedin": "LinkedIn"
+    }
+  },
+  "membership": {
+    "title": "My Plan",
+    "subtitle": "Your current plan and its features on Ebdaey",
+    "currentPlan": "Current plan",
+    "free": "Free",
+    "freeInline": "Free",
+    "monthly": "/month",
+    "commissionSuffix": "platform commission on every sale",
+    "commissionOnly": "platform commission only on every sale",
+    "basicBadge": "Basic plan",
+    "proTitle": "Pro plan",
+    "proDesc": "The default plan for every new account with all Creators features and more.",
+    "proExtrasHeader": "All Creators plan features, plus:",
+    "creatorsTitle": "Creators plan",
+    "creatorsDesc": "A plan built for creators who want to grow successful education businesses at the lowest cost.",
+    "contactSupport": "Contact support",
+    "supportMessage": "Hi, I have an issue with Ebdaey and need help",
+    "creatorsFeatures": [
+      "Full access to every platform tool",
+      "Content protection against copying and downloads",
+      "Unlimited course and product uploads",
+      "Dedicated 24/7 technical support",
+      "Integrated payment gateways and fast payouts",
+      "Continuous updates and new features"
+    ],
+    "proExtras": [
+      "Smart AI assistant for customers inside courses",
+      "Professional customizable completion certificates",
+      "Boost sales with Order Bump offers"
+    ]
+  },
+  "changePassword": {
+    "title": "Change password",
+    "subtitle": "You can change your password from here",
+    "email": "Email",
+    "current": "Current password",
+    "currentPlaceholder": "Current password",
+    "new": "New password",
+    "newPlaceholder": "New password",
+    "confirm": "Confirm password",
+    "confirmPlaceholder": "Confirm password",
+    "submit": "Change password",
+    "submitting": "Changing...",
+    "errors": {
+      "fillAll": "Please fill in all fields",
+      "mismatch": "New password and confirmation do not match",
+      "wrongCurrent": "Current password is incorrect",
+      "unexpected": "An unexpected error occurred",
+      "genericTitle": "Error"
+    },
+    "success": {
+      "title": "Done!",
+      "description": "Password changed successfully"
+    }
+  },
+  "landingSettings": {
+    "faqs": {
+      "title": "Frequently asked questions",
+      "add": "Add question",
+      "hint": "Add up to 10 FAQs that appear on the course page",
+      "prefix": "Q",
+      "questionPlaceholder": "Question",
+      "answerLabel": "Answer",
+      "empty": "No FAQs added yet"
+    },
+    "fontSizes": {
+      "small": "Small",
+      "medium": "Medium",
+      "large": "Large",
+      "xlarge": "Extra large",
+      "huge": "Huge"
+    }
+  },
+  "qaBot": {
+    "deletedLesson": "(deleted lesson)",
+    "retryStarted": "Retry started",
+    "retryStartedDesc": "Status will update within a minute.",
+    "retryFailed": "Retry failed",
+    "toggleErrorTitle": "Error",
+    "enabled": "Assistant enabled",
+    "disabled": "Assistant disabled",
+    "enabledDesc": "Course content and video transcripts will be indexed automatically in the background.",
+    "header": {
+      "title": "AI assistant",
+      "subtitle": "A bot that answers students' questions from course content only (lesson text + video audio transcripts)."
+    },
+    "auto": {
+      "title": "Everything runs automatically ✨",
+      "b1": "When you add or edit any lesson, it is indexed in the background instantly.",
+      "b2": "Students can ask the bot from within any lesson in the course.",
+      "b3": "Each student has a limit of 20 questions per day per course."
+    },
+    "indexed": {
+      "title": "Lessons the bot has listened to",
+      "count": "{{count}} lessons indexed successfully",
+      "count_one": "{{count}} lesson indexed successfully",
+      "count_other": "{{count}} lessons indexed successfully",
+      "none": "No lessons indexed yet",
+      "empty": "Any lesson will appear here after it is indexed in the background.",
+      "sourceAudio": "Audio transcript",
+      "sourceText": "Text",
+      "chunks": "{{count}} chunks",
+      "chunks_one": "{{count}} chunk",
+      "chunks_other": "{{count}} chunks"
+    },
+    "failed": {
+      "title": "Lessons that failed to transcribe",
+      "subtitle": "{{count}} lessons the bot could not listen to. You can retry.",
+      "subtitle_one": "{{count}} lesson the bot could not listen to. You can retry.",
+      "subtitle_other": "{{count}} lessons the bot could not listen to. You can retry.",
+      "retryAll": "Retry all",
+      "retry": "Retry"
+    }
+  },
+  "marketingPixels": {
+    "loading": "Loading...",
+    "header": {
+      "title": "Apps & Integrations",
+      "subtitle": "Connect your platform with external apps to manage your marketing campaigns and analyze your website performance.",
+      "guide": "Integrations guide"
+    },
+    "table": {
+      "app": "App",
+      "description": "Description",
+      "status": "Status",
+      "accountId": "Account / ID",
+      "actions": "Actions",
+      "connected": "Connected",
+      "disconnected": "Not connected",
+      "comingSoon": "Coming soon",
+      "manage": "Manage",
+      "connect": "Connect now"
+    },
+    "security": "All connections are secure and encrypted. We don't access your account data.",
+    "apps": {
+      "meta": {
+        "desc": "Measure ad campaign effectiveness on Facebook, Instagram, and WhatsApp"
+      },
+      "tiktok": {
+        "desc": "Measure ad campaign effectiveness on TikTok"
+      },
+      "zoom": {
+        "desc": "Automatically create Zoom meeting links for live courses and consultations"
+      },
+      "gtm": {
+        "desc": "Manage and deploy marketing tags without editing code"
+      },
+      "gcal": {
+        "desc": "Automatically schedule consultations and live courses via Google Calendar"
+      },
+      "ga": {
+        "desc": "Track and analyze traffic and user behavior"
+      },
+      "clarity": {
+        "desc": "Analyze user experience via session recordings and heatmaps"
+      },
+      "snap": {
+        "desc": "Measure ad campaign effectiveness on Snapchat"
+      }
+    },
+    "toasts": {
+      "zoomConnected": "Zoom connected successfully",
+      "gcalConnected": "Google Calendar connected successfully",
+      "connectFailed": "Failed to start connection",
+      "disconnectFailed": "Disconnect failed",
+      "saveFailed": "Save failed",
+      "noAuthUrl": "Could not get connection URL",
+      "zoomDisconnected": "Zoom disconnected",
+      "gcalDisconnected": "Google Calendar disconnected",
+      "metaConnected": "Meta Pixel connected successfully ✅",
+      "metaDisconnected": "Meta Pixel disconnected",
+      "tiktokConnected": "TikTok Pixel connected successfully ✅",
+      "tiktokDisconnected": "TikTok Pixel disconnected",
+      "invalidMeta": "Invalid Meta Pixel code. Make sure you pasted the correct Pixel ID.",
+      "invalidTiktok": "Invalid TikTok Pixel code. Make sure you pasted the correct Pixel ID.",
+      "invalidClarity": "Invalid Clarity ID. Paste the Project ID or the full tag snippet.",
+      "clarityConnected": "Microsoft Clarity connected successfully ✅",
+      "clarityDisconnected": "Microsoft Clarity disconnected",
+      "invalidSnap": "Invalid Snap Pixel ID. Paste the Pixel ID or the full snippet.",
+      "snapConnected": "Snap Pixel connected successfully ✅",
+      "snapDisconnected": "Snap Pixel disconnected",
+      "invalidGa": "Invalid Google Analytics ID. Paste an ID like G-XXXXXXXXXX or the full snippet.",
+      "gaConnected": "Google Analytics connected successfully ✅",
+      "gaDisconnected": "Google Analytics disconnected",
+      "invalidGtm": "Invalid Google Tag Manager container ID",
+      "gtmConnected": "Google Tag Manager connected successfully",
+      "gtmDisconnected": "Google Tag Manager disconnected"
+    },
+    "meta": {
+      "connectTitle": "Connect Meta Pixel",
+      "connectDesc": "Paste your Pixel ID from Meta Events Manager. You can paste the full code or just the ID.",
+      "pixelId": "Pixel ID",
+      "metaPlaceholder": "e.g. 1234567890123456",
+      "cancel": "Cancel",
+      "connect": "Connect",
+      "manageTitle": "Manage Meta Pixel",
+      "manageDesc": "Details of the current Meta Pixel connection.",
+      "capiEnabled": "CAPI is enabled automatically",
+      "close": "Close",
+      "disconnect": "Disconnect"
+    },
+    "tiktok": {
+      "connectTitle": "Connect TikTok Pixel",
+      "connectDesc": "Paste your Pixel ID from TikTok Ads Manager.",
+      "placeholder": "e.g. COUU1U2U3UUUUUUUUUUMG",
+      "manageTitle": "Manage TikTok Pixel",
+      "manageDesc": "Details of the current TikTok Pixel connection."
+    },
+    "clarityDlg": {
+      "connectTitle": "Connect Microsoft Clarity",
+      "connectDesc": "Paste your Clarity Project ID or the full tracking snippet.",
+      "projectId": "Project ID",
+      "placeholder": "e.g. abcd1234ef",
+      "manageTitle": "Manage Microsoft Clarity",
+      "manageDesc": "Details of the current Microsoft Clarity connection.",
+      "auto": "Visitor sessions and heatmaps will be recorded automatically"
+    },
+    "snapDlg": {
+      "connectTitle": "Connect Snap Pixel",
+      "connectDesc": "Paste your Pixel ID from Snapchat Ads Manager, or the full tracking snippet.",
+      "pixelId": "Pixel ID",
+      "placeholder": "e.g. 1a2b3c4d-5e6f-7a8b-9c0d-1e2f3a4b5c6d",
+      "manageTitle": "Manage Snap Pixel",
+      "manageDesc": "Details of the current Snap Pixel connection.",
+      "auto": "Visits and purchases will be tracked automatically"
+    },
+    "gaDlg": {
+      "connectTitle": "Connect Google Analytics",
+      "connectDesc": "Paste your Measurement ID from Google Analytics, or the full tracking snippet.",
+      "measurementId": "Measurement ID",
+      "placeholder": "e.g. G-XXXXXXXXXX",
+      "manageTitle": "Manage Google Analytics",
+      "manageDesc": "Details of the current Google Analytics connection.",
+      "auto": "Visits and purchases will be tracked automatically"
+    },
+    "zoomDlg": {
+      "title": "Manage Zoom",
+      "desc": "Details of the Zoom account connected to your platform.",
+      "email": "Email",
+      "accountName": "Account name",
+      "auto": "Meeting links will be created automatically"
+    },
+    "gcalDlg": {
+      "title": "Manage Google Calendar",
+      "desc": "Details of the Google account connected to your platform.",
+      "email": "Email",
+      "auto": "Sessions and consultations will be added to your calendar automatically",
+      "busyTitle": "Sync busy times",
+      "busyDesc": "Hide busy times from your calendar on booking pages"
+    },
+    "guide": {
+      "title": "Integrations guide",
+      "desc": "Learn how to connect each app and its benefits.",
+      "pixels": "Meta / TikTok Pixel",
+      "pixelsDesc": "Paste the Pixel ID from your ads account to automatically track course page visits and purchase events.",
+      "meet": "Zoom / Google Meet",
+      "meetDesc": "Automatically create meeting links for live courses and consultations upon booking.",
+      "cal": "Google Calendar",
+      "calDesc": "Sync booked appointments with your Google Calendar and prevent scheduling conflicts.",
+      "analytics": "Google Analytics / Clarity",
+      "analyticsDesc": "Analyze visitor traffic and watch session recordings to improve your conversion rate.",
+      "done": "Done"
+    },
+    "gtmDlg": {
+      "connectTitle": "Connect Google Tag Manager",
+      "connectDesc": "Paste your container ID (GTM-XXXXXXX) or the full tracking snippet.",
+      "containerId": "Container ID",
+      "placeholder": "GTM-XXXXXXX",
+      "manageTitle": "Manage Google Tag Manager",
+      "manageDesc": "Your container is active on your public pages.",
+      "auto": "Page views and purchase events are pushed to the dataLayer automatically"
+    }
+  },
+  "contentBank": {
+    "title": "Content Bank (subscribers only)",
+    "newFolder": "New folder",
+    "newFolderTitle": "New folder",
+    "empty": "No folders yet",
+    "createFirst": "Create your first folder",
+    "noItems": "No items yet",
+    "untitledItem": "Untitled item",
+    "addItem": "Add item",
+    "uploadedFile": "Uploaded file",
+    "uploadTitle": "Upload file",
+    "toasts": {
+      "folderAdded": "Folder added",
+      "folderDeleted": "Folder deleted",
+      "itemAdded": "Item added",
+      "itemAddError": "Error adding item",
+      "fileUploaded": "File uploaded",
+      "fileUploadError": "Error uploading file"
+    },
+    "types": {
+      "rich": "Text & images",
+      "video": "Video",
+      "audio": "Audio",
+      "pdf": "PDF",
+      "link": "Link",
+      "button": "Button"
+    },
+    "add": {
+      "title": "Add new item",
+      "type": "Content type",
+      "itemTitle": "Item title",
+      "cancel": "Cancel",
+      "add": "Add"
+    },
+    "edit": {
+      "title": "Edit item",
+      "itemTitle": "Item title",
+      "content": "Content",
+      "contentPlaceholder": "Write content here... you can add images and formatting",
+      "videoSource": "Video source",
+      "uploadFile": "Upload file",
+      "ytLink": "YouTube link",
+      "ytUrl": "YouTube URL",
+      "file": "File",
+      "uploading": "Uploading...",
+      "replaceFile": "Replace current file",
+      "chooseFile": "Choose a file to upload",
+      "descOptional": "Description (optional)",
+      "descPlaceholder": "Write a short description...",
+      "url": "URL",
+      "buttonLabel": "Button text",
+      "buttonLabelPlaceholder": "Click here",
+      "buttonUrl": "Button URL",
+      "done": "Done"
+    },
+    "delete": {
+      "title": "Delete folder",
+      "desc": "Are you sure you want to delete this folder? All items inside will be permanently removed and this cannot be undone.",
+      "cancel": "Cancel",
+      "confirm": "Delete"
+    }
+  },
+  "giftPicker": {
+    "label": "Choose free gifts",
+    "placeholder": "Select courses and products to gift",
+    "empty": "No {{kind}} available to gift.",
+    "clearAll": "Clear all",
+    "done": "Done",
+    "kinds": {
+      "course": "Courses",
+      "live_course": "Live courses",
+      "digital_product": "Digital products",
+      "consultation": "Consultations"
+    }
+  },
+  "shareDialog": {
+    "title": "Share product",
+    "copied": "Link copied",
+    "copyError": "Copy failed",
+    "copy": "Copy",
+    "preview": "Preview"
+  },
+  "quizEditor": {
+    "loading": "Loading...",
+    "passPercentage": "Pass percentage (%)",
+    "addQuestion": "Add question",
+    "noQuestions": "No questions added yet",
+    "questionPlaceholder": "Question text",
+    "optionPlaceholder": "Option text",
+    "markCorrect": "Mark as correct answer",
+    "addOption": "Add option"
+  },
+  "certificateEditor": {
+    "title": "Certificate template",
+    "subtitle": "A unified template for everyone — student, course, and mentor names are filled in automatically",
+    "sampleStudent": "Mohamed Khaled",
+    "sampleCourse": "Course name",
+    "sampleMentor": "Mentor name",
+    "shortNameTitle": "Add my personal name as a signature",
+    "shortNameDesc": "Displays your personal name (from your profile) as a signature under your site name on the certificate",
+    "saved": "Setting saved",
+    "saveFailed": "Could not save the setting"
+  },
+  "salesOffers": {
+    "bumpTitle": "Order Bump",
+    "bumpSubtitle": "Extra offer during checkout",
+    "upsellTitle": "Upsell (post-purchase offer)",
+    "upsellSubtitle": "A special offer shown right after payment",
+    "offerType": "Offer type",
+    "kindCourse": "Course",
+    "kindProduct": "Digital product",
+    "featuredCourse": "Featured course",
+    "featuredProduct": "Featured digital product",
+    "pickCourse": "Choose a course",
+    "pickProduct": "Choose a digital product",
+    "bumpProduct": "Bumped product",
+    "bumpProductPlaceholder": "Choose a product to feature",
+    "offerTitleLabel": "Offer title",
+    "offerTitlePlaceholder": "Add this offer with a special discount!",
+    "bumpTitlePlaceholder": "e.g. Add the advanced course at a special price!",
+    "shortDescription": "Short description",
+    "shortDescriptionPlaceholder": "A brief description of the offer...",
+    "headline": "Main headline",
+    "headlinePlaceholder": "e.g. One-time offer only!",
+    "upsellDescription": "Offer description",
+    "upsellDescriptionPlaceholder": "Why should the student accept this offer...",
+    "originalPrice": "Original price (EGP)",
+    "offerPrice": "Offer price (EGP)",
+    "specialPrice": "Special price (EGP)",
+    "offerPricePlaceholderOptional": "Optional",
+    "offerPricePlaceholderNone": "Leave empty if there is no discount",
+    "originalPriceInfo": "Original price: {{price}} EGP",
+    "save": "Save settings",
+    "savedBump": "Order Bump settings saved successfully",
+    "savedUpsell": "Upsell settings saved successfully",
+    "saveError": "Failed to save",
+    "currency": "EGP",
+    "bumpHint": "Extra offer during checkout",
+    "upsellHint": "Special offer after purchase",
+    "edit": "Edit",
+    "notConfigured": "This offer hasn't been set up yet",
+    "active": "Active",
+    "inactive": "Inactive",
+    "dialogEditBump": "Edit Order Bump",
+    "dialogEditUpsell": "Edit Upsell"
+  },
+  "scheduleEditor": {
+    "title": "Edit availability schedule",
+    "subtitle": "Update the details of this availability schedule",
+    "save": "Save",
+    "saving": "Saving...",
+    "loadFailed": "Failed to load",
+    "titleRequired": "Title is required",
+    "saved": "Saved successfully",
+    "savedShort": "Saved",
+    "resetDay": "Day reset to default",
+    "tabs": {
+      "weekly": "Weekly hours",
+      "calendar": "Calendar"
+    },
+    "form": {
+      "titleLabel": "Title",
+      "titlePlaceholder": "e.g. Weekly consultation schedule",
+      "timezone": "Timezone"
+    },
+    "slots": {
+      "availableTimes": "Available times",
+      "hint": "ⓘ Please define your full working windows. The system will split your weekly hours based on product duration.",
+      "add": "Add time"
+    },
+    "override": {
+      "available": "Available for booking",
+      "disableHint": "Turn off to block bookings this day",
+      "from": "From",
+      "to": "To",
+      "remove": "Remove override",
+      "cancel": "Cancel",
+      "save": "Save"
+    },
+    "calendar": {
+      "clickToCustomize": "Click any day to customize",
+      "today": "Today",
+      "daysAvailable": "days available",
+      "customTimes": "custom time(s)",
+      "daysBlocked": "days blocked",
+      "custom": "Custom",
+      "more": "more",
+      "legend": {
+        "defaultAvailable": "Default available",
+        "custom": "Custom time",
+        "blocked": "Blocked",
+        "today": "Today"
+      }
+    },
+    "days": {
+      "sun": "Sun",
+      "mon": "Mon",
+      "tue": "Tue",
+      "wed": "Wed",
+      "thu": "Thu",
+      "fri": "Fri",
+      "sat": "Sat"
+    },
+    "months": {
+      "jan": "January",
+      "feb": "February",
+      "mar": "March",
+      "apr": "April",
+      "may": "May",
+      "jun": "June",
+      "jul": "July",
+      "aug": "August",
+      "sep": "September",
+      "oct": "October",
+      "nov": "November",
+      "dec": "December"
+    },
+    "period": {
+      "am": "AM",
+      "pm": "PM"
+    },
+    "timezones": {
+      "cairo": "Africa / Cairo (GMT+3)",
+      "riyadh": "Asia / Riyadh (GMT+3)",
+      "dubai": "Asia / Dubai (GMT+4)",
+      "london": "Europe / London",
+      "newYork": "America / New York"
+    }
+  },
+  "courseEditor": {
+    "title": "Edit Course",
+    "subtitle": "Edit course details and content",
+    "unpublishedTooltip": "This course is not currently published and will not be visible to students",
+    "unpublishedBadge": "⚠️ Product not published",
+    "publish": "Publish",
+    "preview": "Preview",
+    "save": "Save",
+    "saving": "Saving...",
+    "tabs": {
+      "productInfo": "Sales Page",
+      "content": "Content",
+      "pricing": "Price & Offer",
+      "contentBank": "Content Bank",
+      "aiBot": "AI Assistant",
+      "additionalSettings": "Additional Settings"
+    },
+    "contentTypes": {
+      "video": "Video",
+      "quiz": "Quiz",
+      "text": "Text & Images",
+      "featuredProduct": "Featured Product"
+    },
+    "pricing": {
+      "currentLabel": "Current:",
+      "free": "Free",
+      "currency": "EGP",
+      "priceLabel": "Course Price (EGP)",
+      "pricePlaceholder": "e.g. 650",
+      "priceBeforeDiscount": "Price Before Discount — optional",
+      "priceBeforeDiscountPlaceholder": "e.g. 1200"
+    },
+    "visibility": {
+      "title": "Unlisted Product",
+      "private": "Private",
+      "public": "Public",
+      "privateDesc": "Accessible by link only and hidden from your page",
+      "publicDesc": "Visible to everyone on the profile page"
+    },
+    "displayAndButtons": {
+      "title": "Display & Buttons",
+      "subtitle": "Display order and button text on pages",
+      "displayOrder": "Display order on the profile page",
+      "displayOrderHint": "Smaller number = shows first",
+      "decrement": "Decrement",
+      "increment": "Increment",
+      "buyButton": "Buy Button",
+      "salesPageBadge": "Sales page",
+      "buyButtonPlaceholder": "Subscribe now",
+      "cardButton": "Card Button",
+      "profileBadge": "Profile",
+      "cardButtonPlaceholder": "View course"
+    },
+    "support": {
+      "title": "Follow-up with subscribers",
+      "requiredWarning": "You must choose a follow-up method before publishing the course",
+      "community": "Course community",
+      "communityDesc": "Group or community exclusive to students",
+      "individual": "Individual follow-up",
+      "individualDesc": "Personal support and follow-up via WhatsApp",
+      "both": "Both",
+      "bothDesc": "Course community + individual follow-up"
+    },
+    "media": {
+      "sectionTitle": "🖼️ Media",
+      "edit": "Edit",
+      "salesPageImage": "Sales page image",
+      "bannerVideo": "Banner video",
+      "noImage": "No image uploaded",
+      "noVideo": "No video uploaded",
+      "dialogTitle": "Edit Media",
+      "dialogDesc": "Thumbnail and banner video for the sales page",
+      "imageLabel": "🖼️ Sales page image",
+      "imageHint": "Used as thumbnail everywhere and when sharing the link",
+      "noImageYet": "No image uploaded yet",
+      "videoLabel": "🎬 Banner video (optional)",
+      "videoHint": "Intro video that appears on the sales page instead of the image",
+      "noVideoYet": "No video uploaded yet",
+      "uploading": "Uploading...",
+      "changeImage": "Change image",
+      "uploadImage": "Upload image",
+      "deleteImage": "Delete image",
+      "changeVideo": "Change video",
+      "uploadVideo": "Upload video",
+      "deleteVideo": "Delete video"
+    },
+    "courseInfo": {
+      "sectionTitle": "📝 Course info",
+      "titleLabel": "Course title",
+      "detailsLabel": "Course details",
+      "notSet": "Not set",
+      "none": "Click the edit button to add a description and course details",
+      "dialogTitle": "Edit course info",
+      "dialogDesc": "Title and course details"
+    },
+    "faqs": {
+      "sectionTitle": "❓ FAQs",
+      "count": "FAQ",
+      "empty": "No FAQs added yet",
+      "dialogTitle": "Edit FAQs",
+      "dialogDesc": "The FAQs that appear on the sales page"
+    },
+    "common": {
+      "cancel": "Cancel",
+      "save": "Save",
+      "saving": "Saving..."
+    },
+    "curriculum": {
+      "title": "Sections & Lessons",
+      "newSection": "New Section"
+    },
+    "lessons": {
+      "addLesson": "Add lesson",
+      "freePreview": "Free preview",
+      "publishLesson": "Publish lesson",
+      "untitled": "Untitled lesson",
+      "queued": "Queued...",
+      "uploadLessonContent": "Upload lesson content",
+      "editLesson": "Edit lesson",
+      "titlePlaceholder": "Lesson title",
+      "descriptionPlaceholder": "Content description (optional)",
+      "published": "Published",
+      "uploadingFile": "Uploading file...",
+      "uploadedSuccessfully": "Uploaded successfully",
+      "image": "Image",
+      "video": "Video",
+      "audio": "Audio file",
+      "pdfFile": "PDF file",
+      "textContent": "Text content (supports HTML)",
+      "embedCode": "Embed code (HTML / iframe)",
+      "changeFile": "Change file",
+      "uploadDownloadFile": "Upload downloadable file",
+      "uploaded": "Uploaded",
+      "uploadEpub": "Upload EPUB file",
+      "uploadOffice": "Upload Office document",
+      "zoomLink": "Zoom meeting link",
+      "zoomHint": "\"Join meeting\" button will show for students",
+      "selectFeatured": "Select featured product",
+      "selectFeaturedPlaceholder": "Choose a product from your list",
+      "noProductsAvailable": "No products available",
+      "selectFeaturedHint": "Pick a program or product from your list to show it as a featured product",
+      "upsellLinks": "Additional product links",
+      "upsellPlaceholder": "One product link per line\nhttps://...\nhttps://...",
+      "upsellHint": "Put each product link on a separate line",
+      "done": "Done"
+    },
+    "pricingCard": {
+      "title": "Pricing",
+      "subtitle": "Set the selling price and the pre-discount price"
+    },
+    "gift": {
+      "title": "Add a free gift",
+      "desc": "Students receive free courses, digital products, or sessions upon purchase"
+    },
+    "additionalSettings": {
+      "title": "Additional settings",
+      "subtitle": "Choose the features that distinguish your course — they'll appear as icons on the course sales page",
+      "certificate": "Completion certificate",
+      "certificateDesc": "Students receive a certificate upon completing the course",
+      "lifetimeUpdates": "Lifetime updates",
+      "lifetimeUpdatesDesc": "The course receives continuous updates and new content"
+    },
+    "community": {
+      "linkLabel": "Course community/group link",
+      "linkPlaceholder": "https://chat.whatsapp.com/... or https://t.me/...",
+      "linkHint": "This link will be shown to subscribers after purchase so they can join the course community.",
+      "whatsappInfo": "Subscribers will contact you on WhatsApp for questions at:",
+      "whatsappMissing": "No WhatsApp number entered yet. Add your number from profile settings.",
+      "profileSettings": "Profile settings"
+    },
+    "addLesson": {
+      "title": "Add lesson content",
+      "contentType": "Content type",
+      "contentTypePlaceholder": "Choose content type",
+      "contentTitle": "Content title",
+      "titleFallback": "Lesson title",
+      "extraSettings": "Additional settings",
+      "description": "Content description",
+      "descriptionPlaceholder": "Short description of the lesson (optional)",
+      "freePreview": "Free preview",
+      "freePreviewDesc": "Allow non-subscribers to view this lesson on the sales page",
+      "cancel": "Cancel",
+      "add": "Add"
+    },
+    "deleteSection": {
+      "title": "Delete section",
+      "description": "Are you sure you want to delete this section? All lessons inside it will be permanently deleted and this action cannot be undone.",
+      "cancel": "Cancel",
+      "delete": "Delete"
+    },
+    "toasts": {
+      "requireSupportBeforePublish": "You must choose a subscriber support method before publishing the course",
+      "saveSuccess": "Saved successfully",
+      "saveError": "Error while saving",
+      "coverUploadSuccess": "Course cover uploaded successfully",
+      "imageUploadError": "Error uploading image",
+      "createVideoFailed": "Failed to create video",
+      "videoUploadFailed": "Failed to upload video",
+      "connectionError": "Connection error",
+      "bannerVideoUploadSuccess": "Banner video uploaded successfully",
+      "videoUploadError": "Error uploading video",
+      "uploadCancelled": "Upload cancelled",
+      "fileUploadFailed": "Failed to upload file",
+      "attachmentUploadSuccess": "Attachment uploaded successfully",
+      "attachmentUploadError": "Error uploading attachment",
+      "imageUploadSuccess": "Image uploaded successfully"
+    },
+    "priceTab": {
+      "tabTitle": "Price & Offer",
+      "tabSubtitle": "Control your product pricing and how it appears to students",
+      "pricingSection": "Pricing details",
+      "buttonsSection": "Purchase buttons",
+      "savings": "Save {{pct}}%",
+      "buyButtonLabel": "Sales page button text",
+      "cardButtonLabel": "Product card button text",
+      "orderTitle": "Display order",
+      "orderHint": "Priority on the profile page"
+    }
+  },
+  "unsavedChanges": {
+    "title": "You have unsaved changes",
+    "description": "Do you want to save your changes before leaving?",
+    "cancel": "Cancel",
+    "discard": "Discard changes",
+    "save": "Save",
+    "saving": "Saving..."
+  },
+  "uploadProgress": {
+    "uploadedSuccessfully": "Uploaded successfully",
+    "error": "Error"
+  },
+  "bunnyVideo": {
+    "processing": "Processing"
+  },
+  "iconPicker": {
+    "chooseIcon": "Choose an icon",
+    "noResults": "No results",
+    "searchPlaceholder": "Search icons..."
+  },
+  "platformAnnouncements": {
+    "aria": "Platform announcements",
+    "title": "Platform updates",
+    "subtitle": "Latest announcements and updates from Ebdaai",
+    "markAllRead": "Mark all as read",
+    "empty": "No updates right now",
+    "view": "View"
+  },
+  "liveCourseEditor": {
+    "terms": {
+      "productThe": {
+        "consultation": "the consultation",
+        "course": "the course"
+      },
+      "productA": {
+        "consultation": "consultation",
+        "course": "course"
+      },
+      "productYour": {
+        "consultation": "your consultation",
+        "course": "your live course"
+      },
+      "productsList": {
+        "consultation": "consultations",
+        "course": "courses"
+      }
+    },
+    "toasts": {
+      "loadFailed": "Failed to load data",
+      "titleRequired": "Title is required",
+      "saveError": "Save error",
+      "saved": "Saved successfully",
+      "genericError": "Error",
+      "imageUploaded": "Image uploaded",
+      "createVideoFailed": "Failed to create video",
+      "uploadFailed": "Upload failed",
+      "videoUploaded": "Video uploaded",
+      "fillAllFields": "Fill all fields",
+      "sessionSaved": "Saved",
+      "sessionUpdated": "Updated",
+      "zoomLinkCreated": "Zoom link created",
+      "zoomLinkExists": "Zoom link is ready",
+      "zoomLinkFailed": "Session saved, but the Zoom link could not be created",
+      "requiredMissing": "Please complete the following",
+      "sessionPast": "Session date and time must be in the future"
+    },
+    "tabs": {
+      "info": "Sales page",
+      "attendance": "Attendance",
+      "schedule": "Dates & sessions",
+      "pricing": "Price & display",
+      "contentBank": "Content bank",
+      "additionalSettings": "Additional settings",
+      "customers": "Customers"
+    },
+    "header": {
+      "editConsultation": "Edit consultation",
+      "editLive": "Edit live course",
+      "subConsultation": "Manage a consultation with bookable time slots",
+      "subLive": "Manage a course with scheduled sessions",
+      "notPublishedTooltip": "This product is not published and won't be visible to students",
+      "notPublished": "⚠️ Product not published",
+      "publish": "Publish",
+      "preview": "Preview",
+      "save": "Save",
+      "saving": "Saving...",
+      "editBundle": "Edit session bundle",
+      "subBundle": "Manage a bookable bundle of individual sessions"
+    },
+    "info": {
+      "media": "🖼️ Media",
+      "saleImage": "Sales page image",
+      "bannerVideo": "Banner video",
+      "noImage": "No image uploaded",
+      "noVideo": "No video uploaded",
+      "edit": "Edit",
+      "faqs": "❓ FAQs",
+      "faqCount": "FAQ",
+      "faqEmpty": "No FAQs added yet",
+      "productInfo": "📝 {{prod}} info",
+      "title": "Title",
+      "notSet": "Not set",
+      "capacity": "Available seats",
+      "shortDesc": "Short description",
+      "none": "Click the edit button to add a description and live course details",
+      "description": "Description",
+      "sessionDuration": "Session length",
+      "minutes": "minutes",
+      "schedule": "Availability schedule"
+    },
+    "mediaDialog": {
+      "title": "Edit media",
+      "desc": "Thumbnail and banner video for the sales page",
+      "saleImage": "🖼️ Sales page image",
+      "dims": "Recommended size 1600 × 900 pixels",
+      "uploading": "Uploading...",
+      "changeImage": "Change image",
+      "uploadImage": "Upload image",
+      "deleteImage": "Delete image",
+      "noImageYet": "No image uploaded yet",
+      "bannerVideoOptional": "🎬 Banner video (optional)",
+      "bannerVideoDesc": "Shown on the sales page instead of the image",
+      "changeVideo": "Change video",
+      "uploadVideo": "Upload video",
+      "deleteVideo": "Delete video",
+      "noVideoYet": "No video uploaded yet",
+      "cancel": "Cancel"
+    },
+    "infoDialog": {
+      "titlePrefix": "Edit {{prod}} info",
+      "desc": "Title, link and description",
+      "andConsultation": " and consultation settings",
+      "labelTitle": "{{prod}} title",
+      "phConsultation": "e.g., marketing consultation",
+      "phCourse": "e.g., English learning course",
+      "capacity": "Available seats",
+      "capacityPh": "Max attendance, e.g. 20",
+      "capacityHint": "Purchases will be blocked automatically once this is reached",
+      "shortDescLabel": "Short description",
+      "shortDescPh": "This description will appear in the {{list}} list",
+      "descLabel": "Description",
+      "consultSettings": "Consultation settings",
+      "consultSettingsDesc": "Set the session length and the availability schedule",
+      "duration": "Session length (minutes)",
+      "durationPh": "e.g. 30",
+      "durationHint": "Available slots will be split according to this length",
+      "scheduleLabel": "Available schedule",
+      "noSchedules": "No schedule has been created yet.",
+      "goToSchedules": "Go to schedules page to create one",
+      "chooseSchedule": "Choose a schedule",
+      "cancel": "Cancel",
+      "sessionsCount": "Sessions in bundle",
+      "sessionsCountHint": "How many appointments the student can book after purchase",
+      "minLeadHours": "Minimum notice (hours)",
+      "minLeadHoursHint": "Students cannot book closer than this to the start time",
+      "bufferSlots": "Buffer slots",
+      "bufferSlotsHint": "Slots blocked before and after each booking",
+      "bookingWindowDays": "Booking window (days)",
+      "bookingWindowDaysPh": "No limit",
+      "bookingWindowDaysHint": "How far ahead students can book",
+      "bookingStartDate": "Booking opens on",
+      "bookingEndDate": "Booking closes on"
+    },
+    "landingDialog": {
+      "title": "Edit FAQs",
+      "desc": "FAQs shown on the sales page",
+      "cancel": "Cancel"
+    },
+    "attendance": {
+      "method": "Attendance method",
+      "chooseMethod": "Choose an attendance method",
+      "chooseHint": "You must select an attendance method before saving the product",
+      "zoom": "Zoom",
+      "zoomDesc": "Meeting via Zoom",
+      "online": "Online",
+      "onlineDesc": "Google Meet or another link",
+      "inPerson": "In person",
+      "inPersonDesc": "At a specific location",
+      "zoomNote": "A Zoom meeting link will be created automatically from your linked account and sent to the customer by email after purchase.",
+      "zoomNotConnected": "Not connected",
+      "zoomNotConnectedHint": "Link your Zoom account first to use Zoom as an attendance method.",
+      "zoomConnectCta": "Connect",
+      "meetingLink": "Google Meet link or direct link",
+      "meetingHint": "Sent to the customer only after purchase",
+      "placeName": "Location name",
+      "placeNamePh": "e.g., Conference hall — Hotel ...",
+      "mapUrl": "Google Maps link",
+      "directions": "How to get there",
+      "directionsPh": "Detailed directions to the location"
+    },
+    "schedule": {
+      "title": "Sessions schedule",
+      "desc": "Add each session with its date, time and duration",
+      "addSession": "Add session",
+      "empty": "No sessions added yet",
+      "sessionNum": "Session {{num}}",
+      "save": "Save",
+      "cancel": "Cancel",
+      "sessionTitle": "Session title",
+      "sessionTitlePh": "e.g., Intro",
+      "sessionDate": "Session date",
+      "sessionTime": "Session time",
+      "durationMin": "Duration in minutes",
+      "creatingZoomLink": "Creating meeting link…"
+    },
+    "pricing": {
+      "headerTitle": "Price & display",
+      "headerDesc": "Control {{prod}}'s pricing, display, button labels, free gifts and sales offers",
+      "currentPrice": "Current price",
+      "free": "Free",
+      "egp": "EGP",
+      "pricingTitle": "Pricing",
+      "pricingDesc": "Set the sale price and the pre-discount price",
+      "priceLabel": "Price (EGP) — set 0 to make it free",
+      "priceBefore": "Price before discount — optional",
+      "priceBeforePh": "e.g., 500",
+      "unlistedTitle": {
+        "consultation": "Unlisted consultation",
+        "course": "Unlisted course"
+      },
+      "private": "Private",
+      "public": "Public",
+      "unlistedYes": "Works via link only and isn't shown on your page",
+      "unlistedNo": "Visible to everyone on the profile page",
+      "displaySection": "Display & buttons",
+      "displayDesc": "Display order and button labels across pages",
+      "displayOrder": "Order on the profile page",
+      "decrease": "Decrease",
+      "increase": "Increase",
+      "orderHint": "Lower number = appears first",
+      "buyButton": "Buy button",
+      "buyPage": "{{prod}} page",
+      "buyPh": {
+        "consultation": "Book your consultation",
+        "course": "Book now"
+      },
+      "cardButton": "Card button",
+      "cardPh": "Enroll now",
+      "addGift": "Add a free gift",
+      "giftDesc": "The student receives free courses, digital products or sessions with the purchase"
+    },
+    "additional": {
+      "title": "Additional settings",
+      "desc": "Choose the features of {{prod}} — they'll appear as icons on the sales page",
+      "certificate": "Completion certificate",
+      "certDesc": "Students receive a certificate on finishing {{prod}}",
+      "lifetime": "Lifetime updates",
+      "lifetimeDesc": {
+        "consultation": "The consultation keeps receiving updates and new content",
+        "course": "The course keeps receiving updates and new content"
+      },
+      "followup": "Follow-up with subscribers",
+      "community": "Course community",
+      "communityDesc": "A group or private community for students",
+      "individual": "One-on-one follow-up",
+      "individualDesc": "Personal support and follow-up via WhatsApp",
+      "both": "Both",
+      "bothDesc": "Course community + one-on-one follow-up",
+      "communityLink": "Community link",
+      "whatsappOn": "Subscribers will reach you on WhatsApp: ",
+      "whatsappMissing": "No WhatsApp number yet. Add yours from profile settings."
+    },
+    "customers": {
+      "title": "Registered customers",
+      "empty": "No customers yet"
+    },
+    "missing": {
+      "attendanceType": "Attendance method",
+      "meetingLink": "Meeting link",
+      "locationName": "Location name",
+      "locationMapUrl": "Map link",
+      "sessionDuration": "Session duration",
+      "schedule": "Availability schedule",
+      "sessionsCount": "Number of sessions in the bundle"
+    }
+  },
+  "digitalProductEditor": {
+    "toasts": {
+      "loadFail": "Failed to load product",
+      "titleRequired": "Title is required",
+      "needSupport": "You must choose a support method before publishing",
+      "saveError": "Save error",
+      "saveSuccess": "Saved successfully",
+      "imageError": "Image upload error",
+      "imageUploaded": "Image uploaded",
+      "videoCreateFail": "Failed to create video",
+      "uploadFail": "Upload failed",
+      "uploadError": "Error",
+      "videoUploaded": "Video uploaded",
+      "videoError": "Video upload error",
+      "fileUploadFail": "Failed to upload {{name}}",
+      "filesUploaded": "Files uploaded",
+      "filesPartial": "Uploaded {{done}} of {{total}}",
+      "error": "Error",
+      "fileDeleted": "Deleted",
+      "titleSaveError": "Failed to save title",
+      "sampleUploaded": "Sample file uploaded",
+      "sampleError": "Sample upload error",
+      "sampleCanceled": "Free sample removed"
+    },
+    "confirm": {
+      "deleteFile": "Delete file \"{{name}}\"?",
+      "cancelSample": "Remove the free sample?"
+    },
+    "header": {
+      "titleFallback": "Edit product",
+      "subtitle": "Edit digital product details and content",
+      "unpublishedTooltip": "This product is currently unpublished and not visible to students",
+      "unpublishedBadge": "⚠️ Unpublished",
+      "publish": "Publish",
+      "preview": "Preview",
+      "save": "Save",
+      "saving": "Saving..."
+    },
+    "tabs": {
+      "productInfo": "Sales page",
+      "content": "Content",
+      "pricing": "Price & display",
+      "additionalSettings": "Additional settings"
+    },
+    "media": {
+      "heading": "🖼️ Media",
+      "edit": "Edit",
+      "thumbLabel": "Sales page image",
+      "videoLabel": "Banner video",
+      "noImage": "No image uploaded",
+      "noVideo": "No video uploaded",
+      "dialogTitle": "Edit media",
+      "dialogDesc": "Thumbnail and banner video for the sales page",
+      "thumbCardTitle": "🖼️ Sales page image",
+      "thumbCardHint": "Shown as thumbnail everywhere",
+      "noImageYet": "No image uploaded yet",
+      "uploading": "Uploading...",
+      "changeImage": "Change image",
+      "uploadImage": "Upload image",
+      "deleteImage": "Delete image",
+      "videoCardTitle": "🎬 Banner video (optional)",
+      "videoCardHint": "Shown on the sales page instead of the image",
+      "noVideoYet": "No video uploaded yet",
+      "changeVideo": "Change video",
+      "uploadVideo": "Upload video",
+      "deleteVideo": "Delete video",
+      "cancel": "Cancel",
+      "save": "Save",
+      "saving": "Saving..."
+    },
+    "info": {
+      "heading": "📝 Product info",
+      "titleLabel": "Product title",
+      "notSet": "Not set",
+      "detailsLabel": "Product details",
+      "empty": "Click the edit button to add a description and product details",
+      "dialogTitle": "Edit product info",
+      "dialogDesc": "Title, link and product details",
+      "titleInput": "Product title",
+      "details": "Product details"
+    },
+    "faqs": {
+      "heading": "❓ FAQs",
+      "count": "FAQ",
+      "empty": "No FAQs added yet",
+      "dialogTitle": "Edit FAQs",
+      "dialogDesc": "Frequently asked questions shown on the sales page"
+    },
+    "contentTab": {
+      "heading": "Product files",
+      "subheading": "Files the customer downloads after purchase.",
+      "addFiles": "Add files",
+      "uploading": "Uploading ({{done}}/{{total}})",
+      "empty": "No files yet. Add downloadable files (PDF, ZIP, images...). You can select multiple files at once."
+    },
+    "pricing": {
+      "heading": "Pricing",
+      "subtitle": "Set the sale price and the price before discount",
+      "current": "Current:",
+      "free": "Free",
+      "currency": "EGP",
+      "priceLabel": "Product price (EGP)",
+      "oldPriceLabel": "Price before discount — optional",
+      "oldPricePlaceholder": "e.g. 500"
+    },
+    "unlisted": {
+      "heading": "Unlisted product",
+      "private": "Private",
+      "public": "Public",
+      "hintPrivate": "Works via direct link only, hidden from your page",
+      "hintPublic": "Visible to everyone on your profile page"
+    },
+    "display": {
+      "heading": "Display & buttons",
+      "subtitle": "Display order and button texts across pages",
+      "orderLabel": "Display order on profile page",
+      "decrease": "Decrease",
+      "increase": "Increase",
+      "orderHint": "Smaller number = shows first",
+      "buyBtnLabel": "Buy button",
+      "buyBtnBadge": "Sales page",
+      "buyPlaceholder": "Buy now",
+      "cardBtnLabel": "Card button",
+      "cardBtnBadge": "Profile",
+      "cardPlaceholder": "View product"
+    },
+    "gift": {
+      "heading": "Add a free gift",
+      "hint": "Student gets courses, digital products or sessions for free on purchase"
+    },
+    "additional": {
+      "heading": "Additional settings",
+      "subtitle": "Set the features that make your product stand out — shown as icons on the sales page"
+    },
+    "sample": {
+      "title": "Free preview before purchase",
+      "desc": "Upload a file the student can download and try before buying the full product",
+      "replace": "Replace",
+      "uploading": "Uploading sample file..."
+    },
+    "lifetime": {
+      "title": "Lifetime updates",
+      "desc": "Product receives ongoing updates and new content"
+    },
+    "support": {
+      "title": "Support for buyers",
+      "needChoice": "You must choose a support method before publishing",
+      "community": {
+        "label": "Product community",
+        "desc": "A group or dedicated community for customers"
+      },
+      "individual": {
+        "label": "Individual support",
+        "desc": "Personal support and follow-up via WhatsApp"
+      },
+      "both": {
+        "label": "Both",
+        "desc": "Product community + individual follow-up"
+      },
+      "communityLinkLabel": "Product community link",
+      "whatsappNote": "Customers will contact you on WhatsApp at:",
+      "whatsappMissing": "No WhatsApp number entered yet. Add it from profile settings."
+    }
+  },
+  "themeColorPicker": {
+    "title": "Public pages color",
+    "subtitle": "Pick the main color for your course and profile pages",
+    "save": "Save color",
+    "saving": "Saving...",
+    "errorTitle": "Error",
+    "errorDesc": "Failed to save color",
+    "successTitle": "Saved",
+    "successDesc": "Page color changed successfully",
+    "themes": {
+      "classicBlack": "Classic Black",
+      "emeraldGreen": "Emerald Green",
+      "vividPurple": "Vivid Purple",
+      "cherryRed": "Cherry Red",
+      "royalBlue": "Royal Blue",
+      "warmOrange": "Warm Orange",
+      "elegantPink": "Elegant Pink",
+      "deepIndigo": "Deep Indigo",
+      "luxuryGold": "Luxury Gold",
+      "custom": "Custom color"
+    },
+    "productsLabel": "Buy",
+    "customHint": "Click to pick a precise shade that matches your brand",
+    "customPickLabel": "Pick your custom color"
+  },
+  "advancedDateRangePicker": {
+    "quickRanges": "Quick ranges",
+    "compareToPrevious": "Compare to previous period",
+    "cancel": "Cancel",
+    "update": "Update",
+    "presets": {
+      "last24h": "Last 24 hours",
+      "today": "Today",
+      "yesterday": "Yesterday",
+      "today_yesterday": "Today and yesterday",
+      "last7": "Last 7 days",
+      "last14": "Last 14 days",
+      "last28": "Last 28 days",
+      "last30": "Last 30 days",
+      "last90": "Last 90 days",
+      "this_week": "This week",
+      "last_week": "Last week",
+      "this_month": "This month",
+      "last_month": "Last month",
+      "max": "Maximum"
+    }
+  },
+  "mentorSubscriptions": {
+    "title": "Manage subscriptions",
+    "subtitle": "Manage user subscriptions and billing",
+    "search": "Search...",
+    "allStatuses": "All statuses",
+    "active": "Active",
+    "expired": "Expired",
+    "cancelled": "Cancelled",
+    "allPlans": "All plans",
+    "monthly": "Monthly",
+    "yearly": "Yearly",
+    "allCourses": "All courses",
+    "clear": "Clear",
+    "refresh": "Refresh",
+    "listTitle": "Manage subscriptions ({{count}})",
+    "listCount": "Showing {{shown}} of {{total}} subscription",
+    "empty": "No subscriptions found"
+  },
+  "mentorDashboard": {
+    "orderStatus": {
+      "paid": "Completed",
+      "unpaid": "Incomplete",
+      "cancelled": "Cancelled",
+      "pending": "Awaiting payment"
+    },
+    "presets": {
+      "today": "Today"
+    },
+    "overview": {
+      "latestOrders": "Latest orders",
+      "viewAll": "View all",
+      "colProduct": "Product",
+      "colCustomer": "Customer",
+      "colAmount": "Amount",
+      "colStatus": "Status",
+      "colDate": "Date",
+      "noOrdersInPeriod": "No orders in this period",
+      "topProductsTitle": "Best-selling programs and products",
+      "noSalesYet": "No sales yet",
+      "ordersCount": "{{count}} order",
+      "ordersCount_plural": "{{count}} orders"
+    },
+    "toast": {
+      "notAllowed": "Not allowed",
+      "noPermission": "You don't have permission to access this page",
+      "notMentor": "This account is not a mentor account",
+      "createdCourse": "Course created",
+      "createError": "Create error",
+      "chooseSupportTitle": "Choose how to follow up with subscribers first",
+      "chooseSupportDesc": "The course was opened at the required section — pick a method and save.",
+      "deletedCourse": "Course deleted",
+      "imageUploaded": "Image uploaded successfully",
+      "imageUploadError": "Error while uploading the image",
+      "imageUploadFailed": "Image upload failed",
+      "fillAllFields": "Please fill in all fields and upload the ID images",
+      "withdrawalSent": "Your request was sent successfully",
+      "withdrawalSentDesc": "Your request will be reviewed and answered as soon as possible",
+      "slugMinLength": "Username must be at least 3 characters",
+      "slugDash": "Username cannot start or end with a dash",
+      "slugTaken": "Username unavailable, try another",
+      "slugUpdated": "Username updated successfully",
+      "profileSaved": "Profile saved",
+      "genericError": "An error occurred"
+    },
+    "unknown": "Unknown",
+    "free": "Free",
+    "egp": "EGP",
+    "devices": {
+      "mobile": "Mobile",
+      "desktop": "Desktop",
+      "tablet": "Tablet",
+      "smarttv": "Smart TV",
+      "other": "Other"
+    },
+    "countries": {
+      "EG": "Egypt",
+      "SA": "Saudi Arabia",
+      "AE": "UAE",
+      "US": "United States",
+      "GB": "United Kingdom",
+      "DE": "Germany",
+      "FR": "France",
+      "NL": "Netherlands",
+      "FI": "Finland",
+      "BE": "Belgium",
+      "QA": "Qatar",
+      "KW": "Kuwait",
+      "JO": "Jordan",
+      "MA": "Morocco",
+      "DZ": "Algeria",
+      "TN": "Tunisia",
+      "IQ": "Iraq",
+      "SY": "Syria",
+      "LB": "Lebanon",
+      "PS": "Palestine",
+      "YE": "Yemen",
+      "OM": "Oman",
+      "SD": "Sudan",
+      "LY": "Libya",
+      "TR": "Turkey",
+      "CA": "Canada",
+      "AU": "Australia",
+      "IN": "India"
+    },
+    "courses": {
+      "pageTitle": "Courses",
+      "pageSubtitle": "Create and manage your recorded video courses",
+      "viewCards": "Cards",
+      "viewTable": "Table",
+      "deleteDialog": {
+        "title": "Are you sure you want to delete this course?",
+        "description": "The course will be permanently deleted and this action cannot be undone.",
+        "cancel": "Cancel",
+        "confirm": "Delete course"
+      },
+      "deleteError": "Could not delete the course",
+      "new": "New course",
+      "newDialogTitle": "New course",
+      "titleLabel": "Course title",
+      "titlePlaceholder": "e.g., Digital Marketing Basics",
+      "cancel": "Cancel",
+      "create": "Create",
+      "creating": "Creating...",
+      "published": "Published",
+      "draft": "Unpublished",
+      "publish": "Publish course",
+      "unpublish": "Unpublish",
+      "edit": "Edit course",
+      "delete": "Delete course",
+      "empty": "No courses yet",
+      "createFirst": "Create your first course",
+      "col": {
+        "course": "Course",
+        "slug": "Slug",
+        "price": "Price",
+        "status": "Status",
+        "actions": "Actions"
+      }
+    }
+  },
+  "certificatePreview": {
+    "ariaLabel": "Certificate of completion for {{course}} — {{student}}",
+    "title": "Certificate of completion — {{course}}",
+    "scanToVerify": "Scan to verify",
+    "issueDate": "Issue date",
+    "certificateId": "Certificate ID: {{id}}",
+    "heading": "Certificate of Completion",
+    "awardedTo": "This certificate is proudly presented to",
+    "completedCourse": "for successfully completing",
+    "supervisedBy": "Supervised by"
+  },
+  "mentorSignup": {
+    "otp": {
+      "resumeBanner": "Finish confirming your email to continue",
+      "title": "Confirm your email",
+      "descriptionPrefix": "We sent a 6-digit confirmation code to",
+      "descriptionSuffix": ". Enter it below to complete your signup.",
+      "verifying": "Verifying...",
+      "confirm": "Confirm code",
+      "sending": "Sending...",
+      "resendIn": "Resend code in {{seconds}}s",
+      "resend": "Resend code",
+      "spamHint": "Can't find the email? Check your spam folder.",
+      "editEmail": "Edit email address"
+    },
+    "googlePhone": {
+      "resumeBanner": "Your account is incomplete — finish your details to continue",
+      "title": "Complete your details",
+      "subtitle": "We need your phone number to continue",
+      "firstName": "First name",
+      "lastName": "Last name",
+      "phone": "Phone number",
+      "saving": "Saving...",
+      "next": "Next"
+    },
+    "details": {
+      "resumeBanner": "Your account is incomplete — finish your details to continue",
+      "title": "Create your public page",
+      "subtitle": "These details will be shown to visitors on your page",
+      "username": "Username",
+      "usernamePlaceholder": "Your username",
+      "usernameLangWarning": "Use only English letters and numbers",
+      "available": "Available ✓",
+      "taken": "Taken",
+      "usernameHint": "Pick a username, e.g. dr-tarek-saeed or fadi-ibrahim (English letters, numbers, and dashes only)",
+      "brand": "Page name",
+      "brandPlaceholder": "Your name or brand",
+      "brandHint": "e.g. Fadi Ibrahim, Dr. Tarek Saeed",
+      "specialty": "Your field",
+      "specialtyPlaceholder": "Enter your field",
+      "specialtyHint": "e.g. Life coach, psychologist, teacher, nutritionist",
+      "saving": "Saving...",
+      "next": "Next"
+    },
+    "done": {
+      "title": "Your account is ready 🎉",
+      "subtitle": "Choose one of the options below to continue",
+      "completeProfile": "Complete your page details",
+      "addProduct": "Add a product",
+      "goToDashboard": "Go to your dashboard"
+    },
+    "form": {
+      "loading": "Loading...",
+      "signupWithGoogle": "Sign up with Google",
+      "or": "OR",
+      "firstName": "First name",
+      "lastName": "Last name",
+      "email": "Email",
+      "password": "Password",
+      "confirmPassword": "Confirm password",
+      "passwordMismatch": "Passwords don't match",
+      "processing": "Processing...",
+      "next": "Next",
+      "haveAccount": "Already have an account?",
+      "signIn": "Sign in",
+      "emailTypo": "\"{{typo}}\" looks wrong, did you mean \"{{correct}}\"?"
+    }
+  },
+  "pwa": {
+    "install": "Install app",
+    "howToTitle": "Install the app on your device",
+    "howToDescription": "Add the app to your device home screen to open it in one tap.",
+    "iosStep1": "Tap the Share button in the browser bar",
+    "iosStep2": "Choose \"Add to Home Screen\"",
+    "androidStep1": "Open the browser menu (⋮)",
+    "androidStep2": "Choose \"Install app\" or \"Add to Home screen\"",
+    "bannerText": "Install {{app}} to get notifications straight on your device",
+    "bannerCta": "Install",
+    "dismissBanner": "Dismiss",
+    "appFallbackName": "the app"
+  },
+  "richTextEditor": {
+    "sizes": {
+      "small": "Small",
+      "normal": "Normal",
+      "medium": "Medium",
+      "large": "Large",
+      "xlarge": "Very large"
+    },
+    "prompts": {
+      "linkTitle": "Enter link:",
+      "youtubeTitle": "Enter YouTube link:"
+    },
+    "toasts": {
+      "audioType": "Please choose an audio file",
+      "audioSize": "Audio file must be less than 20 MB",
+      "audioUploaded": "Audio uploaded successfully",
+      "audioFailed": "Failed to upload audio: ",
+      "imageType": "Please choose an image file",
+      "imageSize": "Image must be less than 5 MB",
+      "imageUploaded": "Image uploaded successfully",
+      "imageFailed": "Failed to upload image: ",
+      "unknownError": "Unknown error"
+    },
+    "titles": {
+      "bold": "Bold",
+      "italic": "Italic",
+      "underline": "Underline",
+      "h1": "Heading 1",
+      "h2": "Heading 2",
+      "h3": "Heading 3",
+      "fontSize": "Font size",
+      "textColor": "Text color",
+      "customColor": "Custom color",
+      "custom": "Custom",
+      "bgColor": "Background color",
+      "noBg": "No background",
+      "bulletList": "Bullet list",
+      "orderedList": "Numbered list",
+      "alignRight": "Align right",
+      "alignCenter": "Align center",
+      "alignLeft": "Align left",
+      "addLink": "Add link",
+      "removeLink": "Remove link",
+      "addYoutube": "Add YouTube video",
+      "addImage": "Add image",
+      "uploading": "Uploading...",
+      "addAudio": "Add audio",
+      "clearFormat": "Clear formatting",
+      "undo": "Undo",
+      "redo": "Redo"
+    }
+  }
+}
